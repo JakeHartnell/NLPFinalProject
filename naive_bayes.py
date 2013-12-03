@@ -1,3 +1,4 @@
+import nltk
 
 
 def get_comment_data(file_path, val):
@@ -20,7 +21,10 @@ def get_features(comment):
     '''
     given a comment, returns the features associated with the comment.
     '''
-    pass
+    ret = {}
+    ret['len'] = len(comment)
+    #naive and simple, just length to get it working.
+    return ret
 
 
 
