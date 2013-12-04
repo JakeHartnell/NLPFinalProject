@@ -55,8 +55,8 @@ def youtubeDataAPI():
 	yt_service.developer_key = 'AIzaSyBdrBfWQJS4mptTMedD82Xy88LI13t_s7s'
 	yt_service.client_id = 'NLTP'
 
-	#getAndPrintVideoCommentFeed(yt_service, "kffacxfA7G4", "bad")
-	getAndPrintVideoCommentFeed(yt_service, "vqQghwDtqTQ", "good")
+	getAndPrintVideoCommentFeed(yt_service, "K8WGYuSGRmI", "bad")
+	#getAndPrintVideoCommentFeed(yt_service, "vqQghwDtqTQ", "good")
 
 def getAndPrintVideoCommentFeed(yt_service, video_id, tag):
 	feed = yt_service.GetYouTubeVideoCommentFeed(video_id=video_id)
@@ -99,7 +99,7 @@ def writeToFile(file, comments):
 	g.write(comments)
 	g.close()
 
-redditData()
+youtubeDataAPI()
 
 
 
