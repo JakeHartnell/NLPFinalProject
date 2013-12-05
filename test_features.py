@@ -76,4 +76,26 @@ def isPunctuation(comment):
                 return False
     return True
 
-print just_numeral("500..000 50,,59 40")
+def consecutive_char(comment):
+    '''
+    Returns the length of the longest consecutive characters chain
+    '''
+    words = comment.split(" ")
+    chainLen = 1
+    longestChain = 1
+
+    # Loop through the words to find a long chain
+    for word in words:
+        for i in range(len(word) - 1):
+            if(word[i] == word[i+1]):
+                chainLen += 1
+            else:
+                if chainLen > longestChain:
+                    longestChain = chainLen
+                chainLen = 1
+        if chainLen > longestChain:
+            longestChain = chainLen
+
+    return longestChain
+
+print consecutive_char("hellooooo this is awesooooooome uhuu whadduuuuup")

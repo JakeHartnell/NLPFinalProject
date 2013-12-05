@@ -145,6 +145,34 @@ def avg_sentence_length(comment):
     lengths = [len(sent) for sent in split_sent]
     return sum(lengths)/len(lengths)
 
+def consecutive_char(comment):
+    '''
+    Returns the length of the longest consecutive characters chain
+    '''
+    words = comment.split(" ")
+    # A chain is obviously always 1
+    chainLen = 1
+    longestChain = 1
+
+    # Loop through the words to find a long chain
+    for word in words:
+        # Loop through the whole word
+        for i in range(len(word) - 1):
+            # If the current char is equal to the next one, increase by 1
+            if(word[i] == word[i+1]):
+                chainLen += 1
+            else:
+                # The chain is broken, lets store it if it is longer than the longest chain so far.
+                if chainLen > longestChain:
+                    longestChain = chainLen
+                # Reset the chain length
+                chainLen = 1
+        # If it was the last character of the word, we still need to store the chain length (if it is the longest one)
+        if chainLen > longestChain:
+            longestChain = chainLen
+
+    return longestChain
+
 def get_features(comment):
     '''
     given a comment, returns the features associated with the comment.
@@ -167,7 +195,7 @@ def get_features(comment):
     features['.com'] = '.com' in comment
     features['badword'] = num_bad_word(comment)
     features['len'] = len(comment)
-    #features['2charchain'] = num_two_char_rep(comment)
+    features['2charchain'] = num_two_char_rep(comment)
 
     #naive and simple, just length to get it working.
     return features
