@@ -146,12 +146,15 @@ def avg_sentence_length(comment):
     '''
     split_sent = re.split('.|\n| ',comment)
     lengths = [len(sent) for sent in split_sent]
-    if length == 0:
+    if len(lengths) == 0:
         return 0
     return sum(lengths)/len(lengths)
 
-def con_line_breaks(comment):
+def cont_line_breaks(comment):
+    '''
     
+    '''
+    pass
 
 def get_features(comment):
     '''
@@ -163,6 +166,7 @@ def get_features(comment):
     #continuoys line breaks #me
     #slang / foreign language
 
+    #features['cont_line_breaks'] = cont_line_breaks(comment)
     features['avg_sent_length'] = avg_sentence_length(comment)
     features['line_breaks'] = comment.count("\n")
     features['just_num'] = just_numeral(comment)
