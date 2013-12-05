@@ -1,4 +1,5 @@
 import nltk
+import re
 
 def get_comment_data(file_path, val):
     '''
@@ -116,6 +117,14 @@ def just_numeral(comment):
             return False
     return True
 
+def avg_sentence_length(comment):
+    '''
+    Given a comment, returns the average sentence length.
+    Splits sentence by line breaks and periods
+    '''
+    split_sent = re.split('.|\n| ',comment)
+    lengths = [len(sent) for sent in split_sent]
+    return sum(lengths)/len(lengths)
 
 def get_features(comment):
     '''
@@ -125,10 +134,10 @@ def get_features(comment):
 
     #longest length of consecutive char
     #continuoys line breaks
-    #average length of sentence [line break vs 
     #slang / foreign language
     #boolean for punctuation
 
+    features['avg_sent_length'] = avg_sentence_length(comment)
     features['line_breaks'] = comment.count("\n")
     features['just_num'] = just_numeral(comment)
     features['white_space_ratio'] = white_space_ratio(comment)
