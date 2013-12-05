@@ -24,6 +24,8 @@ def alpha_num_ratio(comment):
     returns the ratio of alpha alpha numeric characters in the comment
     '''
     total = float(len(comment))
+    if total == 0.0:
+        return 0
     alpha_num = sum([1 for word in comment if word.isalnum()])
     return alpha_num/total
 
@@ -52,7 +54,6 @@ def num_one_char_words(comment):
     for word in words:
         if len(word) == 1:
             count += 1
-
     return count
 
 def num_two_char_rep(comment):
@@ -96,6 +97,8 @@ def white_space_ratio(comment):
     Given a comment, returns the ratio of the length of the comment
     and the white space.
     '''
+    if len(comment) == 0:
+        return 0
     white_space_count = float(comment.count(" "))
     return white_space_count/len(comment)
 
@@ -143,8 +146,11 @@ def avg_sentence_length(comment):
     '''
     split_sent = re.split('.|\n| ',comment)
     lengths = [len(sent) for sent in split_sent]
+    if len(lengths) == 0:
+        return 0
     return sum(lengths)/len(lengths)
 
+<<<<<<< HEAD
 def consecutive_char(comment):
     '''
     Returns the length of the longest consecutive characters chain
@@ -172,6 +178,13 @@ def consecutive_char(comment):
             longestChain = chainLen
 
     return longestChain
+=======
+def cont_line_breaks(comment):
+    '''
+    
+    '''
+    pass
+>>>>>>> eb6776614beb0022ad3f4b74dfe0639ce6bbf8c9
 
 def get_features(comment):
     '''
@@ -180,9 +193,10 @@ def get_features(comment):
     features = {}
 
     #longest length of consecutive char
-    #continuoys line breaks
+    #continuoys line breaks #me
     #slang / foreign language
 
+    #features['cont_line_breaks'] = cont_line_breaks(comment)
     features['avg_sent_length'] = avg_sentence_length(comment)
     features['line_breaks'] = comment.count("\n")
     features['just_num'] = just_numeral(comment)
