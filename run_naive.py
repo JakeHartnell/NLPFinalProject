@@ -27,8 +27,7 @@ train_set, test_set = combined_feature_sets[size:], combined_feature_sets[:size]
 classifier = nltk.NaiveBayesClassifier.train(train_set)
 
 #checking the accuracy of the training data.
-print nltk.classify.accuracy(classifier, test_set)
-
+print "current accuracy: %s" % nltk.classify.accuracy(classifier, test_set)
 
 def classify_with_NB(comment):
     #Given a string of comment
