@@ -150,7 +150,6 @@ def avg_sentence_length(comment):
         return 0
     return sum(lengths)/len(lengths)
 
-<<<<<<< HEAD
 def consecutive_char(comment):
     '''
     Returns the length of the longest consecutive characters chain
@@ -178,13 +177,12 @@ def consecutive_char(comment):
             longestChain = chainLen
 
     return longestChain
-=======
+
 def cont_line_breaks(comment):
     '''
     
     '''
     pass
->>>>>>> eb6776614beb0022ad3f4b74dfe0639ce6bbf8c9
 
 def get_features(comment):
     '''
@@ -196,6 +194,7 @@ def get_features(comment):
     #continuoys line breaks #me
     #slang / foreign language
 
+    features['longestchain'] = consecutive_char(comment)
     #features['cont_line_breaks'] = cont_line_breaks(comment)
     features['avg_sent_length'] = avg_sentence_length(comment)
     features['line_breaks'] = comment.count("\n")
