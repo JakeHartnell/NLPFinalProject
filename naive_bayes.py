@@ -24,6 +24,8 @@ def alpha_num_ratio(comment):
     returns the ratio of alpha alpha numeric characters in the comment
     '''
     total = float(len(comment))
+    if total == 0.0:
+        return 0
     alpha_num = sum([1 for word in comment if word.isalnum()])
     return alpha_num/total
 
@@ -152,7 +154,7 @@ def get_features(comment):
     features = {}
 
     #longest length of consecutive char
-    #continuoys line breaks
+    #continuoys line breaks #me
     #slang / foreign language
 
     features['avg_sent_length'] = avg_sentence_length(comment)
