@@ -53,6 +53,7 @@ def num_one_char_words(comment):
 
     return count
 
+<<<<<<< HEAD
 def num_two_char_rep(comment):
     '''
     returns the number of two similar characters in a row, such as: ssoonngg (would return 3)
@@ -88,6 +89,17 @@ def num_two_char_rep(comment):
             i += 2
 
     return count
+=======
+def white_space_ratio(comment):
+    '''
+    Given a comment, returns the ratio of the length of the comment
+    and the white space.
+    '''
+    white_space_count = float(comment.count(" "))
+    return white_space_count/len(comment)
+
+
+>>>>>>> f818e56502976de7f35e875e1756f85de4bd9212
 
 def get_features(comment):
     '''
@@ -95,7 +107,11 @@ def get_features(comment):
     '''
     features = {}
 
+<<<<<<< HEAD
     #ratio of white space
+=======
+    #number of 2 char repetition
+>>>>>>> f818e56502976de7f35e875e1756f85de4bd9212
     #longest length of consecutive char
     #continuoys line breaks
     #number of line breaks
@@ -104,6 +120,7 @@ def get_features(comment):
     #just numeral?
     #boolean for punctuation
 
+    features['white_space_ratio'] = white_space_ratio(comment)
     features['shortwords'] = num_one_char_words(comment)
     features['alpha_num'] = alpha_num_ratio(comment)
     features['*'] = comment.count("*")
