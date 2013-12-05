@@ -1,9 +1,6 @@
 import nltk
-<<<<<<< HEAD
 import string
-=======
 import re
->>>>>>> f413da702f7d3c11be97f1447c3b0a69c6e2af9f
 
 def get_comment_data(file_path, val):
     '''
@@ -126,7 +123,6 @@ def just_numeral(comment):
             return False
     return True
 
-<<<<<<< HEAD
 def just_punctuation(comment):
     '''
     @return true if comment is only numeral
@@ -139,7 +135,7 @@ def just_punctuation(comment):
             if char not in string.punctuation:
                 return False
     return True
-=======
+
 def avg_sentence_length(comment):
     '''
     Given a comment, returns the average sentence length.
@@ -148,7 +144,6 @@ def avg_sentence_length(comment):
     split_sent = re.split('.|\n| ',comment)
     lengths = [len(sent) for sent in split_sent]
     return sum(lengths)/len(lengths)
->>>>>>> f413da702f7d3c11be97f1447c3b0a69c6e2af9f
 
 def get_features(comment):
     '''
