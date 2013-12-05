@@ -1,4 +1,5 @@
 import nltk
+import string
 
 def get_comment_data(file_path, val):
     '''
@@ -111,9 +112,27 @@ def just_numeral(comment):
     '''
     @return true if comment is only numeral
     '''
-    for c in comment:
+    comment = comment.replace(".", "")
+    comment = comment.replace(",", "")
+
+    words = comment.split(" ")
+
+    for c in words:
         if not is_number(c):
             return False
+    return True
+
+def just_punctuation(comment):
+    '''
+    @return true if comment is only numeral
+    '''
+    words = comment.split(" ")
+
+    for c in words:
+
+        for char in c:
+            if char not in string.punctuation:
+                return False
     return True
 
 def get_features(comment):
@@ -124,12 +143,10 @@ def get_features(comment):
 
     #longest length of consecutive char
     #continuoys line breaks
-    #number of line breaks
-    #average length of sentence [line break vs 
     #slang / foreign language
-    #boolean for punctuation
 
     features['just_num'] = just_numeral(comment)
+    features['just_punct'] = just_punctuation(comment)
     features['white_space_ratio'] = white_space_ratio(comment)
     features['shortwords'] = num_one_char_words(comment)
     features['alpha_num'] = alpha_num_ratio(comment)

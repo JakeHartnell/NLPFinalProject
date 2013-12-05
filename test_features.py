@@ -1,3 +1,5 @@
+import string
+
 def num_two_char_rep(comment):
     '''
     returns the number of two similar characters in a row, such as: ssoonngg (would return 3)
@@ -34,4 +36,44 @@ def num_two_char_rep(comment):
 
     return count
 
-print num_two_char_rep("ssoonn")
+def just_numeral(comment):
+    '''
+    @return true if comment is only numeral
+    '''
+    comment = comment.replace(".", "")
+    comment = comment.replace(",", "")
+
+    print comment
+
+    words = comment.split(" ")
+
+    for c in words:
+        if not is_number(c):
+            return False
+    return True
+
+def is_number(s):
+    '''
+    checks to see if the char is a number
+    '''
+    try:
+        float(s)
+        return True
+    except ValueError:
+        return False
+
+def isPunctuation(comment):
+    '''
+    @return true if comment is only numeral
+    '''
+    words = comment.split(" ")
+
+    for c in words:
+        print c
+
+        for char in c:
+            if char not in string.punctuation:
+                return False
+    return True
+
+print just_numeral("500..000 50,,59 40")
