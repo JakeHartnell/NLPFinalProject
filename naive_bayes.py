@@ -54,7 +54,6 @@ def num_one_char_words(comment):
     for word in words:
         if len(word) == 1:
             count += 1
-
     return count
 
 def num_two_char_rep(comment):
@@ -98,6 +97,8 @@ def white_space_ratio(comment):
     Given a comment, returns the ratio of the length of the comment
     and the white space.
     '''
+    if len(comment) == 0:
+        return 0
     white_space_count = float(comment.count(" "))
     return white_space_count/len(comment)
 
@@ -145,7 +146,12 @@ def avg_sentence_length(comment):
     '''
     split_sent = re.split('.|\n| ',comment)
     lengths = [len(sent) for sent in split_sent]
+    if length == 0:
+        return 0
     return sum(lengths)/len(lengths)
+
+def con_line_breaks(comment):
+    
 
 def get_features(comment):
     '''
