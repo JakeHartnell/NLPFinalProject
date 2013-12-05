@@ -5,6 +5,12 @@ from itertools import islice
 from urllib import urlencode
 import run_naive
 
+# To sign up for a username go to http://hypothes.is/alpha and download the Chrome Extension
+# Use those details to access the API. 
+USERNAME = raw_input("Enter username:")
+PASSWORD = raw_input("Enter password:")
+
+
 # do get to get 2 tokens CSFR
 # https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet
 # http://list.hypothes.is/archive/dev/2013-10/0000096.html
@@ -16,8 +22,6 @@ import run_naive
 
 ### Customize what the area to evaluate is.
 ### Print comment and then rating.
-USERNAME = raw_input("Enter username:")
-PASSWORD = raw_input("Enter password:")
 # USER = raw_input("Enter a username to evaluate:")
 # URL
 # TAG
