@@ -53,6 +53,16 @@ def num_one_char_words(comment):
 
     return count
 
+def white_space_ratio(comment):
+    '''
+    Given a comment, returns the ratio of the length of the comment
+    and the white space.
+    '''
+    white_space_count = float(comment.count(" "))
+    return white_space_count/len(comment)
+
+
+
 def get_features(comment):
     '''
     given a comment, returns the features associated with the comment.
@@ -60,7 +70,6 @@ def get_features(comment):
     features = {}
 
     #number of 2 char repetition
-    #ratio of white space
     #longest length of consecutive char
     #continuoys line breaks
     #number of line breaks
@@ -69,6 +78,7 @@ def get_features(comment):
     #just numeral?
     #boolean for punctuation
 
+    features['white_space_ratio'] = white_space_ratio(comment)
     features['shortwords'] = num_one_char_words(comment)
     features['alpha_num'] = alpha_num_ratio(comment)
     features['*'] = comment.count("*")
