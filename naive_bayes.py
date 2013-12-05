@@ -116,6 +116,7 @@ def just_numeral(comment):
             return False
     return True
 
+
 def get_features(comment):
     '''
     given a comment, returns the features associated with the comment.
@@ -124,11 +125,11 @@ def get_features(comment):
 
     #longest length of consecutive char
     #continuoys line breaks
-    #number of line breaks
     #average length of sentence [line break vs 
     #slang / foreign language
     #boolean for punctuation
 
+    features['line_breaks'] = comment.count("\n")
     features['just_num'] = just_numeral(comment)
     features['white_space_ratio'] = white_space_ratio(comment)
     features['shortwords'] = num_one_char_words(comment)
