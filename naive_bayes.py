@@ -61,7 +61,24 @@ def white_space_ratio(comment):
     white_space_count = float(comment.count(" "))
     return white_space_count/len(comment)
 
+def is_number(s):
+    '''
+    checks to see if the char is a number
+    '''
+    try:
+        float(s)
+        return True
+    except ValueError:
+        return False
 
+def just_numeral(comment):
+    '''
+    @return true if comment is only numeral
+    '''
+    for c in comment:
+        if not is_number(c):
+            return False
+    return True
 
 def get_features(comment):
     '''
@@ -75,9 +92,9 @@ def get_features(comment):
     #number of line breaks
     #average length of sentence [line break vs 
     #slang / foreign language
-    #just numeral?
     #boolean for punctuation
 
+    features['just_num'] = just_numeral(comment)
     features['white_space_ratio'] = white_space_ratio(comment)
     features['shortwords'] = num_one_char_words(comment)
     features['alpha_num'] = alpha_num_ratio(comment)

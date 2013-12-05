@@ -25,6 +25,13 @@ train_set, test_set = combined_feature_sets[size:], combined_feature_sets[:size]
 
 #train the classifier using the training data
 classifier = nltk.NaiveBayesClassifier.train(train_set)
+#classifier = nltk.SvmClassifier.train(train_set)
+#classifier = nltk.DecisionTreeClassifier.train(train_set)
+#classifier = nltk.MaxentClassifier.train(train_set)
+#classifier = nltk.weka.WekaClassifier.train(train_set)
+
+#nltk.classify.rte_classify
+
 
 #checking the accuracy of the training data.
 print "current accuracy: %s" % nltk.classify.accuracy(classifier, test_set)
