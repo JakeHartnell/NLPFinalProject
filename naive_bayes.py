@@ -217,9 +217,6 @@ def detect_language(comment):
     # Get the key with the highest value
     most_rated_language = max(languages_ratios, key=languages_ratios.get)
 
-    if most_rated_language != 'english':
-        print comment, most_rated_language
-
     return most_rated_language
 
 def get_features(comment):
