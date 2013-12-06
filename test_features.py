@@ -1,4 +1,6 @@
 import string
+from nltk import wordpunct_tokenize
+from nltk.corpus import stopwords
 
 def num_two_char_rep(comment):
     '''
@@ -98,4 +100,41 @@ def consecutive_char(comment):
 
     return longestChain
 
-print consecutive_char("hellooooo this is awesooooooome uhuu whadduuuuup")
+def detect_language(comment):
+    '''
+    To detect language we could compare a comment to stopwords from each language. The language that has most
+    stopwords in common with the comment is likely to be the language in which the comment is written. This is obviously
+    not waterproof, however, a well written comment would work way better than a comment written in slang or with poor
+    grammar. Ultimately, this would likely result in comments that are more valuable because of their structure.
+    In addition, languages that are easily distinguished from English could be detected, thus being able to compare the
+    language of a comment to the actual content that is annotated in Hypothes.is, since most users won't understand
+    comments in a different language anyway. 
+    '''
+
+    # first we tokenize the comment
+    tokens = wordpunct_tokenize(comment)
+    words = [word.lower() for word in tokens]
+
+    languages_ratios = {}
+
+    # Then we compare the words to the most frequent stopwords per language
+    for language in stopwords.fileids():
+        stopwords_set = set(stopwords.words(language))
+        words_set = set(words)
+        common_elements = words_set.intersection(stopwords_set)
+
+        # Calculate the language score
+        languages_ratios[language] = len(common_elements)
+
+    # Get the key with the highest value
+    most_rated_language = max(languages_ratios, key=languages_ratios.get)
+
+    return most_rated_language
+
+print detect_language("This is written in!") # English
+print detect_language("Dit is een comment") # Dutch
+print detect_language("Esto esta escrito en") #Spanish
+print detect_language("Detta ar skrivet pa") # Swedish
+
+
+
