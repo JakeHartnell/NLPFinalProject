@@ -8,7 +8,6 @@ bad_training_raw = nb.get_comment_data('bad.txt', 1)
 #get the features for the negative comment data
 bad_training_features = [(nb.get_features(comment), val) for (comment, val) in bad_training_raw.items()]
 
-
 #get positibe comment data as hash, assign val = -1 in hash
 good_training_raw = nb.get_comment_data('good.txt', -1)
 
@@ -32,7 +31,6 @@ classifier = nltk.NaiveBayesClassifier.train(train_set)
 
 #nltk.classify.rte_classify
 
-
 #checking the accuracy of the training data.
 print "current accuracy: %s" % nltk.classify.accuracy(classifier, test_set)
 
@@ -43,3 +41,20 @@ def classify_with_NB(comment):
     comment_feature = (nb.get_features(comment))
     return classifier.classify(comment_feature)
     
+def update_good(good_comment):
+    '''
+    Given a known good comment, add the good_comment into the training db
+    '''
+    with open("good.txt", "a") as myfile:
+        myfile.write("##")
+        myfile.write(good_comment)
+
+
+
+def update_bad(bad_comment):
+    '''
+    Given a known bad comment, add the ba_comment into the training db
+    '''
+    with open("bad.txt", "a") as myfile:
+        myfile.write("##")
+        myfile.write(bad_comment)
