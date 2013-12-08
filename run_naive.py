@@ -1,4 +1,4 @@
-import naive_bayes as nb
+import feature_util as nb #used to be native_bayes, which is why it is nb
 import nltk
 import random
 
