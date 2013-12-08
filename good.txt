@@ -3792,4 +3792,27 @@ Who came here just to give it a dislike?﻿
 Justin has came a long way... love him♥﻿
 ##
 Your my idol love this song 💝💝💝﻿
-
+##
+This personal journey gives meaning to the macro text: the Biennial and its exhibitions, site-
+specific projects, performances, film program and lectures.
+##
+This fn [96] links to reference to I.M. Pei.
+##
+War between the USSR and Japan commenced in September 1945
+##
+Later radar imaging was used to assist bombing cloud covered targets.
+##
+Do you think we should reproduce the anchor in the quote? We could conceivably whitelist safe 
+HTML to lift. Right now we just capture the text.
+##
+This should be fixed now. These pages should load more quickly.
+##
+Thanks, @kristina. Opened an issue: https://github.com/hypothesis/h/issues/817
+##
+It's tail was actual neon? Like it's a cyborg cat?
+##
+There's an open issue about this and other enhancements to our text, like @-references, on github 
+at hypothesis/h.
+##
+Delete is available now.  All annotations are web resources and can be saved and archived in the
+usual ways.  Let us know if you have more detailed requirements...
