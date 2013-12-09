@@ -9,13 +9,13 @@ blacklist = nb.get_blacklist_data('data/blacklist_words')
 #bad_training_raw = nb.get_comment_data('bad.txt', 1)
 bad_training_raw = nb.grab_comment_data_dir_walk('data/', 'bad', 1)
 
-print "\nBeginning feature extraction"
-#get the features for the negative comment data
-bad_training_features = [(nb.get_features(comment, blacklist), val) for (comment, val) in bad_training_raw.items()]
-
 #get positibe comment data as hash, assign val = -1 in hash
 #good_training_raw = nb.get_comment_data('good.txt', -1)
 good_training_raw = nb.grab_comment_data_dir_walk('data/', 'good', -1)
+
+print "\nBeginning feature extraction"
+#get the features for the negative comment data
+bad_training_features = [(nb.get_features(comment, blacklist), val) for (comment, val) in bad_training_raw.items()]
 
 #get the features for the positive comment data
 good_training_features = [(nb.get_features(comment, blacklist), val) for (comment, val) in good_training_raw.items()]

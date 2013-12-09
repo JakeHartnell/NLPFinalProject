@@ -284,7 +284,6 @@ def get_features(comment, blacklist):
     features['len'] = len(comment)
     features['2charchain'] = num_two_char_rep(comment)
 
-    #naive and simple, just length to get it working.
     return features
 
 
