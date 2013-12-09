@@ -3816,3 +3816,6 @@ at hypothesis/h.
 ##
 Delete is available now.  All annotations are web resources and can be saved and archived in the
 usual ways.  Let us know if you have more detailed requirements...
+##
+This is not actually what the study says. The study did NOT find that women's brains are _designed_
+for social skills and memory. #poorchoiceoflanguage #becarefulwhentalkingaboutscience
