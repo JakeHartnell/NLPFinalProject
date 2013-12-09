@@ -3,16 +3,18 @@ import nltk
 import random
 
 #Grab the black list word data
-blacklist = nb.get_blacklist_data('blacklist_words')
+blacklist = nb.get_blacklist_data('data/blacklist_words')
 
 #get negative comment data as hash, assign val = 1 in hash
-bad_training_raw = nb.get_comment_data('bad.txt', 1)
+#bad_training_raw = nb.get_comment_data('bad.txt', 1)
+bad_training_raw = nb.grab_comment_data_dir_walk('data/', 'bad', 1)
 
 #get the features for the negative comment data
 bad_training_features = [(nb.get_features(comment, blacklist), val) for (comment, val) in bad_training_raw.items()]
 
 #get positibe comment data as hash, assign val = -1 in hash
-good_training_raw = nb.get_comment_data('good.txt', -1)
+#good_training_raw = nb.get_comment_data('good.txt', -1)
+good_training_raw = nb.grab_comment_data_dir_walk('data/', 'good', -1)
 
 #get the features for the positive comment data
 good_training_features = [(nb.get_features(comment, blacklist), val) for (comment, val) in good_training_raw.items()]
@@ -25,6 +27,7 @@ random.shuffle(combined_feature_sets)
 size = int(len(combined_feature_sets) * 0.9)
 train_set, test_set = combined_feature_sets[size:], combined_feature_sets[:size]
 
+print "Begin traininig classifier"
 #train the classifier using the training data
 classifier = nltk.NaiveBayesClassifier.train(train_set)
 #classifier = nltk.SvmClassifier.train(train_set)
@@ -49,15 +52,13 @@ def update_good(good_comment):
     Given a known good comment, add the good_comment into the training db
     '''
     with open("good.txt", "a") as myfile:
-        myfile.write("##")
+        myfile.write("\n##\n")
         myfile.write(good_comment)
-
-
 
 def update_bad(bad_comment):
     '''
     Given a known bad comment, add the ba_comment into the training db
     '''
     with open("bad.txt", "a") as myfile:
-        myfile.write("##")
+        myfile.write("\n##\n")
         myfile.write(bad_comment)

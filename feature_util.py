@@ -1,18 +1,39 @@
 import nltk
 import string
 import re
+import os
 
 # Language detection
 from nltk import wordpunct_tokenize
 from nltk.corpus import stopwords
 
 def get_blacklist_data(file_path):
+    '''
+    Gets the list of black words and returns
+    '''
     blacklist = []
     with open(file_path) as fp:
         for line in fp:
             blacklist.append(line.strip())
     return blacklist
 
+def grab_comment_data_dir_walk(base_dir, name_match, val):
+    '''
+    Given a base directory, does a directory walk and looks for files
+    with names that match name_match. Grabs the data dicts, combines,
+    and returns
+    '''
+    res = {}
+    file_count = 0
+    for curdir, dirs, files in os.walk(base_dir):
+         for check_file in files:
+             if name_match in check_file:
+                 file_count += 1
+                 #combine data if name match
+                 temp_dict = get_comment_data(os.path.join(curdir, check_file), val)
+                 res = dict(res.items() + temp_dict.items())
+    print "for %s text data, grabbed %s file(s), for a total of %s entries" % (name_match, file_count, len(res))
+    return res
 
 def get_comment_data(file_path, val):
     '''
@@ -28,7 +49,7 @@ def get_comment_data(file_path, val):
             comment = ""
         else:
             comment += line
-    print "extracted %s comments." % len(ret)
+    #print "extracted %s comments." % len(ret)
     return ret
 
 def alpha_num_ratio(comment):
