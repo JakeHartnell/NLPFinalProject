@@ -10,10 +10,11 @@ from xml.dom.minidom import parseString
 import gdata.youtube
 import gdata.youtube.service
 
+redditComments = []
 output_dir = "/Users/dirkdewit/Documents/School/Master HTI/Internationaal Semester/Applied Natural Language Processing/Final Assignment/NLPFinalProject/"
 
-def redditData():
-	r = requests.get(r'http://www.reddit.com/r/AskHistorians/comments/1seg44/how_did_crusaders_modify_their_armor_to_the/.json')
+def redditData(url):
+	r = requests.get(url)
 	data = json.loads(r.text)
 
 	article = data[0]['data']['children'][0]
@@ -22,26 +23,37 @@ def redditData():
 	for child in comments:
 		#print child['data']['id'], child['data']['author'], "\r\n", child['data']['body']
 		#print "Ups:", child['data']['ups'], "Downs:", child['data']['downs']
-		print "##"
-		print child['data']['body']
+		comment = child['data']
 
-		replies = child['data']['replies']
+		if 'body' in comment:
+			comment = comment['body']
 
-		if len(replies) > 0:
-			getReplies(replies)
-		
+			redditComments.append("##")
+			redditComments.append(comment.encode('utf-8'))
+
+			replies = child['data']['replies']
+
+			if len(replies) > 0:
+				getReplies(replies)
+
+	comments = '\n'.join(redditComments)
+	writeToFile("good", comments)
 
 def getReplies(replies):
 	replies = replies['data']['children']
 
 	for reply in replies:
-		print "##"
-		print reply['data']['body']
+		comment = reply['data']
+		if 'body' in comment:
+			comment = comment['body']
 
-		newReplies = reply['data']['replies']
+			redditComments.append("##")
+			redditComments.append(comment.encode('utf-8'))
 
-		if len(newReplies) > 0:
-			getReplies(newReplies)
+			newReplies = reply['data']['replies']
+
+			if len(newReplies) > 0:
+				getReplies(newReplies)
 
 def youtubeData():
 	for i in range(20000):
@@ -118,7 +130,7 @@ def writeToFile(file, comments):
 	g.write(comments)
 	g.close()
 
-redditData()
+redditData(r'http://www.reddit.com/r/AskHistorians/comments/1sdmeu/how_did_a_majority_of_mexicans_come_to_speak/.json')
 
 
 
