@@ -13,16 +13,35 @@ import gdata.youtube.service
 output_dir = "/Users/dirkdewit/Documents/School/Master HTI/Internationaal Semester/Applied Natural Language Processing/Final Assignment/NLPFinalProject/"
 
 def redditData():
-	r = requests.get(r'http://www.reddit.com/r/funny/comments/1pylzx/well_aint_that_a_bitch/.json')
+	r = requests.get(r'http://www.reddit.com/r/AskHistorians/comments/1seg44/how_did_crusaders_modify_their_armor_to_the/.json')
 	data = json.loads(r.text)
 
 	article = data[0]['data']['children'][0]
 	comments = data[1]['data']['children']
 
 	for child in comments:
-		print child['data']['id'], child['data']['author'], "\r\n", child['data']['body']
-		print "Ups:", child['data']['ups'], "Downs:", child['data']['downs']
-		print
+		#print child['data']['id'], child['data']['author'], "\r\n", child['data']['body']
+		#print "Ups:", child['data']['ups'], "Downs:", child['data']['downs']
+		print "##"
+		print child['data']['body']
+
+		replies = child['data']['replies']
+
+		if len(replies) > 0:
+			getReplies(replies)
+		
+
+def getReplies(replies):
+	replies = replies['data']['children']
+
+	for reply in replies:
+		print "##"
+		print reply['data']['body']
+
+		newReplies = reply['data']['replies']
+
+		if len(newReplies) > 0:
+			getReplies(newReplies)
 
 def youtubeData():
 	for i in range(20000):
@@ -99,7 +118,7 @@ def writeToFile(file, comments):
 	g.write(comments)
 	g.close()
 
-youtubeDataAPI()
+redditData()
 
 
 
