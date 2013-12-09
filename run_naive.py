@@ -4,7 +4,6 @@ import random
 
 #Grab the black list word data
 blacklist = nb.get_blacklist_data('blacklist_words')
-print blacklist
 
 #get negative comment data as hash, assign val = 1 in hash
 bad_training_raw = nb.get_comment_data('bad.txt', 1)
