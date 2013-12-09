@@ -1,0 +1,646 @@
+##
+A lot of modern China is sparsely populated, as are large parts of Russia, Mongolia, and Kazakhstan. Northern Asia as a whole is much less populated than S.E. Asia, for instance, which has a lot more different countries.
+
+The countries you use as examples of Asia are all in a certain area where there has historically been a low population not representative of the rest of Asia. 
+
+I don't have any sources for this though, as I assume it's common knowledge. If the mods disagree then I completely support their judgement. 
+
+**EDIT**: 
+
+* /u/RamblinRambo gives an [overview of expansion into Northern Asia and *why* it is so sparsely populated (scroll down a bit).](http://www.reddit.com/r/AskHistorians/comments/1qrd06/why_is_asia_carved_out_into_large_countries_over/cdfp0kb) and also asks about [the role of colonialism in the formation of large states such as India.](http://www.reddit.com/r/AskHistorians/comments/1qrd06/why_is_asia_carved_out_into_large_countries_over/cdfolgp)
+* /u/Fauwks puts forward the idea that [population and population density are heavily influenced by natural resources and relevant geography](http://www.reddit.com/r/AskHistorians/comments/1qrd06/why_is_asia_carved_out_into_large_countries_over/cdfq43z) and /u/symberke answers a question on the [correlation between population density and the size of a nation](http://www.reddit.com/r/AskHistorians/comments/1qrd06/why_is_asia_carved_out_into_large_countries_over/cdfrgx8?context=10)
+##
+Can also be viewed from the angle of geography.  Features like the Tibetan Plateau separate one country from the next.  Different side of the same coin.
+##
+I never thought about that. A lot of European borders are mountain ranges or rivers.
+##
+Isn't that what's called geo-history?
+##
+I'm in complete surprise that no one has brought up Jared Diamond yet, considering that many of the points mentioned here were discussed by him in his works.
+
+
+##
+Mostly because Jared Diamond is not considered to be a credible source. His works, while attractive reads, are FAR from academic. He cherry picks his evidence to an irritating degree, ignoring everything that disagrees with him, and his work is....sensationalized, to say the least. For more on Mr. Diamond, feel free to check [our list of popular questions.](http://www.reddit.com/r/AskHistorians/wiki/theory#wiki_historians.27_views_of_jared_diamond.27s_.22guns.2C_germs.2C_and_steel.22) 
+##
+Slight sidenote, what do historians think about Robert D. Kaplan? He has recently written a book called "The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate" on the links between geography and history (conflicts to be specific). It's been on my reading list a while now, but is his work actually credible from a historian's perspective?
+##
+I think people think he's a good story teller but I haven't met an academic who thinks he's a good historian. I don't know the book you're referring to, but his book *Balkan Ghosts* is frequently brought up as an example of how we shouldn't write histories of national conflict, as it is firmly within the "ancient tribal hatred" school of historiography, which basically no one subscribes to within academia these days (for example, most people in academia agree the first time "the Serbs" fought "the Croats" was World War II). People think this is particularly dangerous because the "ancient tribal hatreds" line of thinking specifically from *Balkan Ghosts* are widely credited with influencing Bill Clinton's thinking when he was considering intervention in the Bosnian War. 
+
+Edit: if you want a more academic book, consider Jack Snyder's *From Voting to Violence*. It's political science and I remember it being engagingly written but maybe that's only relatively--look at the Amazon comments to find out how enjoyable it is for a non-academic audience. 
+##
+While I disagree with many of the claims he makes, "pop-history" like his hopefully gets people interested in history and other social sciences.  I think that's a good thing.
+##
+It certainly does - however, that doesn't mean that he's credible as a source ;)
+##
+Oh, no doubt.  I certainly wouldn't use his books to 'prove' anything in this sub.  Just making an off-topic observation.  A few people I know dismiss people who read his books, rather than using that as a stepping stone to showing people how to credibly study historical relationships.
+
+IMO, it's better that many people read them and then some learn, rather than no one read and be stuck in ignorance.
+##
+&gt; "pop-history" like his hopefully gets people interested in history and other social sciences.
+
+It also teaches them things that aren't true, just like pop-science. That's a bad thing. It doesn't get them interested in history/science, it gets them interested in sensationalized history/science. So not only are they not learning anything true, but they're not even really "getting into" history/science.
+##
+I never realized that Diamond's work was not considered credible. Are there models for history, like quantitative models that carry some amount of predictive power? The only one I can think of are agent-based models in economics, but I'm not sure if there is a similar counter-part in history that I could search for?
+##
+I would take the conjecture here with a grain of salt as well, though - no differently than with Diamond's.
+##
+As much as I understand your dislike of Diamond, I don't understand why you think his lack of perfection is more intolerable than the other historians.
+
+While he may cherry pick his evidence, that's not a valid blanket argument against all his theories.
+
+If you find a specific problem with the idea being discussed, put it forth.
+
+---
+
+I find the dismissal of Diamond's ideas for reasons other than those related to the idea itself in very poor taste and makes me think most historians are just sore about his success.
+
+It's getting annoying when people discredit him for not being a historian or because he didn't use every bloody example of human society in his single book.
+
+Attack the theory, not the man himself. For historians, this is childish behaviour.
+##
+So first of all, a lot of "Jared Diamond's ideas or theories" are not his own.  
+
+For example, a lot of what was written in Guns, Germs and Steel had already been written about before. Crosby's Ecological Imperialism was around for more than 10 years before Diamond wrote GCS.  
+
+When it comes to "his ideas or theories" I'll leave it to the historians to explain why he's not a credible source.
+##
+Apparently, Jared Diamond is brought up like [every week](http://www.reddit.com/r/AskHistorians/comments/vd2u9/why_did_technology_advance_faster_in_europe_and/c53gp6a). 
+##
+I've bought the book because Reddig mentioned it. Big mistake, from the first chapters I've read: This is not a good book. I wouldn't recommend it.
+##
+In times where carthography wasn't accessible for peasants it was easier to tell them that rivers and mountains were the country's border. Rivers were/are really easily recognizable borders which were often easier to defend as well. Other geographical objects like mountains were often used as easy to defendable borders while they also were perfect natural defensive structures. Many countries also had no interest in having territory on the other side of a mountain simply because it would make infrastructure and governing much more difficult.  
+You can even look at different wars in Europe and deduct the importance of geographical borders. Austria for example oriented its conquests to the East simply because wars directly to the West would have been much more difficult. This is why countries in Europe have such a "weird" form while states in the US resemble squares. Africa is an interesting example where you can see that countries always have deserts as natural barriers. That's why borders in deserts are often linear because there were no wars and natural borders (Niger, Mali, Chad bordering to North African countries e.g.)
+##
+I know rivers are usually seen as a typical example of a "natural" border, but this isn't a historically universal fact. The tendency for us to think of rivers as natural borders comes from the Physiocrats in France. The English tend to see rivers more as natural venues for trade. The record is mixed, Egypt and a lot of ME countries use rivers to centralize not to exclude, rivers being great for transport. Iran for example for a long time used the Oxus as a natural boundary, but when the river change paths, it could no longer sustain the further eastward scope of the "natural" boundary. Just a word of nuance on rivers and natural boundaries.
+##
+It also seems worth mentioning that rivers in Central Asia are far less effective as natural borders than in Western Europe, as the climate in North and Central Asia is, on average, colder than that of France, Germany, and the UK. Rivers pose far less difficulty of passage to armies, especially mounted armies, when they can be marched across in winter. 
+##
+&gt; The English tend to see rivers more as natural venues for trade.
+
+The was a time that the Thames was the border between the Saxon Kingdoms of Mercia and Essex, Wessex and Kent. And other Kingdoms were divided by other rivers.
+##
+They are a reasonable Schelling point, but they are far from the only option as far as Schelling points are concerned.
+##
+Entirely inaccurate. No wars in Africa and natural boundaries!! Africa has straight lines because they were artificially created by the colonial invaders that parceled everything out in the 19th century. When you get new African countries like South Sudan they have normal 'wiggly' borders like any other. Same in America - straight line states are all artificial grants of land parceled out by the colonial powers. And Austria was heavily involved in the West as well as the East because it was the capital territory of the Holy Roman Empire which covered the middle of Europe and had interests in both directions, it kept getting attacked from the East for one thing.
+##
+But the Mississippi river was a border, too
+##
+US states (and Canadian provinces, and internationally) have a lot of straight lines, especially in the west, for a number of reasons. The key one being that the borders were set before the natural geography was well understood (by Congress anyway) and that the indigenous peoples and their cultural boundaries did not have to be taken into account during the process (a historically unusual situation—not having to take existing ethnicities into account). Also, straight lines (and major rivers) are less likely to result in future boundary conflicts than mountains. Not all mountain ranges have an obvious crest (thus the US-Britain/Canada border conflict in northern Maine and southeast Alaska). 
+
+Bit of trivia: The *only* US state border created by Congress out of the federal domain (ie, not the original colonies) that *isn't* a straight line or river is the one between Idaho and Montana, which follows the wall-like crest of the Bitterroot Mountains.
+##
+I always thought that the reason for borders being straight lines in Africa and the Middle East is european emperialism. France and Britain (mostly I think) drew the borders of those countries.
+##
+I read about this in Fareed Zakaria's book, "The Post-American World."  Europe has lots of hills, forests, mountains and fast-moving rivers whereas a lot of North-Central Asia is plains, steppes and slow rivers.
+##
+I believe this is true and I wish I had an old article that compared Europe and China in terms of technological development, decline, and geography but, alas, I don't have it. The gist was that although the Chinese had superior shipbuilding technology and horology (timekeeping technology) compared to European counterparts during the 1400-1500s, edicts from one or more Chinese emperors ended all of this in an introspective, xenophobic fervor and were able to do so because their geography allowed for far reaching control unlike in Europe. Here's just one excerpt I found from a related article:
+
+&gt;The navy collapsed. By 1474 it was down to one third of its Early Ming size. By 1503 the navy was down to one tenth of its Early Ming size, desertions were widespread and the corps of shipwrights disintegrated. Sailors were sent inland to support the Grand Canal, and loss of prestige for the navy precluded effective recruitment. The anti-maritime party grew more powerful and made its power known through imperial edicts. In 1500 it was made a capital offense for a Chinese to go to sea in a ship with more than two masts without special permission. A ruling of 1525 authorized officials to destroy the larger classes of ships. China entered a xenophobic isolationist phase similar to (but less intense than) that which closed Japan for two centuries. The navy and Chinese-borne overseas trade was gone. Source: http://www.basicrps.com/chine/histoire/china.htm
+
+
+##
+It's important to note that China's abandonment of the large fleet is not as crazy as it sounds, or based simply on xenophobia. China continued to receive diplomatic missions (and in fact had to limit those missions because they were so frequent). Just after Zheng He's death, China was invaded by a massive Mongol army (again). Crop yields declined due to changing weather conditions. In many ways, the Ming Dynasty was in a crisis period that it barely escaped from. The 16th century was quite prosperous for China, but the later half of the 15th century was a dangerous period. A large fleet is useless if you can't feed your people or defend your borders, and despite its size, the Ming's resources were not inexhaustible. 
+##
+I appreciate your explanation although my point wasn't related to the merits of China destroying it's naval and horology technology so much as it was that they had the ability to do so within a single generation because of their geography. European kingdoms, on the other hand, were divided by rough terrain that fostered independent innovation (and the destruction thereof) simply due to geographic obstructions. 
+##
+This argument is as old as the enlightenment and it doesn't do much of a job. China has tons of geographic obstructions too, but like the Romans and their roads, they over time eliminated many of them.
+
+Lots of European polities exist without any noticable geographic barrier. What is the barrier between Poland and Germany? Between Spain and Portugal? 
+
+The main difference in China is that the Han enforced their culture on their neighbors, much as Rome had done in Western Europe, and instead of their Empire permanently fracturing into separate polities, a succession of Empires reinforced that Han dominance. It's also important to remember that China's most heavily populated areas are not that far apart. The majority of the population has always lived quite close to the coast, much like the Rome and the Mediterranean.
+
+There are tons of attempts to explain away China; hydraulic empires, geography, culture; none of them are particularly satisfactory on their own.
+##
+Natural borders are the easiest to not dispute. The river ain't going anywhere, and it also makes it difficult (very early on) to move troops over to attack, and easy to defend. The Alps are an amazing example of this.
+##
+... [until the river *does* decide to move.](http://www.nytimes.com/1987/09/26/world/a-liquid-border-pays-no-heed-to-diplomacy.html)
+
+##
+This is what makes looking at state boundaries on the Mississippi so entertaining. They're still at the center of the river when established, which along much of its length is totally different from the current course. 
+##
+Interesting; I've only heard of river boundaries being based on the current state^* of the river, not the original state.
+
+
+^* OK, current natural state.  Lots of places prohibit border motion due to intentional artificial movement of the river, for obvious reasons.
+
+
+##
+It depends. There can be disputes over *where* in a mountain range the border lies, as happened between the US and Britain/Canada in Maine and Alaska. And rivers *do* change course, which can result in disputes. Of course straight lines are subject to dispute too, at least until boundary markers are put in place and declared binding.
+##
+I don't think you're entirely incorrect, but there are areas in Asia that historically had significant populations, as well as significant geographic barriers, but still ended up being unified into large states. In China, the Sichuan basin was always reasonably populous; it's almost entirely surrounded by mountains, including the Daba range in the northeast that separates it from modern-day Shaanxi and Hubei provinces; yet it was conquered by Qin Shihuang in the 2nd century BCE and has remained more-or-less part of China ever since.
+
+The entire arc from Fujian, through Guangdong/Guangxi, and on to Yunnan is all rugged terrain populated with a patchwork of different ethnic groups - yet all of these areas ended up under Chinese rule way before the modern era.
+##
+My problem with this answer is that this doesn't exactly explain why the densely populated areas of Europe have divided into many smaller nations.
+
+I think the question extends beyond geography; perhaps better worded as "Why does nationalism find so many more specified homes in Europe while the populations of Asia have divided into less countries?" 
+##
+I think it explains it pretty well. If you look at South East Asia, where there is much higher population density, you see much smaller countries. At some points in history, those kingdoms fought with each other in the same way that European kingdoms did (e.g. Siam and Burma). That's what happens when you have a high population density. And, that's why it didn't happen in China, Russia, Mongolia, and the Steppe.
+##
+SEA does look like europe, with each countries built based around ethnicities, but not India and China. Both of them could easily be divided further, since they clearly have small provinces with unique languages and culture, and are fairly autonomous. Pakistan and Bangladesh breaking away is an example for this, so the question is why doesn't more provinces break away from the Indian federation? Maybe the central government have a strong hold on their states? Maybe the states benefit greatly from being in the federation, such that breaking away and gaining independence is just not worth it?
+##
+&gt;but not India and China.
+
+Remember though, the modern state of India only formed after Independence from Britain. Prior to colonisation, and even during it to some degree, it was fractured into many large and small kingdoms.
+##
+I really hope someone who's an expert on Indian history finds this thread and can answer those questions. I would like an explanation for it as well.
+##
+But there are multiple separatist movements in India. Kashmir is probably the most recognizable one to Western eyes, but the Khalistan movement for an independent Sikh nation exists, and the rebellion in NE India (the part mostly separated from "India proper" by Bangladesh) has been going on for decades, and includes multiple rebel groups fighting separately against the federal government.
+
+As predicted elsewhere in this thread, geographical remoteness, physical barriers, language, and religion all are major factors in these rebellions.
+##
+I am not a historian, but I read in Mushirul Hassans book Indias partition that the Pakistani independence movement gained popular support fairly late before Indias partition was finalized. The rise of the Pakistani movement happened so fast that it took some Hindu politicians by surprise. 
+
+As far as I understand the Indian independence movement used a lot of Hindu symbolism. That contributed to muslims feeling left out, therefore the Pakistani independence movement was able to grow fast once it was percieved.
+ Furthermore the Pakistani movement had access to religious leaders that could travel the land and preach the message of muslim independence.  
+
+As a side note several Indian states have been splitting in to smaller states during the last two decades. IIRC a region within a state is allowed to get independence if they have a separate culture and speak a dialect that is distinct enough to be classified as a separate language. So in that sense you do have nationalism/regionalism within India.  
+##
+Okay, but if you only take the eastern third or so of China it's still several times larger than any European nation (excluding Russia). India, which has about one third the land area of China and nearly the same population, is another example.
+
+I think you're mostly right, of course, and there are good contingent explanations for the size of India and China that distinguish them from SE Asia, but I'd like to hear your take on it.
+##
+You're mistaking the exception here.
+
+Han Chinese culture is a HUGE outlier in how far and wide it spread in a very homogenic way. As proper Nation States go, the Eastern Coast of China is... huge, and insanely homogenic, and almost certainly unique on the planet in having historically formed to that size.
+
+India? Actually far from homogenic and only together because of a series of foreign Empires forced unity on it. It might still fall apart, as in many ways it resembles the muslim Caliphate more than anything else (except the Caliphate largely used a single language, so in a way it was more naturally unified than India).
+
+Japan? Korea? Vietnam? Philippines? These are all pretty similar sized to Germany.
+
+Russia? Vast empty spaces controlled by a rather Germany sized chunk around Moscow. The steppes in general are a very special case as the low population densities meant that empires there were always huge, regardless of their power. Scythia was hardly comparable to Persia, but it sure had a lot of land.
+
+So yea, the Han Chinese domination of the area around/between Yellow and Yangtze rivers is a strange phenomenon. Series of (un?)fortunate incidents ranging from having one of the first true sociopath geniuses showing up as a ruler (The First Emperor was... special... and in a very different way from Cyrus or Alexander) to having the "good" luck of having Mongols chase a significant chunk of your population to go displace what amounted to your neighbor to the south, and then ending up with both the original AND new territories. And so on and so forth.
+##
+You're right about India. I'd say that India is more like Europe rather than China or U.S. 
+
+Distinct culture between states, distinct languages and some south and north eastern state population are ethnically different from rest of the states. India used to be a mix of lot of small kingdoms until colonized and united by British for governance (not all but most). And the remaining kingdoms were forced to be merged with India or Pakistan on Independence. Also, borders were later redrawn based on linguistic differences and even new states have been created/being created. 
+
+Most states in India can be mini countries in theory but as federal government has more role (common law code, budgets, railways, postal service etc.) in the state's governance compared to countries like U.S where the role is minimal, it's not going to happen anytime soon. States can expect at the most to be autonomous in future.
+
+##
+Good points, but if you look at ancient Indian history during the last two millenia you will find a series of fairly large empires. 
+
+John Keays has speculated that the Indian peninsula does not have a lot of natural borders, and therefore Indian empires were able to keep growing until they started falling apart. (Keays probably stole the idea from somewhere else, but i read it in his highly recommendable "History of India".) 
+##
+There have been a number of large empires in Europe as well. Rome, Holy Roman, Ottoman. And briefly France under Napoleon.
+##
+The Austrian Empire was also quite large.
+##
+Could you go on about the First Emperor?
+##
+I'll elaborate a bit more than /u/MakeMoneyNotWar
+
+China back when was always behind the Middle East in everything, because according to archeological record the Middle East got a roughly 2,000 year head start. While the Great Pyramid was being built, the worker camp for it would have been - by a fair margin - the greatest city in China. Basically from a global perspective, China is a backwater (not that anyone had a global view at this time, but in case a hypothetical outsider could be watching from orbit).
+
+One has to remember that the Han Chinese were not even in the Yangtze and Yellow River valleys - they were almost exclusively in the Yellow River Valley... modern day Shanghai would be at the very edges of China" back then. Hong Kong would be about as "China" as Hamburg is Italy.
+
+This Yellow River Valley had 5 major states, all rather typical state sized (IE, their modern day population would be very similar to European states, probably none of the states of those times has a modern population of 100 million living in the land they owned). This was known as the warring states period. However, the period came to a truly dramatic end when one of the states overcame all the others, and having isolated itself from external threats, could basically sit on its conquests and become "all under heaven"... none of the Western/Middle Eastern Empires ever managed this - even if you ignore stepps nomads, the Persian Empire (far bigger than even the post-conquest China) had Greeks, Carthaginians and Indians outside its borders with a comparable level of sophistication. China had nothing after the river valley got conquered.
+
+Anyway, back to the first Emperor. The State of Qin had been toying around with a concept known as Legalism, which is basically about as totalitarian as they get. The idea was to optimize laws for order. Justice was a minor concept and a sense or proportion was a distant 3rd. So you divide people n to groups of 10, and if any one of the 10 commits a crime, you punish all of them. And when I saw punish we're talking things like quartering (yes, being torn to bits). The punishment for practically everything was death. While this process had begun before Qin Shi Huang, under him it reached perfection and he took his relatively modest sized state and engaged in Total War. Instead of seeing who won battles, his goal was to exhaust the manpower reserves of his enemies. Get captives? Execute them. Eventually they will run out of able bodied men or just become too afraid of the Qin armies.
+
+The man was like some sort of Sith Lord among men in how much he was feared and how much demonic energy he seemed to have. As I mentioned earlier, China was fairly unremarkable until this point (we're around 235 BCE here), but suddenly all the people are mobilized to do small things like protect the emperors conquests with a little wall (Great Wall of China). Oh and his burial project is INSANE in scope, and nothing after it in China really matches it. I mean they seem to have had rivers of mercury. China in many ways caught up and even leapfrogged the Middle East during this one mans rule.
+
+And everyone seems to have been too afraid of him to rebel because lord knows what the hell he might do. It's very hard to understand things from so far in the past, but we know that very soon after his death, people facing the death penalty stopped running away and started fighting and soon the whole place was in civil war.
+
+He also quite efficiently demolished the national identities of the 4 other states. His name is the root of the word for China all over the world. Oh and he died at the age of 49, so: establish totalitarian state, conquer known civilized world, start (and get completed) some of the most ambitious projects ever, impose a unified culture on the known world etc. Not bad for a relatively short life.
+
+Edit: Oh yes I forgot the thing that really inspired the "Sith Lord" bit. He spent tremendous resources in a quest to become immortal. (It is hard to know exactly how huge a deal this was for him really, most of the histories were written by followers of Confucius who had a decidedly dim view of the Emperor)
+##
+do you have a link to where i can find more information about this system of dividing people into groups of 10?
+##
+Do you have any recommended books on the life of Shi Huangdi? I'm interested to know more.
+##
+[This guy](http://en.wikipedia.org/wiki/Qin_Shi_Huang) essentially built one of the world's first totalitarian states, and was the Stalin of his time.  
+##
+&gt;Russia? Vast empty spaces controlled by a rather Germany sized chunk around Moscow
+
+Somewhat incorrect - you can [play with the map here](http://mapfrappe.com/?show=14356). If you center a Germany on Moscow, you need half a Germany to reach St. Petersburg, another Germany to reach Southern Russia, and 1 or 2 to cover the areas immediately to the east. That's what you need to include the largest chunk of the Russian population, which is not very dense, but mostly continuous.
+
+Northern territories, the Far East, and most of Siberia have very little population, so Russia is a good example of a (semi-) Asiatic country that only appears to be very large, but not as extreme as what you've suggested.
+
+&gt;The steppes in general are a very special case as the low population densities meant that empires there were always huge, regardless of their power.
+
+That's a better explanation for Russia: in addition to steppes - few mountainous areas to provide natural bulwarks against invasion, many plains and large rivers enabling connections between disparate regions.
+##
+I'm afraid this question puts me out of my depth. I have enough knowledge on the matter to speculate, but, of course, this isn't the place for speculation. I find the India example to be the most interesting, since it is made up of different ethnic groups by region, and different religious groups (mostly by region). Maybe there is an expert on South Asian history who could explain why it didn't end up as many different countries? My knowledge of South Asian history is mostly limited to what can be gathered by their epic tales.
+##
+Foreign conquerors, in short. The Mughal and British empires combined to create a long period of relatively unified rule in the subcontinent, and  led to India as a nation becoming an accepted concept, and it remaining more or less unified once the British were gone
+
+Edit: VT-Sensational's response to this contains some good elaboration, so read it as well!
+##
+And before then there was no concept of an Indian nation. Prior to the external rule of the Mughals and the Brittish there was a plethora of small Indian kingdoms (Rajas), Muslim sultanates and even an empire or two, but never a real unified nation unless you go back all the way to the Maurya Empire. Colonial/foreign rule did indeed allow for (and enforced for that matter) the formation of India and Pakistan as nations, even the concept of the Hindu as an identity sprung out of the wars waged by outside forces for the control of the subcontinent.
+##
+A very good elaboration - cheers :)
+##
+India was separate city-states until united under (and against) british rule.
+
+It could also be argued that India is still more closely related to the European Union than a large united country. In culture, language, food, government. 
+
+It's not a perfect comparison to the EU but it has existed as a united entity for a lot longer and under different circumstances.
+##
+&gt; India, which has about one third the land area of China and nearly the same population, is another example
+
+India was invaded and set up by the British. Which is where the current borders come from. Hardly a good example of "naturally occurring birders". 
+##
+Exactly the "historically contingent reason" I was speaking of.
+
+Though I think it's a bit extreme to conclude that the borders created by the British are totally artificial. They mostly coincide with the boundaries of Vedic civilization. 
+##
+Well I think this downplays the role of colonialism and its European roots in Southeast Asia, while at the same time ignoring why places like India, easily the world's most populated country, isn't divided into multiple states. It seems to be a theory based on some sort of population threshold that doesn't account for why places that exceed that threshold are still geographically dominant areas. Or at least, that's my interpretation. 
+##
+I agree with you that colonialism did play a huge role in dividing up Southeast Asia. But, it's not like it was all unified before the Europeans showed up.
+##
+True that. I am by no means qualified to essentially give a brief history of almost the entire world, so I think I'll just have to be stumped by this one for now. 
+##
+India was divided into multiple states before the British conqoured the sub continent wasn't it? 
+##
+I think this question makes the point I made a little lower. I personally have no idea what the history of India looks like pre-Europe, but don't doubt that I could find out. Still, I believe to answer OPs question requires such analysis for every nation in the world. And that's probably more appropriate for an anthology than a paragraph or two on Reddit.  
+##
+Agree. As someone else pointed out, South-eastern Asia might be similar to Europe, but when you look at central Asia things are very different.
+    
+For instance, look at northern Caucasus which has [a very large number](https://en.wikipedia.org/wiki/File:Caucasus_ethnic.jpg) of different ethnic groups. Nationalism is in some cases very prevalent today, just look at the devastating rebellions and civil wars which has been taking place after the dissolution of the Soviet Union. Like the civil wars including an extensive ethnic cleansing in Georgia which resulted in the breakaway-republics Abkhazia and South Ossetia. Or the Chechen war. As nationalism is so prevalent among those groups today, I see no reason to believe that this haven't been the case before?   
+    
+There are many other areas in Russia with an (at least historically) high concentration of ethnic groups with distinct cultures, like the Kalmyks which is the only buddhist people in Europe. Or the Tatars, Karelians etc.
+    
+So why doesn't these groups have their own countries? Perhaps Russian imperialism is one of the reasons for this, but Europe have had their share of wars of conquest as well and has ended up much more divided than this part of the world.
+    
+And of course there is the Middle-east with the Kurds, Assyrian etc. People always seem to blame the borders drawn after the end of European colonialism, but it can't be the only reason, right?
+##
+I see what you're saying...essentially post colonialism doesn't explain the whole picture.  And I think this is right for the most part. The problem becomes methodological...how do we properly assess the effects of colonialism in a post colonial world? Perhaps looking at pre-colonial trends in areas eventually colonized would be helpful. But gee golly,  that sounds like a lot of work mister. 
+##
+I still feel your rephrased question has not been adequately answered. The majority of the distinct ethnic and language groups in Europe have their own state, regardless of their size. This is clearly not true in India, China,  or Indonesia.
+
+The question remains as to why this is. Did the redrawing of the map of Europe after the World Wars give statehood to ethnic groups that otherwise would still be part of larger states? Did the political and economic colonialism imposed on China, India, and Indonesia provide an artificial cohesion to disparate groups that over a long enough timeframe led to these groups eventually viewing themselves as Indian, Chinese, and Indonesian? What external or internal force caused this anomaly?
+
+I understand that deserts, mountains,  and rivers make natural borders and that sparsely populated regions are often annexed by more populous states. But this does not answer why southern and northern India (or China) are united despite different traditional cultures and languages while Europe is not. Hopefully someone can provide an answer.
+##
+&gt; The majority of the distinct ethnic and language groups in Europe have their own state, regardless of their size.
+
+Do the ethnic groups have their own state, or are the groups identifiable because they've had their own states? Language groups and borders don't always correlate very well in Europe, as Belgium, Finland and Switzerland clearly illustrate. Some ethnic groups like the [Sami](http://en.wikipedia.org/wiki/Sami_people) also don't have any country of their own.
+##
+I agree that not all European ethnic or language groups have their own state, but when compared to Asia the degree to which this sorting has occurred is remarkable. The BeNeLux countries and Switzerland are exceptions to this sorting, but even so separate nations exist outside of Switzerland for German, Italian, and French speakers as is also the case for the French, Dutch, and German speakers of Belgium. I recognize that groups such as the Catalonians and Roma do not have their own state but this is clearly an exception.
+The question is why is there no Cantonese or Wu state in China or a Telugu or Kannada state in India? The diversity of languages and ethnicities within China and India is easily as great as Europe yet there is no corresponding sorting into states based on these differences. This aggregation of disparate groups is likewise mirrored in Sub-Saharan Africa which at least seems to strongly suggest the influence of colonialism. 
+That India, China, and most of Sub-Saharan Africa have not devolved into smaller states based on ethnicity or language in contrast to Europe which has and continues to do so (ex: Scottish Independence) would seem to be a ripe subject for sociological or historical review. A further question would be if this sorting is inevitable and if so how to prevent the carnage that accompanied it in Europe.
+##
+&gt;But this does not answer why southern and northern India (or China) are united despite different traditional cultures and languages while Europe is not.
+
+
+I'm not an expert on history by any means, but do you think it depends on the perspective of the people/culture towards ? Some might believe in being united as a single tradition/culture/race/religion without mixing etc while some might want to be united as a single nation (by this I'm referring to the landmass) albeit being multicultural. 
+
+For example, The clash between these perspectives was a contributing factor for the civil war in SriLanka where I'm from. One group wanted the north eastern provinces (where the majority is Tamil) to be governed independently while the ruling government wanted the whole island landmass to be one country.
+##
+I think a different way to look the question is, both areas have had conquerors that attempted to unify all the counties/kingdoms. For China we have Qin Shi Huangdi, and for Europe we have quite a few. Maybe a historian can comment on what exactly Qin Shi Huangdi did that was effective at unifying China and keeping it unified. Whereas Europe somehow ended divided again.
+##
+What I believe Shi Huangdi did was that he unified the numerous states that had previously dominated China ie. Han, Wei, Zhou, Yan, etc but he never unified the people thanks to his legalistic government structure which involved harsh laws and high levels of taxes amongst other things. Add that with forced labor for numerous projects such as the building of the Great Wall (which in actuality was basically reinforcing and connecting numerous walls that northern states had built to keep out the nomadic hordes [xiongnu]) along with things such as his crypt and you got a recipe for unrest. Though he did much good such as forcing all the conquered states to adhere to one written language and a common system of coinage / trade which simplified things (states had different values for currency which wildly varied from state to state) and somewhat 'united' the people.
+
+Though I wouldn't say he was effective at keeping China unified. His reign was marked with constant rebellions from disgruntled peasants and clansman of the former royal families. As he got older, he got more paranoid and experimented with 'immortality' potions which further alienated more people. Upon his death, rebellions started popping up en masse until once again the entire state was at war with the reemergence of the former states such as Chu which were lead by former royal families. The rebellions of course toppled the Qin Dynasty which lasted a paltry ~20 years. 
+
+Then we got the Chu-Han contention between Liu Bang [Han] and Xiang Yu [Chu] which resulted in Liu bang being victorious and finally unifying the empire under one. Other than a mishap against the xiongnu which resulted in the Heqin policy (marriage of a royal princess to a Xiongnu leader to stop invasions), there was peace. And this peace lasted for over a hundred years until Emperor Wu (Liu Che) went to war with the Xiongnu in the late BC's and smashed them to pieces (while almost ruining the empire).
+
+TLDR: I'd argue it was the Han Empire that successfully unified China (both states and people) and laid that foundations  that every successive dynasty built upon -- ala Centralized Government, unified language and trade,policy that favored intellectuals, projects that enhanced and expanded agriculture [see the canals] etc. 
+##
+However, a unified language, weights/measures, currency, and centralized bureaucracy was all established under the Qin dynasty. It was the Han that brought harmony, but it was still the Qin that brought unification.
+
+It is also a myth that China stayed unified, a myth propagated by the Chinese government itself, who benefits the most from staying unified.
+
+If it is carefully examined China has many eras of disunity after the Han dynasty: The Three Kingdoms era, and the subsequent 300+ years of disunity, and another 300+ years of disunity after the Tang dynasty collapsed in 900 all the way until the Mongols conquered China. 
+
+It can also be argued that the Qing and Yuan dynasties are distinct nations occupying the same geographic space as previous dynasties, much like how Turkey occupies what once was the Byzantine Empire or how Egypt now occupies what was once the Ancient Egyptian Empire. 
+
+Aspects are preserved and passed on from history, but that all of Chinese history is one unbroken chain of political continuity is a false construction to legitimize national unity in the face of potential resurgence of disunity (Tibet and Taiwan).
+##
+&gt; It is also a myth that China stayed unified, a myth propagated by the Chinese government itself
+
+Citation?  I am aware that the Chinese government pushes the '5000 years of history/culture' line, but I'm not aware of any effort to 'disappear' the periods of fragmentation.  All Chinese children grow up with movies, television programs, and games centered around the Three Kingdoms era.  As such, all Chinese must be well aware that 'China' was not always a single unified state.
+##
+China's geography played an important part.  Physical barriers (dense jungle and the Himalayas to the Southwest, the sea to the south) along with great distance kept China isolated from the sophisticated empires and advanced peoples that crowded Southwest Asia and the Mediterranean.
+
+The few times that China was conquered, the conquerors were less advanced culturally and thus easily subsumed into Chinese culture.  The invaders learned the Chinese language and largely adopted the Chinese system of governance.  China was ether unified as a civilization surrounded by barbarians, or it was divided as many 'Chinese' states surrounded by barbarians.  Had China been more accessible to the various empires further West, it would have faced the same competition that the more crowded 'West' did.
+##
+Best to include reasons for the sparse population as well.  There's a lot of landlocked area in Asia, and humans tend to concentrate around water for a lot of reasons (to drink, agriculture, shipping, transportation, etc.).  Huge mountains and deserts do not lend themselves to being well-populated either.  Siberia is very harsh.  And so on.
+##
+Yes, after a while I was kind of hoping people would just skim over my response and go down to the second, third, and fourth replies that are a lot more insightful and comprehensive. Unfortunately my answer seems to be the top response, so I'm just linking a few of the other comments that deserve a look into my edit.
+##
+Water has just always been my way to explain everything about population concentrations.  Look at any reasonably sized city, it will always be on a river.  No river, no city. (For this answer, oceans count.  But usually even with an ocean, a river is thrown in for good measure)
+##
+I'd suggest giving the Annales a look, especially Braudel. His ideas on geography having this kind of effect on history are noteworthy. "La Méditerranée" is probably the work you'd want to look at.
+##
+Or were the asian nations as we know them today a result of colonization? Didn't India and Modern day Pakistan use to be hundreds of small kingdoms with Rajas before the British Empire? 
+##
+sure, but that doesn't explain china, mongolia, russia, or kazikstan
+##
+When it comes to Russia the lands were very much uninhabited as they are still today. There is a good wikipedia article on the [Russian Expansion from 1500-1800](http://en.wikipedia.org/wiki/Expansion_of_Russia_1500%E2%80%931800). [Here is a map that shows the expansion stages](http://media-3.web.britannica.com/eb-media/50/3850-004-87B10401.jpg).
+
+Mongolia, China and Kazakstan are also very sparsely populated areas if you start breaking it down. China, although it has a huge population has vast expansions of rural space with little population. This meant, like in the case of Russia that it was a quite small feat militarily to establish control. In later years especially in Soviet Russia people were ordered by the state or paid to inhabit and to populate areas far away from other major cities etc. This still shows today in places basically in the middle of nowhere having cities with a few 100 thousand people living there.
+
+In Europe that is a very small continent the population was much more compact. Making it much harder to control the vast areas. It also meant that culture plaid a more significant role in forming communities that became nations.
+##
+why is europe more compact? is it just because of the geography with like, more natural resources and food and farmable land or whatever?
+
+what about africa? I think a lot of africa is scarcely populated, but those countries are pretty small. Though I suspect african countries are carved out more politically than via warfare.
+##
+What exactly do you mean by "Why is Europe more compact"?
+
+I may be missing some element of your question but it kinda feels like a lot of what you're asking is literally explained by the fact that Europe is simply a much smaller landmass than Asia.
+
+But to add to something you mentioned, yes, a greater proportion of Europe is arable, fertile land than in Asia. Europe doesn't have any sprawling deserts, as many massive, imposing mountain ranges, or inhospitable tropical jungles as the Asian continent does.
+##
+I think he's asking why the population density was so much higher. Your answer still stands though.
+##
+&gt; What exactly do you mean by "Why is Europe more compact"?
+
+I get what they mean, but I can't phrase it. 
+
+Why is Europe so populated in compared to Asia? If Europe were blown up to Asia's size but the population:land mass ratio stayed the same, it would have way more people. But why?
+##
+Europe has more arable land, so can support a larger population. 
+##
+&gt; what about africa? I think a lot of africa is scarcely populated, but those countries are pretty small. Though I suspect african countries are carved out more politically than via warfare.
+
+The scramble for Africa was a period in history when the colonial powers had established themselves in the New World and turned their eyes to Africa. You saw a larger group of nations competing for control over territory in Africa, where as there was four dominant nations in the Americas (Spain, Portugal, England/Great Britain and France) by the time the scramble occurred other nations had caught up and were also competing. For example, the Belgian and Dutch both controlled respectable colonial empires in Africa, and later in the East Indies.
+
+So you had a variety of nations controlling an even larger variety of lands and populations, a multitude of ethnicities and different religions in colonial territories that were not as contiguous as those in the New World. The result is what you see today, the colonial powers granted independence to and lost control over different regions and different peoples at different times, partially because there was no centralized power like the one you had in Russia, where a single colonial power colonized barely populated steppes and tundras and never let go. The gist of why decolonization happened and how is a pretty heavy topic in itself.
+
+##
+This is an interesting question and something I actually study and one of the key questions in Economic Geography is why some regions etc. attract some attributes. Before answering this, it is important to know that in fact the maps we see on a daily basis are flawed and still live on as they were drawn back in the day. The perspective of size of continents and countries was, some argue, intentionally made to deviate from the truth by the ruling classes. In fact Africa is so much bigger than Europe and [here is a map that shows countries and continents in their true relation to each other](http://i.telegraph.co.uk/multimedia/archive/01001/map1_1001349i.jpg).
+
+Why Europe had a population that flourished as did India and some parts of Asia comes very much down to natural resources. The lands and natural resources supported a growing population with very fertile lands. European climate is very stable, the continent basically lacks big natural disasters such as drought, tropical storms etc. It also has a climate that is very stable and predictable. Making it very much easier for the early man to settle down and build and plan long term.
+
+Africa also had areas with flourishing populations but the sheer size of the  continent is believed to have allowed people to spread more.
+##
+It is true that the Mercator is still sometimes used inappropriately as a general-purpose map projection, but be careful about this "some argue the ruling classes are lying to us with maps" stuff. It's [considerably exaggerated](http://en.wikipedia.org/wiki/Gall%E2%80%93Peters_projection#Controversy). And cylindrical equal-area projections are just fugly. At least use something like a [Mollewide](http://en.wikipedia.org/wiki/File:Mollweide_projection_SW.jpg), that's equal-area with a lot less shape distortion since it doesn't needlessly force the world into a rectangle.
+##
+As /u/NMW recently explained, Reddit has a real problem with [second option bias](http://www.reddit.com/r/badhistory/comments/1pqzx5/objectively_speaking_what_the_nazi_regime_did_is/cd54xw0). I think the popularity of the Gall-Peters projection here on Reddit is an example of that. People are so shocked by having been "lied to" by traditional maps, that they simply assume that the Gall-Peters projection is "true." The reality, as you pointed out, is that any projection of a (three-dimensional) sphere onto a (two-dimensional) rectangular space entails distortion.
+
+Ultimately, it's probably most useful to think of maps as tools, and the Gall-Peters as one such tool. It has its uses, but no one tool is perfect for every job.
+##
+&gt;but be careful about this "some argue the ruling classes are lying to us with maps" stuff
+
+This is why I said that some argue. I still think it is important to know that there are arguments made about this. I personally don't have a stand on the matter. But thank you for noticing that it isn't a fundamental truth.
+##
+Also remember that the line between Asia and Europe is both completely arbitrary, and drawn by Europeans. This basically means that the line is drawn such that the wast uninhabited spaces where placed on the Asian side.
+##
+It was already massive in 1689, damn. I wonder how a ruler can keep track of and manage such a territory without any modern communications.
+##
+They simply ordered people to live there... or just relied on the fact that there wasn't much to take over. I actually don't know exactly how they did. I know that in Russia they had people settle strategic areas.
+##
+The borders of Indonesia, Malaysia, Brunei and to a certain extent Thailand, Myanmar and Philippines can be somewhat attributed to colonization.
+
+Thailand and Brunei's borders mark the extent of colonization. The land that they hold is the land that was not colonized by the Dutch or British.
+
+This is particularly apparent in the island of Borneo. The part that is Indonesia currently was colonized by the Dutch, current Malaysia was colonized by the British and Brunei was the piece of land that remained independent.
+
+The borders Thailand has with Malaysia and Myanmar also represent the extent of land that the British colonized. In this case the colonization may not have been that big of a factor because The Siamese kingdom had somewhat similar borders as well.
+
+The Sulu Kingdom in southern philippines used to contest control of northern Borneo with Brunei. The borders of modern day philippines can be attributed to them being an american zone of control while north borneo was british.
+##
+I don't think you should seek for a common answer that will solve the question for all countries at once.
+##
+Not true. Sure there were regional kingdoms scattered all around, but as such they all were subjects/vassal states under the mughal empire. 
+
+India is India because of her geography. It is a subcontinent surrounded by ocean and the mighty himalayas. 
+##
+The Mughals only united India under Aurangzeb's reign. Before and after that they did not hold all of India. Then the Marathas brought down the Mughals and there were more independent states, until the British took over.
+##
+Water. water means crops, and transport, and that can mean higher densities, meaning less need to encroach on your neighbour, giving both of you a chance to evolve to state entities from humble beginnings.
+
+There are lots of rivers and lots of rain in many places throughout Europe. Weather patterns conspire to produce more rain to feed those rivers also crops.
+Asia is also a whole lot larger, note the populated areas of China have rivers and rainfall, same with India.
+Anywhere north of the Himalayas in the range's rain shadow (http://en.wikipedia.org/wiki/Rain_shadow) is gonna be desert, and few large rivers flow north west.
+The large plain with few large rivers may not have been suitable for crop, but they were perfect for nomadic horsemen (good ol' Ghengis), who naturally take up more land than sedentary farming communities(Rice Farmers of South East Asia).
+
+As for China and India having rivers and rain like Europe but being large single states. They haven't always been, they've spent large parts of their history as separate states with different cultural identities. Here's a link heavy intro: http://en.wikipedia.org/wiki/Five_Dynasties_and_Ten_Kingdoms_period and http://en.wikipedia.org/wiki/File:Indian_Kanauj_triangle_map.svg are times when Asia was fragmented while Europe was far more unified. Europe has spent much of it's history under the thumb of large regimes of one form or another. Think of the Roman Empire, the Hapsburgs, Charlemagnes, Napoleons, Hitlers and even modern day European Union has tried a more unified state like structure.
+##
+Also, centers of power tend to be downstream, and what they rule over tend to be upstream, because you need a stronger military to keep your neighbors upstream from polluting or diverting your sole water source.
+
+Basically, all the answers here come down to Geography more than History.
+##
+That's also important, and reinforced the pattern once civilizations were established enough for trade.
+##
+&gt; In Northern Europe at least trade did happen previous to standing armies.
+
+And war happened prior to both.
+##
+I won't talk so much about Russia or China (although Russia/Ukraine is an interesting one).
+
+Central Asia is a bit weird. Until the Russians arrived, there weren't really proper nations but rather a series of smaller sultanates. Read about the world of Stoddart and Conolloy found in "The Great Game: The Struggle for Empire in Central Asia" (1992). W Essentially it was the Russians/Soviets who decided on the boundaries after the revoloution. There are Uzbek and Kazakh people, but plenty lived in each land and still do. Although the countries in Central Asia may be physically large, they remain comparatively loosely populated.
+
+There have been superstates in Europe, the Romans, Spanish, French and Germans attempted to establish one. They have tended to collapse. The EU is **not** a superstate and many remain uncomfortable with the idea of a closer union.
+
+##
+I believe your question really just boils down to China.
+
+Asia has a lot of "small" countries on the same scale as Europe, and three very large ones: China, India, and Russia.  But historically, the area now covered by India and Russia has gone through similar fluctuations of empire and fracture as Europe.  The Roman Empire, the Mongols, the various caliphates... the two continents weren't that different.  Today's India and Russia are relatively recent creations of European empire building.  In each case, Europeans conquered lots of different political entities and clumped them into one.
+
+China is the exception.  It's been there since the beginning, and just kept growing.  So that's why I think your real question is, "why is China different?"
+
+I believe the key difference between China and most other old civilizations and "short" lived empires (nearly all empires are short-lived by Chinese standards) is their different, more flexible idea of identity, empire, and culturalism.
+
+China was okay with portions of "their" land being under different and independent political control; they could deal with being invaded by foreign powers and governed by them; through it all, though, they identified with Chinese culture and its inherent superiority.  Military defeat didn't change that.  Just because someone could beat you on the battlefield or take political control of your capital, didn't mean they were more educated or had as good a writing system or philosophy or knew how to run a decent civil service.  *You* were better at all these things, you knew it, and the foreigners knew it.  Sure, they may be in charge of themselves, or even of you, but they haven't *really* made it until they've learned to become more Chinese.
+
+As a result, China was able to absorb and eventually take over and incorporate into itself, powers that invaded and defeated it.  Rather than end, or break up, it turned them Chinese and acquired their land or people into itself.  China was effectively invincible.  (Edit: Think of it as the ultimate in what they call "soft power" :)
+##
+I agree 100% with your assessment, but wish you cited a source.
+
+In particular, which invading cultures “became” Chinese?
+
+Also, I’d like to know how uniform Chinese culture is inside China during various engagements. These days we (speaking for Westerners) hear a lot about the cultural differences between west and east China, are there major cultural differences between Han versus Chin ethnicities?
+##
+&gt; In particular, which invading cultures “became” Chinese?
+
+The Mongolians under Kublai Khan became China's [Yuan Dynasty](http://en.wikipedia.org/wiki/Yuan_Dynasty), and the Manchu became the [Qing Dynasty](http://en.wikipedia.org/wiki/Qing_dynasty).
+##
+As /u/Nefelia answered, the biggest examples of outsides conquering China only to eventually became Chinese are the Mongols and the Manchu.  Both were less "civilized" than China, and both acquired Chinese civilization once they started ruling.  Lots of former Mongol territory eventually became part of China and as you can see on the map, Manchuria is mostly part of China now too.  Large numbers of Mongol and Manchu people became effectively Chinese.
+
+As for the Han vs Chin ethnicities, I think you may be confused.  Westerners use the Chin name to refer to the people who call themselves Han.  The name China comes from the Chin (Qin) dynasty, a short-lived dynasty that came right before the Han dynasty.  It was the same ethnic group.
+
+Burma has an ethnic minority called Chin, but that's probably not what you were referring to.
+##
+As far as the Indian sub-continent is concerned, the country has had periods of unification (under Ashoka, Akbar, Maurya dynasty) a and also long periods of being split into smaller kingdoms (Rajputs, Cholas, Pandavas, Pallavas, Cheras). Also these empires were not restricted to the sub-continent alone. I believe (not sure) that the Mauryas at one point conquered upto present day Afghanistan. The Cholas for example ruled over much of south east asia for a considerably period of time. 
+
+India as a nation has a vast amount of diversity because of this. It was the British and their railway that created the idea and the nation of a modern India - also why many people during the Indian Independence and partition believed that India would fall apart into many smaller countries in no time. Right now states are divided on linguistic basis with 14 national languages not including many many more dialects and variations of languages. 
+
+I believe that China has a similar history but my knowledge of their history is pretty sketchy and I'll leave that to the Chinese experts to answer.
+##
+In *Why the West Rules -- for Now*, Ian Morris describes efforts by Byzantium, Persia, the Islamic Empire, the Ottomans, and the Habsburgs to create empire rivaling the fallen Roman Empire.  None of them succeeded, because the Romans had exhausted the resources of the Mediterranean lands, and not until the discovery and colonization of the Americas and industrialization did Europe once again gain the resources needed for empires.  At that point the British created an overseas empire and the Russians created an Asian empire, but the Germans were thwarted in their attempts to create a European empire.
+
+After the fall of the Han dynasty, on the other hand, the Chinese found that they could convert vast wetlands in southern China to rice production, and as a result they recovered much more quickly than the West and eventually created a new Chinese Empire, rather than remaining divided into various petty kingdoms.
+
+So, the combination of Russian colonizing vast sparsely-populated lands in the north, England colonizing India in the south and China reuniting in the east led most of Asia to unification, rather than diversity.
+##
+Having also read that book, I thought you were going to talk about this factor: The geography of most of Asia is radically different to that of Europe. Europe is filled with: mountains; peninsulas, land masses which face the ocean or sea on three sides but are connected to the mainland on one side, e.g. Scandinavia, Iberia and Italy; and islands. The peninsulas and islands allow for countries to separate themselves from the rest of the continent whilst trading and interacting more intensely with people on their own little peninsula or island. You'll notice that most peninsulas and islands tend to be occupied by only one or two countries. For instance Great Britain has only one country on it, whilst the island of Ireland has two countries. Iberia has two countries: Spain and Portugal. The Italian Peninsula has one country: Italy. The Scandinavian Peninsula only has two countries whilst the Danish peninsula has only one country: Denmark. The mountains also help keep Italy and France separated and keep Switzerland in a position where neutrality is feasible. 
+
+Asia on the other hand is has few of these problems. You'll notice that that South East Asia, which is mostly filled with islands, peninsulas and difficult to traverse scenery, has a very high density of countries because the geography makes it easy to maintain independence. Additionally, China had little geography to get in its way when expanded Westwards and so kept expanded Westwards and Southwards until it hit the Himalayan mountain range. the British in India did similar apart from they headed North East to hit the Himalayas. The Soviet Union and the Russian state which preceded it also had little difficulty expanded through the easily traversable terrain all the way into Central Asia (the modern -stan country region) and to the Pacific Rim. Apart from Woodlands and cold there was little to stop the Eastward expansion of Russia. No mountain ranges or hostile and well equipped tribes. 
+##
+Does Morris explain why he assumes mountain ranges and coastal waters are more difficult to traverse than thousands of miles of open steppe/tundra/desert? 
+##
+It is also interesting to note that of all the various attempts, the Romans were the only people to have a successful European empire over the longer-term. The attempts to enlarge within Europe by the Germans French and Spanish (amongst others) all failed. The Spanish, Portuguese, British, Netherlands and French all were successful for a time outside Europe for extended period but never within.
+##
+The Arabs, Ottomans, and Persians all had empires as large as the Romans. 
+##
+Maybe geographically, but according to Morris they did not reach the same level of development, nor did they reunite the original Roman Empire.
+##
+&gt; nor did they reunite the original Roman Empire.
+
+Seems like kind of an arbitrary line to draw if you're comparing empires. I mean, most of those empires held land the romans never did.
+##
+Except that Europe was not part of those empires, and the original question was about Europe.
+##
+The Arabs and Ottomans most certainly held large regions of Europe. 
+##
+They did not unite Europe.
+##
+Neither did the romans.
+##
+True, but they came closer.
+##
+Do yourself a service and stop reading self centered books like that.
+##
+I'm not familiar enough with the Persian Empire to comment on its contributions to human civilization, but I am aware that the Romans raised the technological and military standard of the times significantly.  The fact that some of their roads and aqueducts survive to this day is telling.
+
+##
+&gt; None of them succeeded, because the Romans had exhausted the resources of the Mediterranean lands
+
+Huh?  What resources did they exhaust, exactly?
+##
+Plants and soil.  Every land the Romans conquered was subjected to deforestation, soil exhaustion, and erosion.  They let animals overgraze, conducted military campaigns that made it impossible to care for the land, cut down trees to build thousands of ships, turned the most fertile land into cities and cut down forests to build and fuel those cities.  It was impossible to rebuild because the resources simply weren't there any more -- at least, according to Ian Morris, and also  G. T. Wrench in Reconstruction by Way of the Soil.
+##
+Interesting.  I guess I can buy that in terms of certain regions like North Africa or Syria, which were much more heavily cultivated in antiquity and marginal to begin with.  I don't really buy it for areas further north, especially since a lot of those cities contracted (I recall a figure for Rome going down to about 50k at one point), the infrastructure collapsed, and a good chunk of the population was repeatedly culled by plague.
+##
+Italy, too.  During even during the Roman Republic, Italy had to import grain because so many farms were abandoned, turning not into deserts but into swamps. Greece, Spain, North Africa, as well.  The only strong exception was Egypt, which, due to the overflow of the Nile, had its soil continually renewed. 
+
+##
+Hmmm this would make since why Egypt was the bread basket of the roman empire.
+##
+Interesting.  Your comment roused my interest in the book, and I have just made the purchase.  Thanks.
+##
+I also have a question that may be worth asking here. Please ignore if you feel like this question does not belong here.Is there any strong negative correlation between population density and the size of a nation... generally speaking? 
+##
+Sort of, not really. Countries that have a larger area tend to be less dense, but there isn't a very strong correlation.
+
+[Plot of density vs area for all countries](http://i.imgur.com/F6mDFUY.png)
+
+Russia is way out on the lower right, Macau is the far upper left point
+
+
+[Zoomed in on the lower left corner](http://i.imgur.com/ME6SZTL.png)
+
+
+Done in mathematica, by the way, if you want to look at the data more closely yourself:
+
+    ListPlot[Tooltip @@@ 
+             Map[{{CountryData[#1, "Area"], 
+                   CountryData[#1, "Population"]/CountryData[#1, "Area"]}, 
+                  #} &amp;, 
+                 CountryData[]], 
+             AxesLabel -&gt; {"Area (km^2)", "Pop. density (people / km^2)"}, 
+             PlotMarkers -&gt; {Automatic, 10}, PlotRange -&gt; Full]
+
+
+Edit ::
+If you're curious, [here's also a plot of population (not density) vs area](http://i.imgur.com/KRPwc8y.png)
+
+##
+There's more of a tendency for large, sparsely populated hinterlands to be controlled by a nearby, highly populous power centre. The historical exceptions tend to involve warlike nomadic cultures in periods when they were able to maintain independence or where rival technology and culture made it impossible for sedentary cultures to penetrate their lands.
+
+Most of the Canadian population is in the southern-most strip, there are large population centres in Russia, Africa and China. I can't think off the top of my head of a large evenly sparsely populated country.
+##
+How do you mean?
+##
+Please excuse my vague terms. I think he means: if a country gets to be so large, will the population density go down? 
+
+My knee-jerk reaction is to say yes, population density would go down the larger a country becomes (fewer people per sq. km), but I have no scientific evidence of this statement, so take it as you will. The actual answer is probably more closely related to which resources are available to the population (water, food) and the geography of the nation (lush rolling hills with many trade routes vs. high harsh mountainous terrain).
+
+Look at the USA, India, and China. The populations of those nations tend to gravitate toward easy water sources and sources of income or food (mines, farmland).
+
+[Here is a great website if you'd like to do some research.](http://www.tradingeconomics.com/) I use it a lot for work, and know it to be fairly accurate.
+##
+ I am trying to look for a plot of Population density vs size and to observe a trend(if it exists). I know that in itself doesn't explain anything(correlation does not equal causation), I am merely curios on how the plot looks.
+##
+I don't know of any such figures. But I believe that to a big part these countries with vast areas of land also hold a lot of areas that before the modern man were of little or no value or worth. Most parts of northern Canada for an example had no value what so ever for humans in forms of being able to support agriculture or sustain a civilisation. Times changed as did technology and now these areas are more accessible such as their resources such as oil, gas and minerals. Politics and weaponry has also changed. While Russia could hold its boarders with a few thousand men on horse back before, there were also little interest from other nations to settle these areas. When times changes so did the military power and today Russia as an example protects its borders with nuclear weapons.
+
+So I think the answer lies somewhere in between willingness to expand in early history and ability to keep control. Russia could basically expand un challenged as the brits in Canada. There was basically little or no people at all there to say no to their claims. And other countries didn't care about those cold frozen northern no-man-lands. And population size didn't really play such a big part in in to be honest. 
+##
+I think they might be asking is the reason that countries like Canada,  Kazakhstan, and Russia are so big is because they don't support high population densities and thus have never had reason to sell their land or have anyone try and take it?
+##
+I think you are looking at it backwards. The best measure of the size of a nation is the size of its population. How much area the population is spread out over is a secondary concern.
+##
+Large swathes of unsettled, or sparsely populated territory. Relative lack of foreign intervention (though you can most certainly see fractures when they do butt in- See 18th - early 20th century China) was also useful.
+
+
+
+
+The massive Asian countries thing is actually a relatively new feature. Prior to the modern period many parts of it simply had vague territorial borders- most of Siberia was Russia's, but they didn't really settle the region. China had claims westward, but most of it was rugged mountains and empty deserts. And most people in the region would be offended to be identified by their parent states. Plenty of Russians don't identify as "Russians." Plenty of Chinese don't identify as "Chinese." And when you dig into history there's always fragmentation occurring. Japan, roughly the size of the US's eastern seaboard, used to be divided into clan warfare- the warring states period. China's historically been split *many* times. 
+
+
+
+
+You'll also notice Europe has been unified a few times. Charlemagne, Rome, Napolean, and Nazi Germany all unified Europe in at least *some* capacity. I guess you could say the Austro-Hungarian empire did as well. The Polish / Lithuanian Commonwealth unified a great deal of it too. Many in the 18th and 19th century feared that if Russia ever got it's act together it'd just sweep through western Europe. 
+
+
+
+Point being, there a much *larger* game of infighting going on, and whenever someone blew through the region and unified, the knee jerk reaction was treaties and negotiations to de-ligitimize the act, and to make sure future instances would be met with force. 
+
+
+
+TL;DR: The current division of nations in Asia is the exception, not the norm. Europe goes through phases of unification and fracturing too. 
+##
+I can't speak regarding the East, but I know a bit about the West. 
+
+The West as we know was governed in a large form up until the fall of the Western Roman Empire. After that, various barbarous factions and groups fought for power and land, while the forces of Christianity and Feudalism were at work. Christianity allowed for some unification in the Western Christian empires during the 7th-9th centuries. Feudalism, I'd argue did less for unification because of the reliance on knights and wealthy land lords who did not hold any sort of "national" power that we see today. These and other forces led up to seeing *some* familiar boundaries that we see today in Western and Northern Europe. I think the most important thing to note here is the use of Germanic tradition. Germanic tradition stated that everything a father owned would be bequeathed equally among his children. Charlemagne united many peoples under his empire, however it would be split in 843 by the Treaty of Verdun to each of his sons. This created some *somewhat* familiar boundaries that we know as France and England to name a couple. Denmark's southern boundary was set under Pepin's reign, just before Charlemagne.
+
+Source: Thomas H. Greer, Gavin Lewis, *A Brief History of the Western World*, 8th Ed.
+
+Edit: I'm no expert, but this is what I've been studying as of late on my way to a History degree.
+##
+A lot of answers here answers the geographical question, but I want to bring in some economic aspects.
+Prior to the Industrial revolution, China wasn't particularly interested in international trade. They sent out Treasure Ships mainly for diplomatic missions rather than to collect goods. Why? Because the Europeans would kindly go to them. Chinese and Asian goods were more valuable to the Europeans than the other way around. This meant that China could concentrate on expanding continentally rather than overseas and without much competition. The Europeans constantly fought with one another for various colonies, which was slow and arduous. With the discovery of coal in the West, and the invention of steam technology, this gave Western governments more incentive to mobilize their naval forces and manufacturing. Journeys to the East were quicker and more efficient. Slowly Asian countries became more and more dependent on the West because of this great technological and economic divergence. 
+
+Also, it's important to note that pre-industrial China had one of the most advanced government institutions and social policies in the world and they were able to mobilize their people across large land masses with ease. 
+
+Source: The Great Divergence: China, Europe, and the Making of the Modern World Economy by Kenneth Pomeranz
+##
+Did the mongol invasions of asia have more to do with uniting large parts of Asia than just geography?
+##
+Can you source this at all, or is it 100% spitballing?
+##
+A lot of it has to do with geographical conditions. As Henry Kissinger describes in his book 'On China', China is very clearly defined by geographical features on all sides (The Yellow Sea, The Gobi Desert, The Himalayas, as well as self sufficient within those natural borders. This has caused them to develop a very isolationist political culture where internal warfare (For example, the period known as the Age of the Warring States, little after which we see one of China's most prized literary works, Sun Tzu's Art of War, being written.) rather than external warfare is the norm. Internal warfare, but never with the aim to divide the country, like we see in Europe sometimes, but rather to unite it under a single ruler, an emperor of some sorts.
+
+Now when China comes into contact with Western-European nations, that's when things get really interesting. Forced to interact with other nations that pretty much outweigh it in strength and development for the first time in it's history, China transforms into a new kind of creature. This is when we see the rise of the colonies, Hong Kong, Shanghai, and so on, and eventually even the birth of new nations: North and South Korea, Taiwan, and now for decades we hear pleas for other parts of China wishing to abandon the political giant. On the flipside we see China adopting ideas from the outside. Communism, for example, has for a long time been wildly popular amongst the Chinese political elite.
+
+Why did things go different in Europe? In a way because of geographical features. Europe is easily accessible and manoeuvrable. It is entirely possible to walk from Amsterdam all the way to Moscow (From there on out it becomes more difficult). That is why the nations of Europe have always been in thorough contact with one another, and why you see that the more hard to reach places, the British and Irish islands, Switzerland, tend to be more isolationist in nature (With Britain being forced to interact with, for example, France, and thusly being drawn into the European political game; No one fucks with the Swiss, however).
+
+Sources: The first two paragraphs can be found in Henry Kissinger's 'On China'; The third paragraph is based on European and German history classes at the University of Applied Science in Amsterdam, where we tackled this very question (Why is Europe so divided)
+##
+China only reached its present extent in the Qing dynasty, so I don't see how geographic features like the Himalayas (thousands of miles away from China proper for most of its history) could have a role. Internally, China is at least as geographically diverse and fractured as Europe. For most of its history, it wasn't isolated at all: it had an open and contentious border with steppe peoples to the north and east, and complex political relationships with smaller states to the south and west. Even its name (Zhongguo, "The Middle Kingdom") carries the idea of a core state at the centre of a myriad of peripheral cultures, not one monoculture bloated to fill massive natural borders as it's often stereotyped in the west. Not to mention, the Middle Kingdom wasn't one kingdom for most of its history. It's bizarre to call the Warring States period "internal warfare" when at the time China was a patchwork of independent states that *had never been unified*. There are many other periods in Chinese history where multiple Han dynasties coexisted for a long time, along with powerful non-Han states that at times controlled significant areas of modern day China. How is that any different from post-Roman Europe? Where's the logic in calling these periods of division in Chinese history "internal" warfare and a sign of China's enduring unity, when you call precisely analogous periods in European history a sign of its enduring diversity?
+
+Also, saying "other parts of China wishing to abandon the political giant" and linking it to Western colonialism is a very dubious assertion. Independence movements in places like Tibet and Xinjiang have arisen because many people there *don't* see themselves as "parts of China". These are culturally distinct regions that were incorporated into the Chinese state very recently in historical terms, in what was arguably a colonial project by China itself. And, for the record, Korea has never been part of China and was an independent state long before Europeans came onto the scene.
+##
+The Himalayas are a natural divide between China and India, resulting in a very limited interaction between the two. The same goes for the Yellow Sea dividing China and Japan. I never said China was not aware of other countries, I said they hardly ever interacted with them. The Warring States period was, viewed from this perspective, internal warfare, if you take the principle of the Centripetal Harmony into consideration. Like, for example, a solar system, the different Chinese states (the planets), while being independent, revolved around a larger cultural base (the star). While they weren't formally united, there was a cultural element that bound them all together.
+##
+Can you source this comment at all, linking European colonialism as being a) the cause of the idea of borders, b) the idea of a nation, or c) explaining how European colonialism has anything to do with Asia having larger countries?
+##
+As I mentioned earlier, by country I should have said nation-state. What I mean was, a nation-state with a defined border in relation to other nation-states is a product of the 19th century.
+
+Borders of things like the Roman and Chinese empires are far different to modern notions of country borders separating 'French' people in their 'French' country from 'Spanish' people in their 'Spanish' country; borders as a demarcation of identity as opposed to an expansionist frontier. It's noted by Matthew Flynn in his "China Contested" that China has been racked with border problems throughout it's history, and post-European contact it's method of dealing with outsiders had changed. The arbitrary border between China and Taiwan are relics of European interference. But of course Flynn also notes that China's current state is very much so a reaction against these Western boundaries; that in and of itself is an influence.
+
+A prime example of colonialism imposing a modern border in an area of Asia in which the notion was relatively alien is Mandatory Iraq, Malaya or India; the latter in particular being a series of princely states, and a unified India became a retaliatory concept in no small part influenced by the Irish independence movement, but along the lines of a unified 'India' polity under British rule.
+
+You can see the reactions of Nationalism in the formation of states as a reaction to imperialism in works such as William Roff's "The Origins on Malay Nationalism", Milner's "The Invention of Politics in Colonial Malaya", and Ernst's "India's Princely States".
+
+I'm in no way claiming that all Asian borders are European constructs from the 19th century. But I am saying that European colonialism and imperialism had an effect upon many of the borders we can see in many countries through-out Asia, and that in many modern countries the smaller ethnic divisions were put aside for unity under a greater banner of nationality during and after the colonial period. I had also mentioned that population density and geopolitics, and myriad other things has a strong influence on such things too, of course. I prefaced by statement with an 'in part' to avoid sounding like I was talking in absolutes.
+##
+Can you source any of this, or is it all off the top of your head?
+##
+most of it is from the top of my head. but the 'pursuit of glory' by Tim Blanning does reason out the interaction of 'modern' European states with regards to expansionism and political relationships. the concept of culture as a reason for the disparity between geographical sizes of Asian versus European nations is only a reasoned inference since factual arguments are likely. this likely explains why Robbespierre failed while successors of Qin Shihuang, and individuals such as Kublai Khan succeeded since they had systematic and cultural factors to help them maintain rule over nations while Robbespierre could only depend on individual charisma to carry him to a certain extent.
+
+Apologies if the answer is vague or unsubstantiated. I only meant to contribute somehow.
+##
+I am no expert on Asia, but I can speak to Europe, and Russia (Which, Russia - for this particular question - can be used as a nice intermediary). 
+
+Europe's pluralism is a consequence of centuries of large empires, each extending themselves across the world in expansionist goals, and thus advancing their economies and weaponry rapidly. Every so often (1640's, 1810's, 1910's, 1940's) an upstart power will come close to conquering Europe, which causes the other great powers to ally against them in the interest of not having a continental hegemon. Events like the Peace of Westphalia, the Council of Europe, and the League of nations have even codified in their structure, the notion the Europe should remain divided and balanced.  
+
+My surface level knowledge of Asian history tells me that no such political notions have existed there. 
+
+There's your diplomatic history answer. 

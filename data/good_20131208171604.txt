@@ -1,0 +1,648 @@
+##
+In short, I would argue that yes, Confederates did see slavery lasting inevitably. From our perspective, slavery does seem to be profoundly anti-modern, both in light of industrialization and emancipation. But by the 1860s, the extent of these processes was far from obvious. Indeed, slave owners in the mid-nineteenth century constructed their own version of modernity that had slavery at its core. 
+
+I think you'll find that because of the immediate distraction that was the Civil War, there were fewer articulations of how southerners imagined slavery playing out in the future than one might expect (please prove me wrong, though). However, in the mid-nineteenth century, slave owners' imagined future involved the continual expansion of their slave system. Pro-slavery forces in the 1850s supported filibusters, or non-state military actions, against Cuba and Nicaragua with the hope that they could incorporate these territories into the United States and thereby keep expanding and strengthening the American slave system. To a similar end, by the late 1850s, many southerners schemed to reopen the slave trade. Far from being in a state of decline, southerners perceived the slave system as vibrant. 
+
+In the historical imagination of the southerners, slavery was both a natural and Godly way of existing. It occupied a place within a Christian eschatology that emphasized the importance of order and peace to the second coming of Christ. In that sense, they expected that slavery would last until Christ returned. 
+
+On the other hand, the forces of antislavery, many southerners believed, were aligned with the forces of the antichrist, or otherwise a generally disorganizing influence. For example, in an 1861 pamphlet called *Slavery, a divine institution*, a southerner named J.B. Thrasher traced a genealogy of antislavery back to the French Revolution (then widely acknowledged to be a barbaric and dangerous event -- Thrasher attributed anti-slavery to "the Jacobin clubs of France, during the bloody reign of Robespierre, in which the very dregs of society got possession of the government."), the Haitian Revolution, disorganizing parties in England and New England, before arriving in Abraham Lincoln's dangerous brain. In this version of history, it was actually the abolitionists who were backwards, barbaric, and anti-modern. By attempting to destroy slavery, abolitionists were attempting to subvert a natural order, and return mankind to a state of brutality. The course of history, to southern slave owners, was on the side of slavery.
+
+Edit: to add a few sources for further reading on this topic:
+
+* Walter Johnson, *River of Dark Dreams* (2013).
+
+* Matthew Karp, "'This Vast Southern Empire': The South and the Foreign Policy of Slavery." Ph.D. dissertation, University of Pennsylvania, 2011.
+
+* J.B. Thrasher, *Slavery, a divine institution* (Port Gibson, Miss., 1861), above quote on p. 5.
+##
+How widespread in the South was Thrasher's belief that slavery was a divine institution? I have always been under the assumption that only the rich minority owned slaves, and the rest of the South was somewhat indifferent to the institution.
+
+For a followup question, is this pro-slavery philosophy directly connected to the founding of groups like the KKK?
+##
+I'm afraid I can't answer your second question, but as to your first question, it's not quite the case that only a rich minority owned slaves. [Here's](http://imgur.com/JtUFlqD) a table showing the number of slave owners in 1860 by state separated by the number of slaves they owned. (I believe I saw it on reddit a week or two ago, and bookmarked it) There were actually far more slave owners who could only afford one or two slaves than there were of the "planter" type (sometimes defined as a person who owned 50+ slaves). So slave owning was a bit more widespread than some people expect, though it was still confined to a minority of southerners. 
+
+Additionally, a number of scholars have argued that even those southerners who did not own slaves were heavily invested in the slave system. For one thing, some of them may have dreamed of becoming slave owners themselves some day. Others may have simply feared what would happen if they were emancipated. Still others would have simply imbibed the racism of the "master class". So while I doubt it would be possible to prove it definitively, I would imagine (and have seen historians claim) that this view of slavery as a natural, Godly hierarchy, was pretty common. However, of course, it would not have been comprehensive. For example, Carl Degler wrote a classic book called *The Other South* (1974) that traces Confederate dissenters and other southerners who don't conform to the stereotypes. 
+##
+What kind of populations did these places have at the time?
+##
+List of the [populations of each State in 1860] (http://en.wikipedia.org/wiki/List_of_U.S._states_by_historical_population)
+##
+I see the total population, but how many households?  If a family of four owned one slave, is only the head of the household a "slaveholder"? 
+
+Wouldn't it be more meaningful to talk about the number or percentages of households that owned one or more slaves?
+##
+For the 1860 census (I'm not positive about the others) slaveholders were counted by heads of household, essentially. If, to use your example, a family of four owned one slave that would show up as a single slaveholder even though all four members might be involved in the overseeing of the slave, discipline, etc, and also benefit from the slave's labors. The census did count total households, so we can do some division for very rough approximations. The University of Virginia has the data online here: http://mapserver.lib.virginia.edu/php/start.php?year=V1860.
+
+It's a crude measure that has a few issues with it, but you can just take the total families and divide by total number of slaveholders to get a rough idea. The UVa interface lets you do that automatically and brings up some interesting totals:
+
+Mississippi: 49.10% of households owned at least one slave
+South Carolina: 45.53%
+Georgia: 37.38%
+
+But also:
+Delaware: 3.10%
+Maryland: 12.50%
+Missouri: 12.66%
+Kentucky: 23.24%
+
+These numbers can't, of course, include all the ways in which large slaveholders might share the wealth by loaning out slaves to poorer neighbors, support them through easy loans and so forth that at least indirectly spread the economic advantages of slaveholding to people who did not themselves own slaves. Eugene Genovese published an article on that network back in the 70s, which is available on JSTOR if you register. You can read it, but not print it out unless you pay:
+
+Genovese, Eugene. "Yeomen Farmers in a Slaveholders' Democracy." Agricultural History. 49.2 (1975): 331-342. Web. 1 Dec. 2013. &lt;http://www.jstor.org/stable/3741274&gt;.
+##
+A handy [Chart to answer your question.....](http://eweb.furman.edu/~benson/docs/shfam60.htm)
+##
+Thanks.  It looks like slave owning was indeed a top 5% activity, then.
+
+
+Edit: it's been pointed out to me that a large percentage of "households" had slaves, while the individual count is misleading.
+##
+Yet the lower class whites also benefited from the slavery based economy. True they just got the trickle down from the tables of the large land and slave owners, but the entire economy was dependent upon cotton picked by slaves. Not to mention the fact that people are willing to kill and die for social status. In fact such ego/self image issues are often a much larger motivation than profit.  
+
+
+##
+If you look at the comments above (posted after you commented I believe), owning a slave was a head of the household business so in reality up to 49% of Mississippi households had slaves. [Source from above](http://eweb.furman.edu/~benson/docs/shfam60.htm)
+##
+Well....I'd bet those population numbers count the slaves.  That'd have to be accounted for.
+##
+Even if you subtract the slave population (and [wikipedia](http://en.wikipedia.org/wiki/Confederate_States_of_America) gives those numbers) it still only shows that roughly 7% of the population held slaves.
+##
+Slavery was a widely practiced behavior in several Southern states, even with the slave population subtracted. 
+##
+Except, in Mississippi, nearly 50% of all households held slaves, so yes, it was widely practiced.
+##
+The population of Mississippi in 1860 was over 700,000. There were just over 30,000 slave owners in that state (Much higher relatively, but still not even approaching ten percent). I'd love if you quoted some statistics relevant to your post - This is ask historians after all. All my evidence has already been linked in this comment thread. 
+##
+As far as the imbibing of the racism aspect, it's important to remember that most of the Southern whites without slaves were extremely poor. They had nothing in life, and struggled just to survive. The only thing that these people had to cling to, being at the bottom of the economic totem pole, was their superiority over blacks. 
+
+To us, it is obvious that the Jim Crow laws and the policy of segregation helped maintain this superiority, but in the 1850's and early 1860's, white southerners were absolutely terrified by the prospect of emancipation, because they felt that society would be completely disrupted. 
+##
+It's extremely enlightening to hear that the attitudes raised by southerners in this era were brought upon by class issues.
+##
+That remained for a long time, in fact the kkk generally portrayed itself as the champion of the victimized white poor, with their task being to restore the natural order. The opposition to civil rights was similar, as long as black people were a lower class, poor whites had less resentment towards the upper class/landed gentry. Once that totem began to fall the Democratic plan was to Institute a more natural class basic political structure with a much broader base of poor voter. Didn't work out this way in fact, but that was a theory argued during this period. Nixon's southern strategy neatly preempted this. 
+##
+If you ever get a chance, you should read *A People's History of the United States* by Howard Zinn.  It gets into those issues in depth.  Early on, white indentured servants were treated very similarly to black slaves during their terms of service.  After several revolts, riots and similar things where both white indentured servants and black slaves fought side by side, those in power began policies to reduce the ability of white people who were very impoverished to fight next to black slaves by beginning to set them above blacks in such ways as granting land, money and a weapon to white indentured servants at the end of their terms of service.  It was a method of maintaining control via racial divisions rather than keeping their situations so similar that they would have cause to rise up together as they were a clear numerical majority.  Several revolts throughout the 18th century had them fighting side by side nonetheless.  The class aspect is very interesting as well, proto-socialist ideas were not a rare thing during the colonial and early US periods, even anarchist ideas would be supported from time to time, the best documented being an assembly shortly before Shay's Rebellion when a man named Plough Jogger said, "I have been greatly abused, have been obliged to do more than my part in the war, been loaded with class rates, town rates, province rates, Continental rates and all rates ... been pulled and hauled by sheriffs, constables and collectors, and had my cattle sold for less than they were worth ... The great men are going to get all we have and I think it is time for us to rise and put a stop to it, and have no more courts, nor sheriffs, nor collectors nor lawyers", and the response was said to be general applause that the chairman had to restore order with his gavel.  
+
+Really that entire book is full of the other side of American history, analyzing the origins of racial tensions, class tension, sexism, etc and actually talking about the really horrendous things that the US is founded upon.  Zinn is a communist and it isn't exactly hard to tell so, but he does rely on solid historical evidence when telling the history, inserting his own commentary sometimes where his political ideology can be seen.  I'm not even a quarter of the way through it (into the Indian Wars, so past the time period of the origination of racism as a tool of class division).
+##
+It's one thing to not particularly care about slavery itself, being not personally invested in the institution. It's another to accept them becoming coequal citizens to you, with all the rights and privileges thereof. This could result in significant dilution of your own voting power and the power people of your culture held in your government. In states like Massachusetts, it was hardly any big deal to free a fraction of a percentage of your population. In states like Mississippi and South Carolina, slaves were a majority of the overall population, and did indeed take control over the state government following the civil war, electing Republicans to power as well as the first black senator, until reconstruction ended and the horrors of Jim Crow began. In a way, it was sort of like the situation the white South African population faced that lead to Apartheid. 
+
+I am not trying to defend us, it was our responsibility for taking these people on in the first place. Both the desperate Confederate apologetics, which attempt to entirely absolve the south for what we did, and the view that presents us as cackling villians, are incorrect, and overly caricatured. It is one thing to say that the we do not inherit guilt, but apologists betray themselves and their anxiety about the matter by following such arguments with desperate defenses of their ancestors that attempt to wipe their slate totally clean. The best way to honor the ancestors is to acknowledge and correct their mistakes, not futilely deny anything untoward occurred at all.
+##
+&gt; In states like Mississippi and South Carolina, slaves were a majority of the overall population, and did indeed take control over the state government following the civil war, electing Republicans to power as well as the first black senator, until reconstruction ended and the horrors of Jim Crow began.
+
+Can you expand on that? Was there really a feeling that the blacks were taking over the state? Was "Jim Crow" a response to that?
+##
+There was a fear of 'dechristianization', where the values would be diluted. Jim crow was a part of that, as we're the anti-misegination laws, the key was the earlier social order must be protected from any contamination, and the population of black people was high enough they could imagine becoming a majority in their own States. 
+
+The fundamental argument, however, was that black people and black culture were inferior by definition, and any means necessary must be used to counter that. A similar fear existed during the interwar period in Germany, where the hard working German farmer was losing ground to the Jewish professional and financial class. The fear was the rest of Europe, America, and Russia were using/being used by their German jew confederates to keep Germany weak and controlled, while the rest of the world kept the wealth for themselves, much of the work being the product of German labor stolen through as 'reparations'. 
+##
+Absolutely there was a fear of blacks taking over. It was, in fact, the single greatest fear of the Postbellum South. If you watch the silent film *Birth of a Nation*, there's an incredible scene of the "mullatos" and blacks "taking over" the state house post-election. They are sitting, unshoed feet propped up on the backs of seats, generally acting like a caricature of savages. It's unbelievably racist, but also a very clear glimpse at how the brief Reconstruction-era was viewed in the early 20th-Century South. 
+
+
+##
+Yes. If you look into the Wilmington Coup of 1890, the only successful coup d'etat in the history of the US, it was caused by the election of black officials to local government. A conspiracy of white citizens overthrew the government, burned down NC's only black newspaper, and killed a number of black citizens (estimates range from 6 to ~100).
+
+This incident led to the News &amp; Observer (then and now NC's biggest newspaper) wringing their hands about how black people in government necessarily causes violence, which led to the state legislature passing some of the first Jim Crow laws.
+##
+&gt; In states like Massachusetts, it was hardly any big deal to free a fraction of a percentage of your population.
+
+Note though that Lincoln's attempts to encourage Delaware to emancipate its slaves were a resounding failure.
+##
+Thanks. This shows in Tn 25% of the population were slaves, and 25% of the population owned slaves.(?) Am I understanding this correctly? 
+##
+Stephanie McCurry's book *Confederate Reckoning* is another great source on Confederate dissenters. She argues the Confederacy, because of the inherent class inequalities in a slave society, was doomed from the beginning.
+##
+Does she make comparisons to other slave societies throughout history? 
+##
+Yeah! She constantly compares the Slave South to places in the Caribbean and Europe. Those comparisons are a major part of her argument.
+##
+Great, I'll read that, thanks!
+
+##
+I know that slaveowners were concerned about the effect that freeing the slaves would have on employment. Their own labor costs would 8ncrease as they would have to pay workers who used to be free (although there were costs associated with feeding and housing them) but they would also compete with white workers and drive down labor compensation in other firlds as well. Is there any record of the average white non-slave owning worker being concerned about free slaves taking their jobs or driving the pay rate down?
+##
+What about the cost of goods? Wouldn't slavery have lowered the cost of production, making it cheaper to produce, and allowing them to sell goods at a lower price? Would this have not rallied support around slavery, even to those that didn't own slaves?
+##
+Something is wrong with that table: columns 3 to 7 sums up to column 8. But the values in column 2 are about twice those of column 8.
+##
+Column 2 is the total slaveholders; the columns to the right of it are the number of slaveholders who held particular numbers of slaves. So Column 2 is the total of columns 3 through 10.
+
+I'm not really sure where the problem is here?
+##
+That column 8 is the sum of columns 3-7. So those are in effect counted twice.
+
+Besides, the numbers in the rest of the columns don't exactly add up the the number in column 2.
+##
+Ohh, I see what you mean. I think I was reading that as 5 - 10 slaves somehow.
+##
+Column 8 is the sum of columns 3-7.  So column 2 should be the sum of 8-10, not 3-10.
+
+There is a gap in the numbers though, as column 8 is 1-5 slaves, and column 9 is 100-499 slaves, but that shouldn't account for the missing nearly 50% in column 2.  It doesn't look like it's just sloppy addition though, if you add up 3-10 you don't get exactly 2.
+##
+the missing column 8.5 of owners of 6-99 slaves might make the difference.
+##
+Must be.  I think that chart falls into the realm of misleading statistics though, as it's trying to make the point that slave owners with only a few slaves were more common than ones who owned many, yet they leave out data for 50% of the owners that contradicts that.
+##
+Thank you for posting that chart, it's really enlightening. I, too, usually heard the "only a minority heard slaves" bit but that chart plus this [chart of state populations in 1860](http://en.wikipedia.org/wiki/List_of_U.S._states_by_historical_population#Table_1:_1790.E2.80.931860) is helping me put into perspective what that actually means. 
+##
+Based on the link provided by /u/zachpoo, it seems that about 5% of the population in Virginia (chosen at random) owned slaves.  That seems like a wealthy elite, though perhaps not "super-rich".
+
+Edit: it's been pointed out to me that a large percentage of "households" had slaves, while the individual count is misleading.
+##
+Yes, it's certainly a small minority. However, I would be hesitant to describe it as a "wealthy elite." Those numbers include plenty of poor white farmers as well, who managed to scrape together the money to buy one slave. Just because a person owned a slave didn't mean that they were a member of a wealthy elite. Many poor slave owners actually worked alongside their slaves on farms. Unfortunately, I don't have statistics at my fingertips right now for this, but perhaps someone else can find numbers on this. 
+
+However, this critique about the slave interest being a wealthy minority was also one that circulated at the time. Many northerners felt that a "Slave Power" conspiracy was controlling the southern states and their governmental apparatus (as David Brion Davis showed in a 1969 book called *The Slave Power Conspiracy and the Paranoid Style*). Southerners didn't generally like that characterization, and in a Jan. 1861 issue of *DeBow's Review* (which was a very popular, pro-secessionist periodical) James DeBow rebutted it rather directly:
+
+&gt; the slaveholders of the South, so far from constituting, numerically, an insignificant portion of its people, as has been malignantly alleged, make up an aggregate greater in relative proportion than the holders of any other species of property whatever, in any part of the world; and that of no other property can it be said, with equal truthfulness, that it is an interest of the whole community. While every other family in the States I have specially referred to are slaveholders, but one family in every three and a half families in Maine, New-Hampshire, Massachusetts, and Connecticut, are holders of agricultural land; and in European states the proportion is almost indefinitely less. The proportion which the slaveholders of the South bear to the entire population is greater than that of the owners of land or houses, agricultural stock, State, bank, or other corporation securities anywhere else. No political economist will deny this. Nor is that all. Even in the States which are among the largest slaveholding, South Carolina, Georgia, and Tennessee, the land proprietors outnumber nearly two to one, in relative proportion, the owners of the same property in Maine, Massachusetts, and Connecticut; and if the average number of slaves held by each family throughout the South be but nine, and if one half of the whole number of slaveholders own under five slaves, it will be seen how preposterous is the allegation of our enemies, that the slaveholding class is an organized wealthy aristocracy. The poor men of the South are the holders of one to five slaves, and it would be equally consistent with truth and justice to say that they represent, in reality, its slaveholding interest.
+
+[For reference, someone put up a copy of his whole article on [this site](http://civilwarcauses.org/debow.htm).]
+
+One might easily argue that it was more important that southerners perceived the entire southern economy and their livelihoods as being tied up in the interest of slavery, than that a majority personally owned slaves.
+##
+One thing I've always wondered is that given the relative minority of slaveowners in the civil war, what made the confederacy and secession so popular in the south? 
+
+Or was it actually that popular?
+
+I know that the confederate troops are portrayed as fanatical, but that is often associated with their love of Gen. Robert E. Lee - did the average southerner actually buy in to that serious of a degree? Was the support ideological (i.e., buying into slavery + states rights shit) or was it more a sort of unified rejection of the then-republican north?
+##
+I wonder how many southerners bought into the romanticism of revolution and starting a new country.  The American Revolution was only 3 generations removed.  The thought of being in on the ground floor a new countries (and reaping the benefits associated with that) must of had some influence.
+##
+Do you know of any accounts of what life was like for slaves who lived in one-slave households?  
+##
+26% of free Virginia households owned slaves.  Counting slave owners as a % of the total population (or even as a % of the free population) is misleading.  Children did not own slaves.  Wives (by and large) did not own slaves.  
+
+Over 1/4 of Virginia households owned slaves.  This was not 1%, or 5%, or some other very small minority of the very wealthy and most upper class.  In other Confederate States, almost 50% of free households owned slaves.
+##
+it is better too look at in terms of households. [Source from above](http://eweb.furman.edu/~benson/docs/shfam60.htm)
+##
+My American History professor spent *weeks* discussing the South's religious justification for Slavery. I will gladly dig through my textbooks and old notes for references (which I think the moderators will demand anyway). My prof basically said that slavery is widely accepted throughout the Old and New Testament; this was used by Southerns to defend their slavery. While racial slavery wasn't obviously covered, there are Old Testament laws about the relationship and expectations between master and slave, and New Testament letters to the early churches about how Christian slaves should be treated better than pagan slaves. In the Upper South, where States were closer to the North and had to deal much more frequently with abolitionists, the Bible was used by pastors to defend slavery. Like u/Jordan42 explains very well, Southerns really did feel that abolitionists were in league with the antiChrist because slavery was so obviously (in their eyes) supported throughout the Bible. Abolitionists who used the Bible to support their ideas had to use a more liberal interpretation about all Christians being equal in the eyes of God, which was not popular with most Americans, who interpreted the Bible literally. Mark Noll has written a tremendous amount about early Christianity in the US, and here's the books we used in class to discuss your first question:
+
+* A History of Christianity in the United States and Canada
+* The Civil War as Theological Crisis
+* America's God: From Jonathan Edwards to Abraham Lincoln
+
+Pastors in Virginia, SC, and NC would have issued pamphlets in reaction to abolitionist printings, and would have been widely read by an elite class (who had the education and Bible background to understand what the pastors were driving at). Lower class Southerns owned slaves at a far greater rate than we tend to acknowledge. The popular image is Terra, with hundreds of slaves. The reality is that many Southerns would have owned between 1 and 5 slaves, and their pastors would have been using the pamphlets from more popular preachers as well as the Bible to support the social order at the time. No one would have been indifferent by the time the Civil War started, since it was *the* defining issue at the time.
+##
+Please do. I would like to read more of them. I do know that Rev. Richard Furman, whom Furman University is named after, [wrote on the topic of slavery and Christianity](http://eweb.furman.edu/~benson/docs/rcd-fmn1.htm) - or the form of Christianity that would become Southern Baptist. 
+
+Furman, Richard. *The Views of the Baptists [...]*. 1838. 
+##
+I think that should be Tara, not Terra, if you're referring to the plantation in *Gone With the Wind*
+##
+I believe people in the south thought it was a divine institution because of a part in the Bible, God talks about marking 'a group' of people with the Mark of Cain after Cain killed Abel. This was interpreted as black people having this curse and because it says the curse is generations of generations of their ancestors doing intense manual labor. 
+
+So essentially because this was in the Bible and could be interpreted in a certain way, this was marketed and preached throughout the Dixie South to promote the idea of slavery to not only other southerns to more so the kids understood it as well.
+##
+I have always been educated that even the white majority that did not own slaves were pro-slavery because it meant that, to put it colloquially, they "were not the bottom of the totem poll." It was for this same reason that even after the slaves were freed, it was often the lower socio-economic classes that were the most racist. 
+##
+&gt; Pro-slavery forces in the 1850s supported filibusters, or non-state military actions, against Cuba and Nicaragua with the hope that they could incorporate these territories into the United States and thereby keep expanding and strengthening the American slave system. 
+
+Another good source on this:
+
+* Robert E. May, [*The Southern Dream of a Caribbean Empire*](http://www.amazon.com/Southern-Dream-Caribbean-Empire-1854-1861/dp/0813025125) (1973)
+##
+Thanks - I was not aware of that book. It's becoming an increasingly fashionable topic in 19th century U.S. history to discuss these filibusters and Caribbean expansionism, so it's good to know there was a precedent. Another book on this topic (from the angle of masculinity) is Amy Greenberg, *Manifest Manhood and the Antebellum American Empire* (2005).
+##
+&gt; "the Jacobin clubs of France, during the bloody reign of Robespierre, in which the very dregs of society got possession of the government."), the Haitian Revolution, disorganizing parties in England and New England, before arriving in Abraham Lincoln's dangerous brain. In this version of history, it was actually the abolitionists who were backwards, barbaric, and anti-modern.
+
+That makes sense when you look at how the newspapers at the time regarded Lincoln.  Doris Kearns Goodwin (Team of Rivals) says they described him as Western-American-backwoods-country-bumpkin lawyer that manipulated his way into the Republican ticket by defeating his more well known and worthy opponents.
+##
+&gt;by the late 1850s, many southerners schemed to reopen the slave trade. 
+
+I heard somewhere that the Confederate constitution included a ban on the slave trade. Is that true? And if so, why?
+##
+No, it is not true. I'm on mobile right now so can't provide a link, but the full text of the confederate constitution is readily available with a google search. It makes it very clear that the continuation of slavery is the prime justification for the creation of the confederate state .
+
+Edit: I am wrong about the slave trade ban! My other point still stands.
+##
+The importation of slaves from foreign nations was banned by the Confederate Constitution, slavery itself was fine and dandy. 
+
+"Article I Section 9(1)The importation of negroes of the African race from any foreign country, other than the slaveholding States or Territories of the United States of America, is hereby forbidden; and Congress is required to pass such laws as shall effectually prevent the same"
+##
+Obviously the continuation of slavery was the prime justification for the Confederacy, but that's not the same thing as the slave trade. Anyway, I took your advice and googled it and... it is true! Here's the relevant section.
+
+&gt;    Article I Section 9(1) The importation of negroes of the African race from any foreign country, other than the slaveholding States or Territories of the United States of America, is hereby forbidden; and Congress is required to pass such laws as shall effectually prevent the same.
+
+Could anyone provide any information on the thinking behind this? Was it to protect the value of rich Southern slaveholders' property? Was there any debate about this within the confederacy when the constitution was being written?
+##
+My speculation is that protecting the value of existing slaves was precisely the reason- a ban on imports would create an artificial scarcity, just like, say, taxicab medallions.
+##
+Color me surprised, I hadn't read the text in a while and forgot about this detail. 
+##
+I think it would be to not antagonize the European powers that they were trying to court.
+##
+New slaves came from breeding existing ones, especially in Virginia. Reopening the slave trade would destroy the wealth of slave*holders*, a powerful political class, to enrich trans-Atlantic slave-*traders*, a tiny class of black-market operators with little or no political power compared to slave-owners in general.
+##
+&gt;  For example, in an 1861 pamphlet called Slavery, a divine institution, a southerner named J.B. Thrasher traced a genealogy of antislavery back to the French Revolution (then widely acknowledged to be a barbaric and dangerous event -- Thrasher attributed anti-slavery to "the Jacobin clubs of France, during the bloody reign of Robespierre, in which the very dregs of society got possession of the government.")
+
+Really, even in the United States? How widespread was the sentiment that the French Revolution was barbaric and dangerous there?
+
+While I can understand that the many nations of Europe still ruled by monarchies at that time would have looked poorly on the events of the French Revolution - especially after it lead to Napoleon's rise to power - I would have thought that Americans in general would have taken a more sympathetic view to a population kicking out a monarchy that was (at least in the view of the Revolutionaries) infringing on their rights and taking away their liberty...
+##
+Yep, really (at least by that time). The course of the French Revolution in America was pretty bumpy. 
+
+At its beginning, in 1789, Americans were extremely sympathetic to the Revolution, imagining that it would take a similar course to the American Revolution. Since there was much affection for Louis XVI (who had helped the Americans win their war of independence less than a decade previously) the early models of a Constitutional monarchy were very well-received. Indeed, slave owners in the South were some of the most enthusiastic supporters of revolutionary France. 
+
+However, over time, it increasingly appeared that France's radical universalist project sweeping through Europe and the Caribbean was not an extension of American Revolutionary principles, but was meant to include the United States in the blast zone. By 1798, many Americans believed France was about to invade the U.S., and/or that the Illuminati had masterminded the French Revolution, and were coming to spread the revolutionary plague in America next. Their retrospective opinions of the early revolution changed accordingly -- what was once the people agitating for their rights was now a triumph of disorder and anarchy; what was once seen as the spread of liberty across the globe was now seen as France's scheme for "universal domination." I'm leaving out a lot of details, but by the mid-19th century, the language of anti-Jacobinism and Francophobia was widespread. Southerners, who had once been among the most vocal Francophiles, denounced the French Revolution pretty regularly. 
+
+(Sorry for the disgression, but I can't pass up an opportunity to answer a question about my dissertation topic. I could talk about this stuff for hours, but I'll stop myself there.)
+##
+Interesting... Could American disgust at the more sinister aspects of the French revolution be considered the root of America's love-hate relationship with France? I realized that American nistrust of France (and similar French sentiments about the United States) didn't stem all from that one disagreement over ten years ago, but I didn't realize it went back this far...
+##
+Well, if we want to think in terms of "roots," it's probably more appropriate to go back to the Seven Years' War, when there was quite a lot of Francophobia in the British colonies. 
+
+However, I doubt that Americans' current perception of the French is closely linked to either of these events. After all, there was quite a lot of anti-British feeling at various times in early America, but that hasn't persisted in the same way. 
+##
+No, the radical French Revolution descended into an orgy of madness and murder that horrified many if not most Americans. It has little in common with the far more civilized and conservative American Revolution which, rather than upending society, merely traded one elite ruling class for another and left the social order in tact. 
+
+The French revolutionaries stripped the privileged of their homes and belongings, executions were rampant, Catholicism was outlawed, and don't forget the Reign of Terror.. it was a mess. And it didn't even last, France went on to have kings and emperors again. Much of America viewed the French Revolution as a disaster. 
+##
+This is a pretty questionable interpretation of the French Revolution. Are you trying to claim this is how 19th century Americans viewed the French Revolution, or is this your view?
+##
+The answer to your question is in my post. I shan't repeat myself.
+##
+Thank you for posting this, it's one of my favorite responses on this sub yet. It's amazing how successful people can get at justifying something like Southern slavery--calling it modern and godly whereas if someone said that now we would think they were insane. Incredible, and a bit chilling…
+##
+It seems to me counterintuitive that slave owners would look out and see a world in which slavery was perpetual or ascendant.  Countries outlawing slavery in the decades leading up to the American Civil War numbered in the dozens.  By the time of the civil war, slaveholding in white-governed countries was limited pretty much to just America and Brazil.  What evidence did these American slave holders have that supported their belief that this institution had any future?
+##
+That's a worthwhile point. However, you seem to be making an assumption that slave owners and Confederates were behaving rationally, based on the best empirical evidence available to them. This sort of behavior is pretty rare in history. 
+
+If southerners had accepted that slavery was doomed, or that it would be dead within a few decades, it's almost impossible to imagine them seceding and fighting a war. I don't have evidence on hand to support this, but I strongly suspect that if you were to ask a southern secessionist that question - something like, "How do you expect slavery to continue in America when emancipationist and abolitionist movements are succeeding all over the world?" - he might have responded by invoking some version of American exceptionalism. The millennialist eschatologies that were common in the early nineteenth century certainly left room for the United States to be the seat of Christ's kingdom on earth, for instance. 
+
+And frankly, this would be one of the few occasions in which it makes sense to think of American history as exceptional (or at least divergent) from world history. The slave system in America by the mid-1800s was unique. Joseph Miller, who is arguably one of the world's foremost authorities on world slavery, argues that the 19th century U.S. South was perhaps the only place in the world in which people thought of slavery as an institutional abstraction. [See Joseph Miller, *The Problem of Slavery as History* (2012)] In some ways, the abolition of slavery abroad had less bearing on American slavery than one might expect, because American slavery was so institutionally entrenched in the United States.
+##
+They *were* behaving rationally.  A person with a huge fortune tied to a "peculiar institution" being asked about that institution would answer optimistically.  Slavery is wedded to dead-simple economics, and that is why it ended through much of the world, without conflict, and that is why it still exists through much of the world, without people caring very much.
+
+Before the cotton gin, southerners were much more pessimistic about slavery.  The cotton gin changed the economics, and so it goes.
+##
+Hopefully someone more qualified than myself can answer you, but the constitution of the CSA does state that "No bill of attainder, ex post facto law, or law denying or impairing the right of property in negro slaves shall be passed." In article 4, it also states that in any newly acquired territory that slavery will be established and protected by the Congress. They may have not foreseen it lasting indefinitely (of that I am not sure) but they certainly took steps to entrench it legally in the CSA.
+
+Full text [here](http://avalon.law.yale.edu/19th_century/csa_csa.asp) if you're curious. 
+##
+One thing to note, though, is that they didn't make this clause unamendable; their Article V states that the only unamendable thing is the senatorial representation of the states. For comparison, the [US Article V](http://en.wikipedia.org/wiki/Article_V_of_the_United_States_Constitution) made two other things unamendable until 1808 (the slave trade being allowed, and direct taxes being proportional). So in other words, they made the abolition of slavery unconstitutional, but not "super-unconstitutional".
+##
+Out of curiosity, can Article V *itself* be amended, allowing for those other articles to be changed?
+##
+Conceivably, yes. Whether the argument flies would depend on the opinion of the justices hearing the case.
+##
+Does the Supreme Court have the authority to overturn amendments?  Who oversees the process?
+##
+I don't see how that would be possible. The constitution is the highest law in the land, and the supreme court can only rule on the law. There are no grounds to overturn an amendment. 
+
+
+##
+There would be if the process of the passage of the amendment were itself unconstitutional.
+##
+I cant see how that would work. if a amendment passes its constitutional, If it clashes that bad with something in the constitution the amendment will probable be cancelling out that part. And there are no grounds for a court to overrule the constitution.
+##
+If the process in which it was passed was unconstitutional, then it isn't an amendment yet.
+##
+But [judicial doctrine](https://en.wikipedia.org/wiki/Enrolled_bill_rule) holds that if a law is on the books, it's presumed to be on the books legitimately.
+##
+But which part would get cancelled out, the amendment or the earlier part? And who would decide?
+
+While exactly how to resolve it isn't set out and remains untested the Supreme Court would be high on the list of bodies to make the decision.
+
+EDIT: Word
+##
+It's a classic "conflict of laws" problem. One law says one thing, another says another thing. One provision of the constitution prohibits amendment. Another provision of the constitution lays out a process for amendment.  Both provisions flow from equal authority. Arguments for both outcomes have merit. Ultimately, the conflict will be resolved by how the justices opine. 
+
+Edit: I think the most appropriate legal paradigm to illuminate this dilemma is the concept of [legal realism](http://en.wikipedia.org/wiki/Legal_realism).
+##
+Fair enough. 
+##
+I'm sorry, but did you forget which subreddit you were on? Please do not make these superficial remarks again.
+##
+What did he write?
+##
+True, but the Court generally does everything they can to avoid meddling with the other branches. They would almost certainly say that it's nonjusticiable. That's what has happened with challenges to the income tax amendment. 
+##
+There could be grounds, for instance, in that the particular way that the challenged amendment was ratified was itself invalid (or even unconstitutional), and therefore was never actually a part of the Constitution in the first place.
+##
+It's not overturning an Amendment, rather it's ruling how they interact or their interpretation.
+
+For instance, the 9th and 10th Amendments are mostly held as a truism. The 9th Amendment specifies that there are rights not enumerated, while the 10th delegates remaining powers to the states. 
+
+Actually suing under the 9th or 10th to enact a right isn't done, and you really need something more. It will be brought up in an argument, but always as an aside. 
+##
+"No grounds to overturn an amendment"
+
+What about prohibition?
+##
+That was overturned by another amendment, not the Court.
+##
+It's never been done so no one knows.  I think they would probably say they couldn't resolve it b/c it's a "political question" though, unless they could get either a unanimous majority or something very close to that.
+
+##
+Prohibition?
+
+Edit: I am aware SCOTUS was not involved in repealing prohibition.  I misunderstood elmonoenano to be saying no amendment had ever been repealed.  Please save my inbox.
+##
+Prohibition ended with the ratification of the 21st Amendment. The Supreme Court never found the 18th Amendment unconstitutional.
+##
+There was no constitutional clause saying that the 18th Amendment couldn't be repealed so it's not a similar situation.  Since it was replaced with the 21sth Amendment there was no case to really be had for the SCOTUS to decide.
+##
+It's worth noting there was no Confederate Supreme Court, so that couldn't have been an option in this hypothetical.
+##
+Did the CSA constitution not provide for one, or was it just never created?
+##
+the confederate constitution created a supreme court, but no judges were ever selected for it.  instead, the job of interpreting the confederate constitution fell to the existing judiciaries of the states.
+##
+It's a little ambiguous.  The simple answer is that the very loose Confederate government, similar to the US's under the Articles of Confederation, was designed to have a national government as simply a unifying force rather than a directing force.  A national Supreme Court would be enforcing top-down direction that was precisely the thing the Confederacy succeeded against.
+
+There was nothing specifically prohibiting the creation of one, but given the number of other problems it simply wasn't a national priority as it would have been against the unifying idea of states rights.
+##
+Likely not but it is certainly possible for the Supreme Court to interpret an amendment in such a way to render it almost meaningless (see the 10th Amendment). 
+##
+I think the wording of the amendment itself did that. Madison specifically prohibited the word "expressly" being inserted into the amendment in front of "delegated", as he thought it would restrict the powers of the new government too much. So, it doesn't say that the federal government only has the powers explicitly mentioned in the constitution, it only says it has the powers the constitution gives it - which was pretty much already the case. This allows new powers to essentially be interpreted from other powers that are worded in a vague way that invites expansive interpretation (the primary culprits here are the General Welfare clause, the Interstate Commerce clause, and the Necessary and Proper clause). Forgive me for being a little tangential, but it sort of reminds me of America's "one China" policy, in that, on the surface, it seems to give a great deal, but in reality it gives pretty much nothing. People who argue that the 10th is being ignored are usually more or less implicitly inserting "expressly" into the amendment, which Madison himself explicitly argued against.
+##
+I think that's a fair assessment. I don't necessarily agree with your final point that its only meaningless if you insert expressly into it. Justice Hughes called it a "truism" which has always bugged me. That seems to imply a certain degree of sloppy drafting on the part of the founders. We typically treat the other constitutional provisions as embodying substantive rights or limitations so it seems frustrating to say that the 10th doesn't impart anything new.
+
+But, that said, I don't have a better interpretation so I guess your view is the one we're kind of stuck with for now (since the alternative seems rather debilitating).  
+##
+Privileges or immunities might be a better example (for the reasons explained in that other comment).
+##
+Yes, I think the PIC might be the best example. I still think the 10th Amendment is a legitimate candidate however.
+##
+Supreme courts in other countries have sometimes declared amendments illegal on arguments that the amendments abridged certain "fundamental rights" or changed the "basic character" of the constitution. For an example, [the supreme court of India](https://en.wikipedia.org/wiki/Supreme_Court_of_India#Land_reform_.28early_confrontation.29) in it's decision to overturn the amendment that parliament had passed specifically permitting anti-zamindar land redistribution laws. As well, there was theoretical talk among legal scholars of overturning a gay marriage amendment using similar ideas, which was never necessary. As it is, those are uncharted waters in American constitutional law. 
+
+As well, it's possible that, if slavery became too unpopular or inconvenient with time, the states or federal government would craft some sort of law that essentially abolished slavery using some method, and the constitutional courts, weakened by years of more and more liberal justices being appointed by presidents elected in some sort of anti-slavery zeitgeist, as well a softening of the opinions of even the more conservative opinions, would find the sort of arguments necessary to accept them. In general, nothing is *truly* unamendable, a legalocracy has a tendency to be swayed by the mood of the times, given enough time. And, failing that, to lose its legitimacy and be ignored.
+##
+How could they deny it? If an anti-ammendment clause were meant to be unamendable, it would say "the clause allowing the slave trade shall not be amended, _and neither shall this clause._" 
+##
+Although then an amendment could simply remove that clause, ad infinitum.
+##
+I think you can argue that a self-referential unamendable clause cannot be removed except by writing a new constitution. 
+##
+It would surely be more effective to write the requirement into the section of the constitution that deals with how to amend the constitution -- then no such change could be attempted in the first place. In any case, my point was precisely that the discussion was rapidly becoming silly.
+##
+It's definitely against the spirit of the clause, but, indeed, it wasn't worded in a self-entrenching way, as happens in some constitutions in cases where the authors are particularly paranoid about ammendments to certain parts (for instance, in the constitution of Honduras: "It is not possible to reform, in any case, the preceding article, the present article, the constitutional articles referring to the form of government, to the national territory, to the presidential period, the prohibition to serve again as President of the Republic, the citizen who has performed under any title in consequence of which she/he cannot be President of the Republic in the subsequent period.") The clause in Article V of the US constitution prohibiting amendments that would change the equal distribution of seats in the senate without a states consent is also like this, absolutely entrenching another clause without explicitly doing the same to itself. Whether or not it's truly necessary is, I suppose, a matter of debate. Again, in a hyper-literal reading, maybe, in consideration of the spirit of the law, no.
+##
+This is really interesting as the 17th amendment allowing the direct election of Senators wasn't enacted until 1913. Why did they make sure they included this piece? Were there already rumblings of direct Senatorial elections prior to the Civil War? Might this have additionally inflamed the Southern state's aversion to federal power?
+
+Also, as a potential side note, given other arguments I've read that oppose the 17th amendment, how might this position relate to the public's concept of a sovereign state during the time of the CSA? I think it would be mostly foreign to people today but wonder if citizens then were more cognizant of the distinction. 
+##
+To be clear, the unamendability of equal senate representation is still operative; it wasn't one of the things that expired in 1808. But this only specifies that all states must have an equal number of senators; it doesn't prohibit something like the 17th amendment, or (theoretically) an amendment saying that all states will have 3 senators.
+##
+This is really interesting, thanks. Follow up question: I often hear people arguing that the war wasn't about slavery, but about states' rights. This would seem to contradict that argument by explicitly stating that any new territory would have slavery whether they wanted it or not. Do you think that states' rights argument is valid?
+##
+Look back at what people promoting nullification and secession were talking about in the lead up to the Civil War.  They were talking about slavery.
+
+Once the southern states seceded, they could have simply re-produced the US Constitution, but they didn't - one of the key changes was to enshrine slavery.  Look at what they were talking about as they attempted to form a new government - again, the people of the day said that slavery was very important to them.
+
+The southerners at the time said it was about slavery.  Nonetheless, you'll see some amazing intellectual loop-d-loops to try to distract from that.
+##
+State's Rights argument is kinda contradicted by the fact that they wanted the federal government to force non-slave states to return escaped slaves. They were fine with, and even pushed for, federal involvement when it was in their favor.  The "right" they were fighting to preserve was owning people and they made this pretty clear at the time.
+##
+To be fair, states were explicitly obligated by the constitution to hand over fugitives to the pursuing state. 
+##
+But slaves weren't fugitives from justice. Plus, questions of slave status weren't always clear cut, and northern states were pre-empted from exercising their own discretion when determining that status. Rather, the federal government forced their hand. Not uncommonly, said hand was forced against free blacks.
+##
+"A state's right to *what*?" Is the common retort. The answer: slavery.
+##
+I know a lot of people disagree with me or don't think there is a difference, but I think that the answer is a little more complicated.  The answer to your question should be "secede".  While slavery became a cause for fighting later on, it wasn't the major reason for the war early on.
+
+"What were the southerners trying to protect by seceding?"  Answer: slavery.
+
+I think that there is an important difference there.  People fought over secession.  People seceded because of slavery.  People (at first) did not fight over slavery.
+
+http://www.britannica.com/EBchecked/topic/1793303/The-Civil-War-Why-They-Fought-Year-In-Review-2011
+##
+I suspect the most accurate answer to the "state's right to what" question is actually preserving (and then extending) the South's regime of white supremacy. Secession was a strategy the Southern states attempted to use to attain that goal. Southern white leaders tended to regard slavery as the keystone of white supremacy in the South. 
+
+Obviously, all of these things are intertwined. But I don't think it's convincing to argue that the Civil War began as an academic argument over a state's right to secede and only later came to be centered around other issues.
+##
+The states' whose rights were infringed upon just before the war were the northern ones. There was a federal law that allowed slaver states to pursue slaves into abolitionist states, without judicial oversight and without recourse possible for the alleged slave. 
+##
+While I think it is correct that "defending slavery" was largely about maintaining a dominance of white people over black people, and not just preserving an institution that they thought was instrumental to their ability to make money (or whatever argument people used to justify slavery).
+
+I don't think that is an argument against my claim that the question "the Civil War was about a state's right to *what*?" is best answered with "secession".
+
+That just points out that the secession was about racial dominance as well as slavery.  I think that is a valid point.
+
+I am not saying that the war started over an academic argument.  If you look at the link I posted, you will see that people were very emotional on the issue.  It wasn't a situation where people were saying "I think the other side has misread the founding documents and have come to misinterpret the nature of self determination in these united states".  It was more of a situation where people were saying 
+
+&gt;“Remember that thousands went forth and poured out their lifs blood in the Revolution to establish this government; and twould be a disgrace to the whole American people if she had not noble sons enough who had the spirit of seventy six in their hearts to stand up nobly in defence of the flag of our country.”
+
+and
+
+&gt;A Mississippian said he was fighting to help “drive from our soil the ruthless invader who is seeking to reduce us to abject slavery .… Let our last entrenchments be our graves before we will be conquered.”
+
+I know that people who say the war was not about slavery/racial domination are often doing it to whitewash the evil motivations of almost all of the people who supported secession in the 1860s.  I am not trying to do that here.  My understanding is that slavery in the antebellum south was evil in a way that I cannot fully imagine.
+
+The politically incorrect view I hold is that Lincoln more effectively achieved John Brown's goals but that the dissolution of slavery was at best secondary to Lincoln's (and most other Unionists') real motivation in engaging in a war.
+##
+I briefly looked over the text at your link, and it appears to me that the source refers to the motivations of individual soldiers to fight in the Civil War -- not the motivation for the leaders who started the war in the first place. Those are two different things, even if they overlap. Southern political leaders wanted to maintain the hierarchies that structured Southern societies without intrusion from the federal government. Regular people, who may not necessarily have benefited a great deal from those hierarchies, had somewhat different motivations. Either way, I remain convinced that Southern leaders saw secession as a tool to achieve a larger aim, and not as an aim in itself.
+##
+You seem to be equating secession with war.  You keep bringing up the fact that you believe that the leadership of the confederate states wanted to secede because of slavery/racial dominance.  I am going one further and saying that almost all of the pro-secession Confederates (including the leadership) wanted to secede because of slavery/racial dominance.  The motivations in the south for secession (I believe) were not at all different.  I am saying that the the reason for the war was secession.
+
+In this latest post, it looks like you are not arguing against that point.  In your previous one you did.  If you no longer believe that the war was about slavery, then oops.
+
+I agree with everything you say explicitly in this latest post.  The thing I posted only addresses the reasoning behind why soldiers fought, not the leaders.  When you start talking about the motivations of the southern political leaders for pursuing *secession*, I agree.
+
+It just seems that you may be doing something analogous to saying that if we sentence somebody who kills a police officer who tries to prevent the criminal from stealing a candy bar, then the execution is about the theft of a candy bar.  I think everyone would agree that that is wrong.  The execution would be about the killing of a police officer.  With a candy bar theft and no killing there would be less likelihood of an execution than if there were a killing with no theft.
+
+Similarly, if the south would have insisted on slavery but not seceded I think war would not have occurred.  If the south seceded but dropped slavery, I think there would likely still have been a war.
+
+
+I really appreciate you taking the time to have this conversation.  Your point that secession was not just about slavery but also about racial dominance is something that I often overlook when I have discussions on this topic (which I do often, to the detriment of my productivity).  I will try to be mindful of that next time.  I will read whatever you write in response to this or whatever else I have written, but I will try to be strong and not reply any more tonight.  I really should be preparing for finals/turning in term papers.
+##
+I would also like to point out that the person I am citing is hardly a Confederate sympathizer.  He signed a petition in 2009 (the article I cite was written in 2011) saying:
+
+&gt;The Arlington Confederate Monument is a denial of the wrong committed against African Americans by slave owners, Confederates, and neo-Confederates, through the monument’s denial of slavery as the cause of secession and its holding up of Confederates as heroes. This implies that the humanity of Africans and African Americans is of no significance.
+Today, the monument gives encouragement to the modern neo-Confederate movement and provides a rallying point for them. The modern neo-Confederate movement interprets it as vindicating the Confederacy and the principles and ideas of the Confederacy and their neo-Confederate ideas. The presidential wreath enhances the prestige of these neo-Confederate events.
+
+To be clear: I think that the motivations behind the support of secession for almost all of the pro-secession folks in that day were horrible.  I am just saying that the primary motivation for the war was secession.  Had the south not seceded, I do not think Lincoln or almost any other Unionist would have violently opposed slavery in those 11 states.  Eventually perhaps, but I doubt it would have happened during Lincoln's presidency.
+
+I think that saying the war was about slavery is equivalent to saying Lincoln would have been willing to turn the army on the slave holding states even if they had not seceded.
+##
+The problem with what you're proposing is that secession was not an attractive option for Confederate leaders *until* Lincoln won the Presidency.  They were wholly invested in not only preserving the Union but dominating it politically, especially after the windfall of the Dred Scott decision and (arguably) the execution of John Brown.
+
+That they only decided upon secession once slavery seemed to be in danger.  The sadder point is that Lincoln was deliberately quiet about the subject and there is disagreement abolition was ever his pre-secession intention.
+
+The actions of Confederate elites before 1860 when placed into context establish the primacy of slavery's preservation as their political agenda, not merely the idea of secession - it was an end to their preferred means.
+##
+This isn't entirely accurate.  William Lowndes Yancey and other secessionist agitators actively (and successfully) sabotaged the Democratic Convention, well in advance of Lincoln's election, to split the party's support away from Stephen Douglas.  This is why you have such a schizophrenic Democratic Party in 1860, including multiple party Presidential nominees.
+
+The idea was to throw the election in Lincoln's favor, and then identify his election as an unacceptable threat to the institution of slavery, and to secede in that institution's defense.  While the states themselves didn't *actually* secede until after he'd already won, there was movement toward secession in anticipation of his election from before the day itself.
+##
+Lincoln's entry was probably the straw that pushed the agitators towards secession although a good deal of their camp, Robert E. Lee included, were very much on the fence until the attack on Fort Sumter.  
+
+Your point on the split between Douglas and Breckinridge is spot on although the latter also still held out hope until the very end.  I just wanted to show that the timeline of secession ramped up within the span of one to two years as opposed to the misconception that it was foregone or intended by the majority of Southern leaders earlier than that.  (One could claim that it was still inevitable, however.)
+##
+The states' rights answer is a bit of a BS cop-out. There were certainly other factors at play, so don't get me wrong - but by far the most important state right at stake was the right to own slaves. More info [here](http://en.wikipedia.org/wiki/American_Civil_War#Causes_of_secession) and [here](http://en.wikipedia.org/wiki/States'_rights#Civil_War) on Wikipedia if you're curious.
+##
+This is a really popular debate, and there are some good answers to your question [here](http://www.reddit.com/r/AskHistorians/comments/us25s/civil_war_slavery_or_states_rights/). I would give you my own opinion, but it would essentially be a recapitulation of the top comment in that thread. 
+EDIT: Fixed Link
+
+##
+That's essentially a Calhounian view. In Calhoun's *Discourse*, he never mentions slavery once, presenting himself as merely arguing for "state's rights" or "minority rights". However, it's not clear what beef the southern states would have had with the federal government infringing on their rights *besides* in the matter of slavery, so it's rather common to interpret these arguments as using "states rights" merely as a code word for slavery. As well, Calhoun gives himself away when he vaguely refers to a "peculiar institution" of his section of the country. What could he have been referring to, though, besides slavery?
+##
+a while ago, I came across an [article](http://www.filibustercartoons.com/CSA.htm) with a side-by-side comparison of the USA and CSA constitutions.  
+
+The CSA constitution actually *takes away* certain rights from states 
+
+Although confederate states did gain a few minor rights, they're not the ones modern states rights activist tend to mention.
+##
+I don't claim to be an expert on this, but someone explained to me (and I was convinced after reading it)  that this part of the Confederate Constitution preventing the abolishment of slavery was in the section for restrictions on confederate federal government, not individual states. There is another part of the Confed Constitution that lists restrictions on state powers, which restates many of the things the federal gov't could not do, but does not restate the part about no laws abolishing slavery. 
+
+So, the Confederate federal government could not abolish slavery but individual Confederate states could do so.
+##
+The confederate constitution contains its own version of the supremacy clause (article 6, section 1-3) which explicitly states that the constitution and laws of the confederate federal government supersede any constitution or law of the states. 
+
+Any attempt by a confederate state to outlaw slavery would be *blatantly unconstitutional*, since it would violate the provisions guaranteeing the right to own slaves (Article 1, Section 9-4)
+##
+The supremacy clause means that states can't nullify federal laws - it does not mean states are forbidden from doing everything the federal government is forbidden from doing. Especially since the Constitution separates the restrictions on the federal government from the restrictions on the individual states.
+
+Article 1 Section 9 of the Confed Constit. deals with restrictions on the Confed. Federal government.  In Section 9(3) it says "No bill of attainder, ex post facto law, or law denying or impairing the right of property in negro slaves shall be passed."
+
+In Article 1 Section 10 it deals with restrictions on the powers of the individual states. Each subsection of Section 10 begins with "No state shall . . ."  Section 10 repeats some but not all of the restrictions there are on the federal government listed in Section 9. Section 10(1) reads  "No state shall . . . Pass any bill of attainder or ex post facto law, or law impairing the obligation of contracts; or grant any title of nobility." 
+
+So the part if Section 9(3) about bills of attainder, ex post facto laws, and forbidding the abolition of slavery is repeated almost verbatim as a state government restriction in Section 10(1), with the exception that it doesn't say states can't abolish slavery in 10(1).
+
+Now, it doesn't explicitly say that everything in Section 9 is a restriction on the Federal government and doesn't apply to the state governments. But I think that's a reasonable reading of it, and it makes more sense than having repeated certian parts of Section 9 in Section 10 for no reason. 
+##
+True. (Thanks for pointing that out!) there is certainly some ambiguity there.  
+
+Ultimately, the confederate supreme court would have been the authority to decide on the exact interpretation of those sections. Since the war ended before the court was created, it's hard to say how that issue would have been clarified.
+##
+I'm not an expert in any way shape or form I'm not even a Civil War buff, or really a history buff, but ultimately it was all about slavery. Ultimately you can argue it was a war for the Union because Lincoln was willing to let everything go up until the Emancipation Proclamation was issued if the South would just rejoin the Union. However, the thing the Union split over was slavery. 
+##
+I believe it is valid.  I go into why here:
+
+http://www.reddit.com/r/AskHistorians/comments/1ruozj/did_the_leaders_of_the_confederacy_foresee/cdrc0dn?context=1
+
+Essentially, I am saying that the motivations for war were different from the motivations of secession and founding of the Confederacy.  I think that people in the US often mistakenly think that secession and war go hand in hand because that is what has happened in our past (War for Independence of the Colonies from British Rule and the Civil War).  There are a lot of examples of other secessions that did not have wars go with them, (Canada, South American countries, former Soviet states, etc.). 
+##
+I think that's a sort of roundabout way to think about it, really. If not for slavery there wouldn't be any secession (which is one way in which it is probably not completely comparable to some of the other examples you mention). It seems to me just a way to paint certain things in a different light, now that time has changed how we view these sorts of things. 
+##
+I skimmed over the CSA and found this:
+
+&gt;The importation of negroes of the African race from any foreign country other than the slaveholding States or Territories of the United States of America, is hereby forbidden; and Congress is required to pass such laws as shall effectually prevent the same.
+
+Would you know the motivation for this paragraph? If I'd need to guess I suppose it's meant to avoid Southern slavers from invading other sovereign countries and attempting to kidnap people there, but I'm not sure.
+##
+That's a possible motivation, but it is important to note that Southern Slave population was mostly self-sustaining, as the importation of slaves to the US had been outlawed since 1808. Thus, it is unlikely that Southern slavers would have raided other nations to capture slaves. I would say that it is intended to keep out foreign slaves who might cause trouble or unrest among the slave population. For example, if a Confederate state admitted a black person from England or an English colony (where slavery had been abolished), and he told the slaves that blacks in other nations were free, it could lead to attempted escapes/revolts. 
+##
+I wonder if there was a "minimize exposure risk" strategy among potential slave-holders, though, before secession.
+
+* Was abolition in the "near term" seen as a real likelihood before 1861?
+* If explicit abolition wasn't an option, were there other major risks that could devalue slave holdings?  For example, if Dred Scott went the other way, then the value of a slave is reduced.
+
+If either of those are in play, then many people might have sat on their money, refusing to invest too much in slaves that might become valueless tomorrow.  This would artificially depress the slave market to the point where it is "self-sustaining" as you mention.
+
+If it was clear slavery had a gilded path forward after the forming of the CSA, it might reduce the fear of investing in more slaves, motivating expeditions to other countries to boost supply.
+##
+I'm doing my senior thesis on John Brown right now, so I'll answer your first question with examples that I have found in my research. I would argue that prior to 1861, and particularly in the 1850's many southerners did not take abolition seriously. From a legal perspective, slavery in the 1850's appeared to be very strong, particularly after the Dred Scott decision, and the Fugitive Slave Laws.
+
+From what I've noticed in my research on southern responses to John Brown is that many of them hail his failure as a victory for slaver, and express confidence in the complacency of their slaves. The Newspaper *Southern Watchman* wrote "It teaches a lesson to the fanatics of the North. It shows them that the slaves their misdirected philanthropy would relieve are so satisfied with their condition that they will not join them in their rebellion"
+
+Similar sentiments can be seen in private writings as well. D.H. Strother wrote that "it is well ascertained that neither threats, promises, nor persuasion could induce one of them [slaves] to join the movement when it was proposed to them." 
+
+But I digress, and this is not the only example, but I think that overall Southerners prior to 1861 were very confident in the institution of slavery, and they had a reason to be. Many of them dismissed abolitionists as troublesome radicals. 
+##
+One of the reasons slave rebellions in the Caribbean and central or South America were successful was because the slave population outnumbered the free population, often by a big factor. Southern slave owners were well aware and terrified of this -- look at the outsize reaction in both revenge actions and law to the (very small) American slave rebellions like Nat Turner's rebellion for an example of how scared slave owners and the largely complicit white population was.
+
+Outlawing the importation of slaves helped to keep demographics on the side of the masters. 
+##
+If slaves are scarce they're valuable.  They're not so valuable if you can get them imported cheaply.  
+##
+Not to mention too many may cause a problem, such as in Haiti. 
+##
+The population pressure of the slaves was a huge concern for the south and a regular argument against eliminating slavery. Jefferson Davis argued that blocking expansion of slavery only made the slaves' conditions worse, but it certainly also made them less valuable.
+##
+The Brits banned the slave trade in 1807, and slavery completely in 1833.  I suspect this made an alliance with Britain more appealing to them.
+##
+I always viewed this as a concession to anti-slavery reformers, as they [the reformers] opposed *both* the institution of slavery *and* the transatlantic slave trade.
+
+As natural increase supplied sufficient numbers of slaves, the CSA felt they could make this gesture to appear magnanimous without it actually costing them anything.
+##
+To add to this question, is there any single part of the CSA's constitution that was better for a citizen's well-being than in the Union? ie. guaranteed rights, adaptability to the evolving world, etc.
+##
+In terms of adaptation to a changing world, the CSA was horrible. It prohibited protective tariffs, a central bank, and many investments in public infrastructure or anything meant to "facilitate commerce". The planter aristocracy didn't like these things, since they had to bankroll them but they're agrarians economies never saw much benefit. But this effectively crippled the South's potential industrial development, making them dependent on British or French military equipment (and therefore foreign policy). 
+
+It also gave the president a line-item veto and made it harder for congress to spend money on things the different government agencies haven't specifically requested. Term limits, as well. 
+
+
+ 
+##
+Well, Article 1 prohibits non-citizens from voting. This is not an issue at all today (as no jurisdiction in the US expands suffrage beyond citizens), but in the 19th and early 20th centuries a number of states did actually allow resident aliens to vote in some elections, and a few even allowed them to vote for all offices, including representatives and presidential electors. If you are of a more humanist outlook, expanded voting rights for resident aliens (perhaps not up to president, but maybe for local elections) would perhaps be an improvement in overall rights. But it certainly diluted the vote of citizens, which your comment explicitly limits things to. By such a metric, though, I suppose you could say that a citizen had an improved right to own a slave, and the slave wouldn't matter in the overall equation because they're not a citizen.
+
+Otherwise, the changes mostly focused on shifting power to the states and weakening the federal government. For instance, states had the power to impeach federal officials in their own border, and the commerce clause and general welfare clause, which are vaguely worded and the source of much modern federal power, are heavily gutted and limited in scope (the necessary and proper and supremacy clauses, though, are kept intact). According to one theory, this is why they lose the war, as the Confederate government repeatedly faced problems with the states withholding money and troops from them.
+##
+I'm not sure about other generals or Confederate politicians, but Patrick Cleburne was a Major General in the Army of Tennessee (the Confederate army serving in the Western Theater). An Irish immigrant and naturalized before the beginning of the war, Cleburne had joined the cause of the South because he had adopted its culture over the North's. He was often regarded as one of the South's greatest generals and was referred to as the "Stonewall Jackson of the West".
+
+By late 1863 he realized that the Confederacy was suffering from the severe manpower restrictions placed upon its population, and controversially brought the topic up of emancipating some of the slaves so as to press them into service with the Army to give them equal footing against the much larger Union armies (chiefly the Army of the Tennessee). 
+
+When he called together the highest-ranking officers of the Army of Tennessee he proposed the idea, which was met with silence. In a letter addressed to President Davis he said: 
+
+"Satisfy the negro that if he faithfully adheres to our standard during the war he shall receive his freedom and that of his race ... and we change the race from a dreaded weakness to a position of strength.
+
+Will the slaves fight? The helots of Sparta stood their masters good stead in battle. In the great sea fight of Lepanto where the Christians checked forever the spread of Mohammedanism over Europe, the galley slaves of portions of the fleet were promised freedom, and called on to fight at a critical moment of the battle. They fought well, and civilization owes much to those brave galley slaves ... the experience of this war has been so far that half-trained negroes have fought as bravely as many other half-trained Yankees."
+##
+Was there any response to his letter at all?
+##
+Cleburne believed as the war dragged on that the Confederacy's only hope to attract black soldiers was to offer them freedom. Robert E. Lee and Jefferson Davis to some extent came to support Cleburne's assertion that blacks should be given freedom if they fought for the Confederacy. However, they NEVER supported widespread emancipation, only flirted with the idea of giving freedom to those who fought. In the end, despite vocal support from men like Davis and Lee, Cleburne's idea was shot down repeatedly by many Confederate officials. By the time his plan gained enough support, it was already 1865. The war was over before a single Confederate black regiment had the chance to fight.
+
+EDIT: Source: *Confederate Reckoning* by Stephanie McCurry
+##
+I am surprised no one has mentioned CSA Vice President Alexander Stephens's "Cornerstone Speech" where he famously said:
+
+"Our new Government is founded upon exactly the opposite ideas; its foundations are laid, its cornerstone rests, upon the great truth that the negro is not equal to the white man; that slavery, subordination to the superior race, is his natural and normal condition."
+
+While the speech is a piece of rhetoric, I think it is a safe assumption to say that it reflects just how central slavery was to the CSA. From the ground up, racialized slavery was part of the law, the culture and the economy of the Confederacy. Slavery was understood as a natural condition and thus the fundamental natural laws dictating it unchangeable. 
+##
+But you can´t forget the international comunity! 
+
+Many Western nation forced non-western countries to abolish slavery, why wouldn´t the do they same with the CSA?
+##
+As a small note of perspective, slavery of one form or another is at least as old as human written records are. There are various versions of it and societies had different norms around slavery. There are passive references to it in the Old Testament. To the men of the Confederacy, slavery was not only the status quo, it was certainly the proper order, it was the way things had *always* been done. An entire country without slavery is a very novel concept.
+##
+Not that novel in 1860.  Britain had been an entire country without slaves for a very long time, and the British Empire had abolished slavery in 1833.
+##
+It's novel on long timescales, is what I mean. For a person in a post-abolition society is seems like an obvious norm, but in a pre-abolition society is must have seemed like communism does in a capitalist society.
+
+EDIT: Not that communism necessarily has the inevitability that abolition seems to have had, but it was a radical idea in its place and time.
+##
+I don't know if that is ok with the rules here, but can I have a follow-up question?
+
+
+**Was slavery even economically efficient, compared to free, hired labor force?**
+
+
+Im not well versed in economy, but I have a gut feeling that a country with an economy based on slavery would be utterly outcompeted by a country where free workers can compete, travel, change jobs, improve on their skills, get education, and most importantly be *rewarded* for good work, rahter than *punished* for bad one.
+
+
+What was the opinion on this issue (slave labor vs hired workforce) in that time?
+##
+I think education levels back then make unskilled uneducated workforce vs unskilled unskilled workforce work in favour of slavers who at least get the unskilled uneducated workforce working for free.
+##
+Might be true, but what about efficiency? A free worker has it in his best interest to work as hard as he can, become more efficient, improve himself  AND his job (like, coming up with innovations that would save time and effort) and he himself is a potential *customer* not only employee.
+
+
+Slave, on the other hand is motivated to do as little work as he can, pretend to work, work slowly, sabotage the work already done, cause mischief and damage when he can, or even openly rebel or run away. Plus, a slave won't buy anything, invest, or save money, thus he does not help the economy go around.
+##
+Now the thing you have wrong here is that you are treating the slave as a person when, at the time, they were a commodity. A workplace tool with an upkeep cost (food, shelter). Slaves free up the actual population for other things. Spartan society for example was heavily slave based which allowed for the men to concentrate of military pursuits. Slaves dont have to invest or save money of contribute to the economy directly. Without pay and without the ability to use pay, they dont even exist in the economy other than as expenses for their owner which are far less than worker pay.
+
+And workers can very un motivated, they can strike, steal from the business, cause mischief, etc. Even take all that training and expertise you invested in them and "run away" by changing jobs to a more lucrative one. Efficiency per capita? I guess paid work force would have more purchasing power. Efficiency per capita under the definition that slaves are not people but instead sub human? Slavers come out ahead.
+##
+Considering the volatility of this particular subject, can you provide sources for your claims?  Because as of me reading your post now, the post seems to mostly consist of your own personal speculations and logical deductions (as well as some questionable word choices, like "uncultured squalor") as opposed to arguments from historical evidence, despite some of your points being arguably plausible.
+
+I'm temporarily removing the post, pending citations.  
+##
+&gt;However, because citations are not mandatory I will not provide them. 
+
+Also from the rules: 
+
+"Please keep in mind that all posters who fail to substantiate their posts when asked in good faith run the risk of having their posts removed."
+
+http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_sources
+
+"Personal anecdotes, opinions, and suppositions are not a suitable basis for an answer in r/AskHistorians."
+
+http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_speculate
+##
+I remember reading about a kind of last ditch effort to either gain recognition from Great Britain or some kind of peace talks with the north, by being willing to do away with slavery. But I can't find what I'm looking for. I did come across this book though: 
+http://www.amazon.com/gp/aw/d/0195315863/ref=mw_dp_mdsc?dsc=1
+##
+I removed this post for a lack of any context whatsoever. If you'd like to add to it, please let me know, and I'll review it and possibly restore the post :)

@@ -1,0 +1,738 @@
+##
+This may be outside the purview of your question, but I think it's worth pointing out the political &amp; historical legacy of his *death* as well as his actual administration.
+
+His assassination gave Lyndon Johnson (and Democrats in Congress) the biggest electoral landslide in modern history. This incredible political mandate allowed Johnson to push through controversial progressive legislation such as The Civil Rights Act, The Voting Rights Act, ~~Social Security~~, Medicare/Medicaid, and all of the other Great Society legislation.
+
+So I would argue that Kennedy's death directly contributed to Johnson's stunning legislative victories, ultimately representing the high-water mark of progressive American public policy. 
+
+Edit: Whoops, SS was earlier...
+##
+I thought social security was part of FDR's new deal?
+##
+It was.  Under LBJ, the program was expanded.
+##
+There is also a line of thought where JFK's assassination ensured the success of the Apollo Program. 
+
+Even by 1963, JFK had begun balking at the expense of the project. Had he lived but lost reelection, his successor would almost certainly have scrapped the program (or cut the funding so deeply that failure was assured). 
+
+Even if he had gone on to be reelected, the prospects for Apollo seemed dim. JFK had flirted with the idea of offering a joint program with the Soviets to cut costs (it would have also robbed Apollo of one of its prime motives: beating the Russians). In any case, the pressure to decrease NASA's budget was immense, and JFK wasn't exactly LBJ when it came to defending his programs in Congress.
+
+Instead, the United States lost its young, charismatic leader in a shocking act of violence, and there was no going back. The nation threw itself into the program as a way to assuage the horror of the assassination and prove to itself and the world that America had not been undone. 
+
+Criticism for the program _was_ there, but with large swaths of the population committed to meeting Kennedy's challenge to land a man on the Moon by the end of the decade, attempts to kill the program (I'm looking at you, Walter Mondale) just sort of bounced off.  It had become a sacred thing.
+
+JFK promised America the Moon. With him gone, no one could walk the promise  back. Apollo was the perfect storm: a politically impossible task that suddenly became an inviolable commitment.
+
+EDIT: ~~an~~ a
+##
+Fantastic comment!  That's a very interesting perspective on Apollo I'd never considered before.  Oh, and your last paragraph is a phenomenal summary
+##
+Is there anyone reading who can comment on whether a US/USSR Moon Partnership could have been viable politically, technologically and economically? Was it lip service or a viable alternative (domestically and internationally)? Could it have fixed the daunting challenges the Apollo Program faced that ApolloLEM raises, had Nov 22 been just another day? (Apollo, your views also appreciated, ’natch!)
+
+I’d hope so. Boundaries don’t exist when peering down at our Blue Marble. Partnering would have been more economical but also more symbolically appropriate. How apt that our working together to leave Earth would have reset our relations we had to live with while residing on Earth. Reykjavík a generation before it did, our treasure and lives saved?
+##
+It was definitely a political nonstarter. The Soviets didn't want to share their early lead in rocket and spacecraft technology, and were extremely guarded about the risky (read: dangerously untested) nature of even successful missions. I believe Soviet leadership specifically rejected the idea of a joint partnership.
+
+From a technological standpoint: sure, they could have done it. But _would_ they have? Consider that the funding and political will for lunar programs on both sides stemmed from the competition. They could have certainly convened a joint program, but could they have gotten it off the ground without the specter of an escalating Cold War?
+
+The Americans and Soviets _did_ have a joint space mission, remember. The Apollo-Soyuz Test Project was a successful docking of an Apollo CSM and Soviet Soyuz spacecraft. This was after the last Moon landing. It certainly did (eventually) lead to improved relations between the two countries' space programs, but didn't stop escalating Cold War tensions into the 1980s.
+
+
+
+ 
+##
+There is also the sense in which the space programs were really a proxy fight for military superiority. Many of the engineering principles used in space exploration, as well as specific launch vehicles, overlap with military technologies such as ICBMs. The Apollo launch vehicle development was overseen by Werner von Braun, who during WWII drove development of the V2 rocket.
+
+The perception of a proxy fight with the Soviets certainly benefitted NASA funding. It also implies a very low likelihood for direct US-Soviet collaboration on the moon landing project.
+##
+The space race was *primarily* a proxy for that really. Same as highly enriched fuel for fission.
+
+
+##
+Yes, it's no coincidence the US gave up its lead in particle accelerator technology in 1993 ([cancellation of the SSC](http://en.wikipedia.org/wiki/Superconducting_Super_Collider)), just two years after the Soviet Union fell. The Cold War was the best thing that ever happened to American high energy physics.
+##
+&gt;Well I know the Soviet space program was a much more ramshackle affair than ours, with lots more people dying and just generally being less... good. I've read that one of the reasons they didn't want to do the joint space program was they didn't want to reveal to the Americans just how behind they were.
+
+Let's look at astronaut/cosmonaut [casualties during spaceflight and training missions](http://en.wikipedia.org/wiki/List_of_spaceflight-related_accidents_and_incidents) prior to the Moon landing. The Soviets had a total of three cosmonauts die, compared to the Americans' eight. There is the "Lost Cosmonauts" hypothesis which suggests that there were unsuccessful missions immediately prior to Gagarin which were covered up and expunged from the records, but it's a pretty dubious idea (for a lot of reasons that I won't get into here) and still can't make up the difference in mortality. And up until the Moon landing, the Soviets [had beaten the US to just about every space milestone](http://en.wikipedia.org/wiki/List_of_space_exploration_milestones,_1957%E2%80%931969). It's possible that the Soviets did indeed want to hide weaknesses in their program, but if you compare the programs based on easily-assessed numbers like casualties or firsts, the Soviets were ahead.
+##
+It was [a bit more dangerous for the Russian ground crews](http://en.wikipedia.org/wiki/Nedelin_catastrophe), but yeah, the Russians did just about everything first.
+
+##
+I'm really curious about the Lost Cosmonauts. It's always struck me as a fascinating and morbid idea. Why is it so dubious?
+##
+Well, first of all there's very little evidence for it and no direct evidence.
+
+Second, there's a very narrow time window in which this would have to occur. On March 25, 1961, a mission was launched with a dog and a mannequin (the last mission before Gagarin's), and Gagarin launched on April 12. 
+
+Last, it would have been hard to keep a mission secret from the US if it got into space. If it blew up on the launchpad that's a different matter, but that's a lot harder to expunge from the records-- you've got a large number of people who have to disappear. We do know of at least one instance where records of a cosmonaut-in-training were erased and he was airbrushed out of photos because he'd been arrested for drunk driving, but the records of actual cosmonauts are relatively complete.
+##
+Thank you for answering my question!
+##
+Yup. They beat us to the moon with a hard landing.  They couldn't get a man up there so they just crashed a probe into the moon.  That probe was Luna II.  What happened to Luna I?  They missed.  They missed the moon.
+##
+So did a couple of the Ranger missions:
+
+http://en.wikipedia.org/wiki/Ranger_program
+##
+That's fascinating. I never knew of these missions.
+##
+They landed a rover on there though. That was an amazing achievement, and Gragarin lets not forget. 
+
+I don't think we should minimize *any* of those space achievements from back then. They were all heroes, Soviet or American. 
+
+
+##
+You make it sound like hitting the moon with the knowledge and technology of the 50s and 60s was easy.  The fact that they even managed to get *into* space as a severe accomplishment...
+##
+Yeah I remember watching a 1960 era documentary where they explained the variables you had to account for. You can't just kinda aim for the moon and say "engage". Factoring, earth spinning, the moon spinning AND orbiting plus a whole bunch or other factors made me astounded that people went into the relatively unknown territory and nailed the maths. 
+Sure maths is one of the oldest sciences around but this is in the time some (few) scientists said astronauts would die because low gravity would make their blood float and pool instead of circulating through their bodies. 
+##
+You're absolutely right that it's difficult, but I have a small correction. The Moon doesn't spin, as such. It's tidally locked.
+##
+Can you cite your assertion that JFK was balking at the expense of the project?
+##
+It's definitely talked about in Apollo: The Race to the Moon, by Catherine Bly Cox and Charles Murray.
+##
+I would argue in the long term, this hurt the space program...now before you down vote me, hear me out
+
+What I am speaking of is from a purely technological perspective. Before NASA, the US Airforce was very interested in space. They spent billions on the X series aircraft. The US AirForce had EVERY intention to develope an ground to space aircraft, and was already decades into its development. With the creation of NASA and the Space Race, the effort was taken out of the military and given over to NASA with the goal of being FIRST, not being the best or most economical. 
+
+So NASA wanted to get there fast, and they decided Rocketry was the fastest way to get there, the Airforce had known for ages that Rockets were expensive and that ultimately a re-usable aircraft would be a much better solution, hence all the X planes. So of course we all know what happened, and the AirForce ended its experiments in X series Air/Space craft. Fast forward 40-50 years and here we are, Space is too expensive and when NASA FINALLY realized money didnt grow on trees and made the shuttle, even it was too expensive to operate. 
+
+Had Kennedy/post Kennedy administrations not taken Space away from the Airforce, we would have most likely have economical suborbital aircraft by now, whether we would have won "the race" may be another issue, but looking long term, which do you think would be more important, economical space planes...or a memorial saying "We're number 1"..that no one has seen in 44 years?
+
+Source: Skunkworks Engineers, retired USAF Test Pilots, US NAVY pilots
+##
+While I agree with you in part, I'd also say the consequence would be the further weaponization of space (yes, I'm aware of its current weaponization, that's beside the point). We had a partial arms race in space, this would force a near complete militarization, as space becomes the new battleground, and only your side could be allowed to control it. Not sure that's a better scenario than what we had, which was the concept of space being a free frontier for any nation who could reach it.
+##
+[Gizmodo article about Chinese satellite-grabber](http://gizmodo.com/why-is-china-testing-satellite-hijacking-space-weapons-1440744006)
+##
+Nice argument, but I wonder whether it holds water. The space shuttle was developed in cooporation with the Airforce and the worse for it, also it has proven to be one of the most expensive launch vehicles ever. 
+
+The Airforce has discovered - as we have all - that there is not much to do for humans in near earth orbit. So the most we would have gotten out of it is fast near orbital airplanes that could travel around the world in hours. However, given the expense, and the fact rockets can take over most of the tasks cheaper, I think the program would have been killed by now. I mean planes like the SR-71 were cool and all, and served a specific purpose, but I feel that there has not been much drive from the Airforce to expand upon them, but perhaps you know more about this than I.
+##
+&gt;Even by 1963, JFK had begun balking at the expense of the project
+
+Do you have a source for this by any chance.
+
+&gt;Had he lived but lost reelection, his successor would almost certainly have scrapped the program (or cut the funding so deeply that failure was assured). 
+
+I think if this is the case I think a source could be provided for this as well. 
+##
+&gt;  It had become a sacred thing.
+
+Are you sure? If you look at the opinion polls, it is clear that a majority of Americans were only in favour of the program during a few months before and after the moon landing. [Se page 168.](http://www.academia.edu/179045/_Public_Opinion_Polls_and_Perceptions_of_US_Human_Spaceflight_)
+##
+But here's the thing. Kennedy was easing relations with the USSR. There was even talk of them stopping the Space Race and doing it as a team.
+##
+&gt;  Kennedy was easing relations with the USSR.
+
+Is that the reason why he stationed [PGM-19 Jupiter](https://en.wikipedia.org/wiki/PGM-19_Jupiter)  with nuclear warheads in Turkey, just next to the Soviet Unions' border?  Khrushchev "was reacting, superficially at least, to the Jupiter intermediate-range ballistic missiles the United States had recently installed in Turkey" [source: Airpower and the Cuban Missile Crisis ](http://www.airforcemag.com/MagazineArchive/Pages/2005/August%202005/0805u2.aspx)
+
+Stationing missiles on Cuba, just next to the US was a obvious reaction.
+##
+Well obviously it didnt start off well. The truth is he backed out and looked terrible when he withdrew air support and left them to rot in Cuba. After that his stance changed. He even withdrew those missiles (which were obsolete anyway) even though he kept it quiet. JFK, it appeared, was softening his animosity and so was the USSR. Hell, the USSR mourned for Kennedy.
+##
+&gt; he withdrew air support and left them to rot in Cuba
+
+There is some reason to believe that it wasn't Kennedy who called off the air support, but McGeorge Bundy, one of his national security advisors, and Kennedy simply took responsibility for it. It was a fuck-up that wasn't necessarily his fault.
+##
+I thought the nukes had been stationed in Turkey under Eisenhower.
+##
+Well, one squadron totaling 15 missiles was deployed at five sites near İzmir, Turkey from 1961 to 1963. Kennedy served from January 1961 until he was assassinated in November 1963.
+##
+They were deployed starting in 1961, but it was a result of the Paris Summit of 1957, which was effectively the first NATO summit. It was a decision made long before Kennedy took office.
+##
+That is correct, but obviously his administration didn't stop the deployment; therefore they clearly share the responsibility.
+##
+Don't forget about the ever popular Vietnam conflict.
+##
+There wouldn't be any president who didn't decide to go for Vietnam. 
+
+JFK planned it, LBJ expanded it, RN did his best to continue it. 
+
+There is definitely an argument about whether the war was worth the lives cost--but just know that the communists were very ruthless, and millions were massacred for treason/capitalism in the retreat of the US forces. 
+
+Not to mention they would have gained a new ally in Asia, and possibly all of Southeast Asia--right in the time when the US just ceasefire'd and was in stalemate with the North Koreans &amp; Chinese.
+
+From the perspective of those living in that time period, it looked like the whole world was adopting communism, and thus dictatorships, lack of liberty &amp; widespread censorship of free speech.
+
+It's important to understand this concept from the perspective of military strategy. The Cold War was a very serious war, in which the widespread success of the communists would have meant the end of democracies or possibly WWIII / nuclear warfare. The probability of that would have been almost certain if Europe had succumbed fully to communism because only the US would have been left.
+
+And you might argue, "oh that would have never happened." But you're arguing from the luxury of hindsight being 20/20.
+
+And if you might argue "Well even if it did happen, people would fight for their rights and win eventually..." I'd ask that you simply look at the Arab spring and how fragile democracies are and how difficult it is to overthrow authoritarian regimes.
+
+But I'm sure some will downvote me anyway because of how much they've been taught over and over in school that Vietnam was a huge mistake that could never be justified--except that the battles were being won, the NVA was being pounded and had very little resources left. It was the fact that there was a US draft and many young people were dying for years in war that made the people so anti-war during this time (and they were RIGHT to be anti-war and anti-draft; but from a military perspective it wasn't a mistake). Also the many excesses of war, such as the My Lai massacre, Napalm, or Agent Orange that made the war look quite brutal and immoral--displayed for the first time on TV.
+##
+I do want to add that several prominent historians of U.S. foreign relations, like Howard Jones and Fredrik Logevall, have argued that Kennedy wouldn't have escalated American military involvement and that, in fact, he was looking to curb America's military presence in the region.  Unless I'm misinterpreting, you say that "the battles were being won" and "the NVA was being pounded" as if that would be a reason for increasing America's military presence in the region.  Maybe so, but as Jones and other historians have shown, quite well I think, it was for that very reason that JFK felt that there wasn't a great need for a large American military presence.  In other words, Kennedy believed that if the South Vietnamese could handle the situation, which it looked like they could do early on, there was no need to bring in American troops.
+##
+Kennedy was de-escalating in Indochina to be sure, but do you think that might have left him vulnerable to the eternal cry of 'soft on communism'  heading into the 1964 election? The republican party was rife with Goldwaterites at the time, and while it is impossible to say, it is hard to imagine that the GOP would lean moderate with Kennedy in office, or that Goldwater wouldn't take the opportunity to attack Kennedy on his failure to 'rollback' the Enemy in Vietnam.
+##
+Kennedy was definitely speaking hard line on Vietnam for the very reason of being elected. (I feel like i red a transcript of a private conversation Kennedy had where he specifically mentioned this, but i can't find it) His actions spoke differently - see NSAM 263. Robert McNamara confirmed this secret desire to fully withdraw by 1965 (after he was safely reelected) as did his advisor and close friend Kenny O'Donnell. (O'Donnell in "Johnny, we hardly knew ye" and McNamara in his autobiography.) James blight points out that Kennedy was faced with the opportunity to escalate military involvement in crises 6 times and chose to deter to diplomacy each time (Bay of Pigs, Cuban Missile Crisis, Berlin Wall, Vietnam (2x) and Laos)
+##
+Perhaps a few facts are in order...
+
+There are thing we do know about JFK and South Vietnam: 
+
+First, U.S. troop levels there grew from around 900 to approximately 16,000 during his presidency. 
+
+Kennedy was indecisive regarding Vietnam in 1963, and failed to impose a coherent policy on the warring factions of his administration. The path he ultimately chose at the end of October was as big and consequential a foul-up as his failed “Bay of Pigs” intervention in Cuba in the opening months of his presidency. Like Bay of Pigs, it was a covert action — he authorized our ambassador in South Vietnam, Henry Cabot Lodge Jr., and CIA leaders there to support South Vietnamese military leaders in overthrowing Diem, a U.S. ally of nine years’ standing.
+
+Second, while there were contingency plans to get those soldiers out at some point (possibly the end of 1965), the contingency was South Vietnam becoming successful at repelling the North Vietnamese and Viet Cong. That wasn’t happening in the jungles of Vietnam in 1963. 
+
+Third, there is no record of JFK having expressed a definite post-election withdrawal intention to Vice President Lyndon Johnson, his attorney general brother Robert Kennedy, Secretary of Defense Robert McNamara, CIA Director John McCone or any other members of his National Security Council.
+
+http://www.salon.com/2013/11/22/the_truth_about_jfk_and_vietnam_why_the_speculation_is_wrong_headed/
+##
+I recommend a watch of the film/doco "Fog of War - Eleven Lessons from the life of Robert Mcnamara". Not only does it have McNamara's quite frankly fascinating opinions and revelations on many matters, including Vietnam, it also has numerous recordings of conversations between him and Presidents Kennedy and Johnson, to me it certainly seems that at the very least Kennedy was looking for a way out of Vietnam, while Johnson was more in favour of ramping up involvement and achieving victory. In other words there is indeed such records from the horses mouth so to speak.
+
+SN: First post in AskHistorians, apologies in advance.
+##
+This is a perfectly fine post, you even sourced and everything.
+##
+&gt; There wouldn't be any president who didn't decide to go for Vietnam. 
+
+Largely debatable.  You may be right on this but I think the bigger question is whether JFK would have escalated the US involvment to the extent that Johnson did.
+
+I have no problem saying that the Vietnam war was a collosal mistake whether it could be won or not.  This is only my opinion.  To involve a country in what was essentially a civil war to the degree that Johnson did is simply not right.  Let's not forget that communism was not something that was simply being forced down the throat of the Vietnamese.  The idea of communism was gaining popularity in Vietnam before the war began.  Whether or not communism was a good thing for Vietnam is not the bussiness of anyone else besides the Vietnamese.          
+
+
+##
+&gt; Whether or not communism was a good thing for Vietnam is not the bussiness of anyone else besides the Vietnamese.
+
+That's nice and all for your personal opinion, but no US President of a major party at the time would embrace that viewpoint. Communism had to be fought at every turn.
+##
+I certainly was not arguing that any US President of a major party would embrace my viewpoint.  I was simply arguing against my friends justification of the war.  His quote would indeed imply he was justifying the war in one way or another as I read it:
+
+&gt; But I'm sure some will downvote me anyway because of how much they've been taught over and over in school that Vietnam was a huge mistake that could never be justified--except that the battles were being won, the NVA was being pounded and had very little resources left.
+
+As someone who has spent considerable time in Vietnam, and spent considerable time learning about the subject, I sometimes have a hard time understanding how anyone can still justify this war.  Even the Secretary Of Defense [Rob Macnamara](http://www.youtube.com/watch?v=0enCCGBW3xc) has admitted it was a mistake.  Also, if you haven't seen "The Fog Of War" yet I highly recommend it.  Macnamara goes into detail about his regrets regarding Vietnam.  It's a great watch.
+
+I would like to apologize to the mods and to the community for involving myself in such an opinionated discussion.  I typically don't do this but it is difficult for me not to write with emotion and opinion on a topic I hold so important.
+##
+That most likely would have happened even if Kennedy were still alive. He had already been sending advisors there.
+##
+It’s arguable, no. Aid, support, training, yes. Escalation like LBJ ended up doing, less so.
+
+JFK had [an interview with Cronkite](https://www.mtholyoke.edu/acad/intrel/kentv.htm), where he said,
+
+&gt;I don't think that unless a greater effort is made by the [SVN] Government to win popular support that the war can be won out there. In the final analysis, it is their war. They are the ones who have to win it or lose it. We can help them, we can give them equipment, we can send our men out there as advisers, but they have to win it—the people of Vietnam—against the Communists. We are prepared to continue to assist them, but I don't think that the war can be won unless the people support the effort, and, in my opinion, in the last 2 months the Government has gotten out of touch with the people.
+
+And of course his [famous speech](http://www.presidency.ucsb.edu/ws/index.php?pid=9100&amp;st=&amp;st1=) to Latin American ambassadors on the first anniversary of the Alliance for Progress:
+
+&gt;Those who make peaceful revolution impossible will make violent revolution inevitable.
+
+Would pre-Bay of Pigs JFK escalated? Much more likely. Burned hands, twice as pan-shy. 
+
+That said, he’s no political naif. Like FDR, he pushed off difficult decisions until after the elections. I could see his keeping his cards close to his vest until his second term. Recall, Nixon and the ilk were *still* Red-baiting and trying to make a partisan issue of the Democrats “losing” China.
+##
+Sure, he said all that in public but then, just two months after that interview you quote, he also backed the coup in South Vietnam that resulted in the murder of its president, Ngo Dinh Diem, and his brother, Ngo Dinh Nhu.  What want by the Vietnamese government losing touch with the people, apparently, was that that government had to be violently overthrown.  Kennedy didn't directly order the coup or the killings, but he knew of it beforehand and sanctioned it.
+
+I don't think you can point to his public statements of desiring peace without looking at what he was actually doing in Vietnam.  His actions in Cuba certainly show that he was not a man who shied from using covert and military power abroad.
+##
+The Diem clique was *very* bad news, unpopular, erratic and isolated. The Kennedy Administration could very well have been sanguine over prospects of a regime change, while still not wanting to escalate to the levels that LBJ/Nixon did.
+##
+A week later he gave an interview which contradicted what he had said to Cronkite:
+
+HUNTLEY: Are we likely to reduce our aid to South Viet-Nam now?
+
+JFK: I don't think we think that would be helpful at this time. If you reduce your aid, it is possible you could have some effect upon the government structure there. On the other hand, you might have a situation which could bring about a collapse. Strongly in our mind is what happened in the case of China at the end of World War II, where China was lost—a weak government became increasingly unable to control events. We don't want that.
+
+BRINKLEY: Mr. President, have You had any reason to doubt this so-called "domino theory," that if South Viet-Nam falls, the rest of Southeast Asia will go behind it ?
+
+JFK: No, I believe it. I believe it. I think that the struggle is close enough. China is so large, looms so high just beyond the frontiers, that if South Viet-Nam went, it would not only give them an improved geographic position for a guerrilla assault on Malaya but would also Live the impression that the wave of the future in Southeast Asia was China and the Communists. So I believe it.
+##
+But this isn’t an argument suggesting JFK would have expanded the US role like LBJ/Nixon did. The levels and US role during JFK’s administration were vastly smaller. If anything, this follow-up interview confirms that: no where does JFK say escalation’s required, or our troops becoming directly involved.
+
+This interview sometimes crops up to suggest JFK would support LBJ-era levels of force or direct troop involvement. But it’s key to remember that the RVN aid both men are referencing is wholly, fundamentally different than what most modern readers thing of as “US Involvement in Vietnam”.
+##
+The causes of Vietnam are complicated to distill, I would argue.
+
+I've heard it argued that Johnson felt he had no choice but to pursue escalation in Vietnam because Conservatives were already accusing him of being "weak" on Communism.
+
+Then there's the argument that the war was a major handout to well-connected friends at Brown &amp; Root (later Halliburton).
+##
+Nixon’s career was largely the result of his Red-Baiting Democrats for “losing” China. The threat was very real. It was very well-demonstrated.
+
+LBJ *cared* about the Great Society. Not so much for the spiraling Vietnam conflict, but he was trapped. Funding both of them resulted in inflation which later became a *huge* problem further hurting his beloved domestic programs.
+##
+LBJ:  “I knew from the start that if I left the woman I love—the Great Society—in order to fight that bitch of a war, then I would lose everything. All my programs. All my hopes. All my dreams."
+##
+
+&gt;I've heard it argued that Johnson felt he had no choice to pursue escalation in Vietnam because Conservatives were already accusing him of being "weak" on Communism.
+
+Somehow this excuses the escalation by making it someone else's fault?
+
+&gt;Then there's the argument that the war was a major handout to well-connected friends at Brown &amp; Root (later Halliburton). 
+
+Don't forget aircraft and weapons manufacturers.  Don't forget, those people all benefit when their demand goes up.  It doesn't necessarily mean corruption.  I would further argue that this is a red herring as you seem to be trying to blame Vietnam on the republicans thus making for a democrat clean slate.
+
+&gt;The causes of Vietnam are complicated to distill, I would argue.
+
+Hotly debated for a certainty.  The causes seem to be related to colonialism and the post WWII rise of communism in Southeast Asia at a time when the free world saw themselves at risk to communism.  
+##
+I certainly wasn't referencing Brown &amp; Root as a way of absolving LBJ of responsibility for the escalation, quite the opposite.
+
+Brown &amp; Root were some of LBJ's closest allies from the earliest days of his political career. They may have been led by politically conservative men, but they made Johnson's career and he returned the favor in spades with incredibly generous federal contracts for decades and decades. It was Johnson's incredible political maneuvering in the House that got a single dam project in Texas funded and essentially saved the company from bankruptcy during The Depression. In return, they funded his election campaigns across the state.
+##
+So if Kennedy's greatest legacy is paving the way for Johnson's accomplishments, why is Kennedy the one who gets all the love?
+
+It's because he's the handsome one, isn't it?
+##
+Johnson is a remarkable figure in US history. I've been reading The Years of Lyndon Johnson for a while now which is why I felt it necessary to comment on LBJ's impact. He was incredibly complicated and deeply pragmatic as a politician. He also wasn't half as personable or charming as Kennedy. They also quite famously disliked one another.
+
+Anyway, Johnson rode into his first elected presidency on a wave of popular sentiment following Kennedy's death. As I said, it was the biggest electoral landslide in modern history. And just 4 years later, Johnson's divisive policies and escalation of the Vietnam War made him so deeply unpopular that he chose not to seek his party's nomination for reelection.
+
+Throughout his career, he was known for being ruthlessly ambitious and, to that end, often refused to take positions on divisive issues. Conservatives thought he was a conservative and liberals thought he was a liberal. Exactly how he wanted it. He was also seen as deeply corrupt and JFK was even considering dropping him from his reelection ticket the day JFK was killed in Dallas.
+
+Then LBJ takes office and rams through The Civil Rights Act and Voting Rights Act, essentially alienating the traditionally-Democratic southern states and handing them over to the Republican Party for the foreseeable future. He also passed the most progressive social welfare policies which really pissed off his wealthy, conservative backers in Texas.
+
+Oh, and Vietnam. That really killed his legacy.
+
+This is a bit rambling. But yes he also wasn't nearly as compelling personally as JFK. That's a huge part of it, I'm sure.
+##
+LBJ was also remarkably stern and convincing, and had a way of getting legislation to pass that he supported. He was like a chess player when it came to politics; he would align himself with the right people in order to pass things he wanted to see passed, and get others out of the way that might've presented themselves as roadblocks. This began during his Senate Majority Leader days and continued on, commonly referred as the "Johnson treatment".  
+
+[Here's an image of him putting the "Johnson treatment" on Senator Richard Russell in 1963.](http://upload.wikimedia.org/wikipedia/commons/f/f7/Lyndon_Johnson_and_Richard_Russell.jpg)
+
+PS. Could you also expand on following?:
+&gt;Then LBJ takes office and rams through The Civil Rights Act and Voting Rights Act, essentially alienating the traditionally-Democratic southern states and handing them over to the Republican Party for the foreseeable future.
+
+edit: words and letters and such
+##
+LBJ was a consumate politician. Listen here to him having words with Hubert Humphrey.  The conversation starts about a minute in. [Here.](https://www.youtube.com/watch?v=xaxjauXJ2lA)
+##
+There's no audio.
+##
+It starts at 1:05 for some reason.
+##
+You've said twice that '64 was the biggest electoral landslide in modern U.S. history but I disagree Johnson got the largest percentage of the PV in 1964 but in 1972 Nixon had a larger margin of victory both in the popular vote and the electoral vote.  
+##
+I'm sorry, I may be incorrectly remembering exactly how Robert Caro qualified that in The Years of Lyndon Johnson intro.
+
+Perhaps it was just "biggest landslide *up to that point*"? I'm not sure.
+##
+&gt; essentially alienating the traditionally-Democratic southern states and handing them over to the Republican Party for the foreseeable future.
+
+Not really. 
+
+Voting Rights Act: 1965
+
+Alabama's next Republican governor: 1987
+
+Georgia's: 2003
+
+Mississippi's: 1992
+
+Louisiana's: 1980
+
+Texas': 1979
+
+So for a whole lot of the south, especially the parts the voting rights act addressed, it was over a decade before a republican would be elected governor. 
+
+##
+[The shift was immediately apparent in presidential elections, though](http://www.270towin.com/historical-presidential-elections/), even in the 1964 election (the Civil Rights Act of 1964 was the first kicker of the shift). The reason the state governors continued to be Democrats for a long time is because even though the national Democratic party shifted its positions on race, Southerners were still heavily aligned with the Party-not-of-Lincoln and kept electing the same kind of Democrats on a local level.
+##
+But how many of the Democrats elected on the state level were Dixiecrats (or Dixiecrats in all but name)? 
+
+I'd be far more interested to see how turnouts for national elections were affected. I know that in Mississippi, one of the governors during this era won on a campaign against a former governor with a picture of a bed in the governor's mansion and a slogan that read, "Jack Kennedy slept here." (The president had visited the governor - where else would he sleep?)
+
+[Here's an article on the campaign](http://news.google.com/newspapers?nid=888&amp;dat=19630730&amp;id=DBUmAAAAIBAJ&amp;sjid=d1IDAAAAIBAJ&amp;pg=6955,4989423) - it was the 1963 race between former Gov. JP Coleman and Democrat Charles Sullivan. They were both defeated by a third Democrat, the sitting Lt. Governor Paul Johnson. 
+
+His slogan: "Stand Tall with Paul" - because he "stood tall" at the gates of University of Mississippi to bar African American student James Meredith from registering for classes. 
+
+In the 60s, that was the politics of Mississippi. No Republicans at all - they were still the party of Lincoln. 
+
+##
+A decade’s an eyeblink compared to how long the South has been nursing grievances against the Republican Party of Lincoln. These things take time. Nixon’s [“Southern Strategy”](http://en.wikipedia.org/wiki/Southern_strategy) very overtly and consciously played the Race Card. Then picked up by succeeding Republican politicians, resorting to increasingly “dog-whistle” techniques to give them plausible deniability for doing so.
+
+His political advisor, Kevin Phillips, [was interviewed in 1970 by the NYT](http://www.nytimes.com/packages/html/books/phillips-southern.pdf):
+
+&gt;From now on, the Republicans are never going to get more than 10 to 20 percent of the Negro vote and they don't need any more than that...but Republicans would be shortsighted if they weakened enforcement of the Voting Rights Act. *The more Negroes who register as Democrats in the South, the sooner the Negrophobe whites will quit the Democrats and become Republicans. That's where the votes are. Without that prodding from the blacks, the whites will backslide into their old comfortable arrangement with the local Democrats.*
+ 
+##
+Out of curiosity, what about congressional delegations and presidential elections?
+##
+That would take me a long time to dredge up, but Richard Shelby was a democrat when he was first elected. So that should give you some idea how it changed. 
+
+Edit: The more I think about it, the more you would have to delve into each individual congressional district for each state. For example there are some parts of Alabama that have been democrat since Reconstruction but the demographics and race politics of the area have changed what types of democrats get elected. 
+##
+This is some seriously good information that I had no idea about, and changes my perspective of the kennedy assassination all the way around. 
+
+Do you personally think it was a good thing for america that kennedy was assassinated, and do you think kennedy would have been able to pass those acts himself? Or did something extreme like this need to happen to change the mindset of america for those acts to pass? Do you think this could have been one of the reasons he was assassinated?
+
+Sorry for all the questions, I've just never heard this side of the story before.
+##
+Kennedy's administration was somewhat mired in controversy at the time of his assassination. Johnson had been involved in some shady legal deals and there were front page exposes on these scandals being prepared literally on the day Kennedy was assassinated, who was even considering dropping LBJ from his reelection ticket. Of course, those stories pretty much disappeared after the shots rang out.
+
+So one could argue that the Kennedy administration, and Johnson in particular, were headed for rough times politically. Would this have seriously hindered their legislative agenda had Kennedy lived? Would he have been reelected? Im not informed enough to say.
+
+It is certainly reasonable to state that Johnson was fighting for his political life before the assassination. He knew it too. It's also been well established that most people at the time saw civil rights legislation as a political impossibility. Johnson decided to push for it anyway. And if one were to say that Johnson was not a charismatic man, he was certainly a master of politics. He understood relationships of power and influence almost preternaturally. He successfully cajoled, browbeat, and threatened many conservative Southern Democrats into acquiescence. It would be hard to imagine those landmark civil rights bills passing without Johnson in the White House and, therefor, without Kennedy having been assassinated.
+
+I hope that somewhat answers your question. I can't really say about his other signature pieces of legislation or whether Kennedy would have pursued similar plans had he lived. I still need to read more Robert Caro... :-)
+
+
+##
+Wow, thanks a lot man for taking the time to attempt to answer my questions. This has actually piqued my interest concerning the kennedy assassination and LBJ as well. I am going to start looking into this stuff for myself. I never really understood what the big deal about the assassination was until now.
+##
+If you know anyone with a New Yorker subscription, not long ago they ran an amazing excerpt from Robert Caro's LBJ biographies that covers the day of the assassination from LBJ's perspective.
+
+The article is behind their paywall but it's definitely worth reading. Truly riveting non-fiction. My palms were sweating.
+
+Also, NPR interviewed Caro recently and he discussed Johnson's push for civil &amp; voting rights legislation, iirc. I'm on my phone or I'd provide a link.
+
+Robert Caro is the greatest biographer alive today, in my view. His LBJ series is at like 4,000+ pages so far and it isn't even done... Masterfully written though. I haven't been able to put them down.
+##
+Thats really cool, man. I'm gunna have to check Robert Caro out. LBJ sounds like a really interesting character.
+##
+&gt; His assassination gave Lyndon Johnson (and Democrats in Congress) the biggest electoral landslide in modern history.
+
+How?
+##
+Sympathy for a beloved president, the continuation of his legacy by those who supported him and the rest of his party, etc. 
+##
+The American people weren't going to change presidents three times in such a short time span, especially since Kennedy's assassination was so shocking. I'd argue that Goldwater's campaign was doomed from the beginning. 
+##
+I agree, I don't think Goldwater had a legitimate chance for a few reasons. But the tide of public support and idealism sealed it. 
+##
+Also, Johnson ran a damn good campaign painting Goldwater as dangerous.
+##
+I would use the word effective instead of good as I dont particularly like negative camaigns. But you're right, here is the infamous "Daisy" ad.
+
+ http://www.youtube.com/watch?v=dDTBnsqxZ3k
+
+Basically saying if you don't vote for LBJ little girls will be nuked. It's pretty shocking even by todays standards.
+##
+Funny, just after submitting that comment I thought "probably should have said effective rather than good" but was too lazy to edit it.
+##
+You can say that it was good as a campaign without implying that it was good in a moral sense. 
+##
+&gt;His assassination gave Lyndon Johnson (and Democrats in Congress) the biggest electoral landslide in modern history. This incredible political mandate allowed Johnson to push through controversial progressive legislation such as The Civil Rights Act,
+
+Wait, how did the electoral landslide help The Civil Rights Act?  Wasn't that legislation pushed through before the election?
+##
+You're right. I'm sorry, my comment was rushed and far too brief.
+
+The Civil Rights Act was Johnson's first real legislative push immediately after the assassination but before the election.
+
+Still, my main point was that the assassination gave him enough political capital to pull it off.
+##
+And also had a higher percentage of Republican support compared to Democrat, so the amount of New Dems in Congress would have played no role.
+##
+Johnson did enact The Social Security Amendments of 1965,  which was legislation in the United States whose most important provisions resulted in creation of two programs: Medicare and Medicaid. The legislation initially provided federal health insurance for the elderly (over 65) and for poor families.
+
+It had the effect of bring the over 65 population out of the four quantile of annual income levels and placing them firmly in the second quantile . Of course, it came at a cost, pushing young adults with families down to the bottom.
+##
+If it weren't for the quagmire of Vietnam (and admittedly, that's a big if), I think people would regard Johnson with the same esteem as FDR. The extent of the domestic policies he passed in just five years is truly staggering.
+##
+Piggyback question: how much did he have to do with the space program?
+##
+A lot. 
+
+John F Kennedy's Famous, "Moon Speech" was delivered 20 days after America launched its first man in space. And nearly a month before it would launch it's second. NASA ultimately named the space center in Cape Canaveral after him.
+
+Kennedy ultimately thought that space exploration was a frontier that nations should conquer together, and though that cooperation achieve peace back on earth. Kennedy offered to the USSR to work together on a joint Apollo moon mission, which the Soviet Ambassador accepted but the Premier declined. He repeated his idea several times that space exploration should belong to man kind, not due to the product of a psuedo-technological war. [2]
+
+In the 00's a lot of Kennedy Oval office tapes were released. One of him practicing his favorite moon speech. Where he confessed to an intern that "Everything we do in space has to be for the defense of the US. Otherwise we wouldn't be spending so much money on this [paraphrased quote]). [2]
+
+Further Reading
+
+[1] Wikipedia Kennedy Space Center
+
+[2] http://www.nasa.gov/50th/50th_magazine/10presidents.html
+
+
+##
+&gt; NASA ultimately named the space center in Cape Canaveral after him.
+
+Nitpick from the wiki page you cite:
+
+&gt;the facility was given its current name by President Lyndon B. Johnson under Executive Order 11129 following Kennedy's death.
+##
+Part of your premise is flawed. Robert Kennedy held several high-profile legal jobs from 1951 until he was appointed Attorney General in 1960. Yes, it was controversial, but it is not correct to assert he had "no legal experience."
+##
+And political appointees don't need to have relevant experience. Shit, FDR was assistant to the secretary of the navy and had no military or naval experience but did an excellent job 
+##
+Kennedy absolutely deserves credit for averting nuclear war. In terms of sources, I just read Robert Caro's incredible depiction of the crisis in his latest volume of his Years of Lyndon Johnson series. Almost his entire cabinet was unified in support of a military strike, and the Joint Chiefs were desperate to attack. He was under tremendous pressure, and it was his nearly solitary refusal to give up on the possibility of a diplomatic solution that prevented World War III.
+
+Beyond this he passed what was then the largest tax cut in US history, leading to actually increased revenue. It was this relatively unique occurrence which inspired the notion of the Laffer Curve, the basic idea behind Supply Side Economics. 
+##
+Have a look at "Britain on the Brink" or "Launch Pad UK" by Jim Wilson (some duplicate material between the two, so I wouldn't recommend both). This gives a different view. At the time Britain, Italy and Turkey all hosted Thor or Jupiter IRBMs within range of Russia, which was part of the reason that Kruschev believed that there was sufficient precedent to establish the same situation with respect to the USA.
+
+The existence of these non-siloed missiles meant that these countries, and particularly the UK, would be subject to pre-emptive strikes by the USSR if the Kremlin thought that war was about to start. In the case of the UK, there would be a maximum of four minutes between radar warning and the first missile strikes. A strike against the USA would be less urgent due to the limited number of ICBMs on both sides (R7 and Altas).
+
+Similarly, but to a lesser extent, if war were to happen then the UK's best chance at partial survival would be a pre-emptive strike with the V Force (strategic bombers), the Thor missiles (under dual key control, but realistically the UK military could force single key control) and other nuclear assets (Canberra, Buccaneer etc.). 
+
+Since the UK faced almost complete annihilation, it would be expected that the USA would coordinate plans with the British government. In fact the reverse happened - communication ceased almost completely and it seemed entirely possible that the war would be started without the UK being consulted or even informed.
+
+The Prime Minister, Harold MacMillan, adopted a policy of non-reaction, fearing that war was most likely if the USSR was given cause to fear an attack. Many preparations were not activated - for instance the government and royal family were not evacuated, and regional emergency control centres were not manned. This led to odd situations where US staff were on high alert on air bases where UK staff were not. This preparation for war by the US forces within the UK probably made MacMillan's strategy of non-reaction moot. The strategy also meant that if war started quickly, a major part of NATO would not be involved initially.
+
+These experiences led to many changes in dogma on the handling of nuclear escalation. However I think the relevant point here is that the Kennedy govt was in some ways outstandingly bad at international relations at a point where it mattered most.
+##
+&gt; However I think the relevant point here is that the Kennedy govt was in some ways outstandingly bad at international relations at a point where it mattered most.
+
+Agreed. The Kennedy administration based its international policies on domestic political needs. Kennedy ran well to the right of Nixon on foreign policy during the election, taking a hardline on Cuba, among other things, and to keep up appearances, he undertook reckless actions in an attempt to overthrow the Castro regime when in office, actions that lead to Castro accepting Soviet nuclear weapons. And despite the fact that these nuclear weapons did not dramatically alter the strategic situation of the Cold War at the time (the US had a massive lead in terms of quantity of warheads, despite administration propaganda about the "Missile Gap", and anyways, whether a missile hit the US from Cuba or a submarine or from Russia itself wouldn't really matter in an actual war), Kennedy took supremely aggressive actions against Cuba, in violation of international law, to save political face.
+
+JFK does not bear sole responsibility for the Cuban Missile Crisis, of course, but he and his administration can be allotted the bulk of the blame, by turning a tense diplomatic conflict into a state of nuclear crisis through measures designed to ensure that Kennedy didn't look bad in the eyes of the American populous.
+##
+Not to add another weight on Kennedy's legacy, but don't forget about his implicit approval of the assassination of South Vietnamese President Ngo Dinh Diem.  That was the start of the end of any chance Saigon had of leading a sovereign state which could have survived independently of American aid.
+##
+It should be noted that submarine based missiles did not form the bulk of the Soviet Nuclear deterrent in 1962 when the Crisis occurred. In fact it was the crisis itself which caused the wide spread deployment of SLBM's, with the Soviets realising that placing missiles near America was no longer a necessity. 
+
+On top of this one of the reasons the Soviets deployed missiles to Cuba was because their own ICBM's were at that time fairly inaccurate and unreliable.
+
+All this meant that when the Soviets placed missiles in Cuba they were radically altering the landscape of the Cold War. This was the first time that they had directly threatened America home soil and Kennedy's reaction reflects this.
+##
+Wasn't the basic premise of mutually assured destruction that we would destroy each other if anyone launched any missile? 
+
+Basically, if the soviets (or us)  launched even one nuke that it was all over? 
+
+If that's the case, it doesn't really matter if the UK or turkey knows about it. In part because of our missiles everywhere else. 
+##
+Ok, that's putting several things together that don't really belong together. 
+
+There's several phases of doctrine on nuclear policy, and not all of them were consciously formed. So, simplifying:
+
+In the first phase (Hiroshima/Nagasaki, until shortly after WW II), the bomb could not be used quickly for various reasons. During this phase the UK had a veto on the use of the bomb, but lost it in return for loans when its financial situation was desperate (down to $20M foreign exchange). This is documented in Richard Rhodes' *History of the Atomic Bomb*.
+
+Following this there was a rapid expansion of US nuclear capability, initially unilateral. Delivery system were still slow, initially relying on the B50 and later the B36 bombers. During this period, the "tripwire doctrine" was used, summed up as "If they put one foot over the border, we hit them with everything". This continued well into the period when the USSR had H-bombs and missiles. Various characters in the US (McArthur, LeMay, Powers) were in favour of pre-emptive use of atomic weapons or deliberately provoking a war. Spy flights over Russia used bombers (Canberra / RB57, RB47 and I think B36), and I have read of at least one formation of B47's over Vladivostok.
+
+Kennedy on coming to power said something to the extent of "Gentlemen, this is not a war plan - it is just a bloody spasm". He required a set of plans for a more graduated response - so to answer your question, no, at this time launching one missile would not necessarily trigger a global thermonuclear war.
+
+Some time around this period, MAD became a popular idea. I haven't been able to track down the dates completely. However during the MAD period, there were always attempts to circumvent it, e.g. building the Galosh and Nike-Zeus ABM systems, so that one side could potentially attack without suffering the consquences.
+
+Even without these, MAD has some absolutely central limitations.
+
+1) It is a two-player game. This does not reflect reality, particularly the asymmetries introduced by the UK and France, which will not act as part of the USA. I am not mentioning Italy and Turkey here as they did not control the missiles on their territories.
+
+2) It assumes that both players have second-strike capability, or at least the ability to launch a full strike on receiving a warning that they are under attack. Not true of the UK or France until they acquired SLBMs, later than the Cuban crisis. Not really true of the USSR either, since the R7 ICBM took something like 24h to prepare for launch. This means that they have a major incentive to "use it or lose it". This removes the notional cause of stability in MAD.
+
+3) It assumes both sides are equally vulnerable. At the time of the Cuban crisis, the vulnerability of the USA was limited due the small number of ICBMs, while the USSR, UK and France were vulnerable to the larger number of IRBMs.
+
+4) It has the generic weakness of game theory: it assumes that the other party is a game theorist who will make the same decisions from the same information. In fact it seems that MAD was never generally accepted as an idea in the USSR.
+
+Now dealing with more specific points in your note. At this stage, there were limited numbers of Atlas missiles, so they would not be "everywhere". Even in later stages of the Cold War, not starting with the UK would cause major disruptions in NATO plans as they were (are) very tightly scripted. For instance in Mike Brook's *A Bucket of Sunshine: Life in a Cold War Canberra Squadron*, he mentions a crew on his squadron who were tasked to hit a city two minutes after an ICBM, and two minutes before another.
+
+However this misses the biggest point of all: Kennedy's choices were not a one-off event. When the crisis wound down, as a legacy it was known that the USA (and more specifically the Kennedy government) could not be trusted to cooperate with the UK as per their treaty obligations. This is one of the reasons why the UK has a second war plan which does not involve the USA. Basically in diplomacy and foreign relations, you can't just assume that today is your last day and act accordingly.
+##
+First: Thanks for the detailed response.  I knew when writing my comments that we were early enough in the cold war during the missile crisis that it was possible MAD hadn't fully been implemented.
+
+But I have some follow-up questions.  These are more directed towards the "height" of the cold war and not specifically at the time of the JFK administration:
+
+1) At the height of the nuclear build-up, didn't we(USA) and the soviets have enough missiles to basically carpet bomb entire cities?  At that point it doesn't matter if there are other players if you know your enemy and you can take each other out.  Not to mention, they could probably take out, or considerably hurt our allies.
+
+2) I'm interested in knowing more about the USSR's second-strike capability.  Did that second-strike time get quicker?  And again, if the USSR and USA assume that they can wipe out each other, then they don't care about NATO.
+
+3) This explains a number of factors.  Particularly the US military desire to react with a military strike as a feeling of invulnerability, and the unwillingness to alert allies of that desire, as vulnerable allies would be very reluctant to resort to military action due to their vulnerability.
+
+4) What about [Dead hand](http://en.wikipedia.org/wiki/Dead_Hand_(nuclear_war)) which implies a certain level of MAD necessary to create a semi-autonomous system.  While Wikipedia is a poor source, perhaps its creation was to mollify hard-line elements, and appease them with a "If we do nothing, we still retaliate" without a real desire to do so.  Either way, I'm interested in more information on the USSR not believing in MAD.
+
+I cannot imagine NATO, US, UK, etc having only one battle plan.  As you said, the US' decisions made it clear that they couldn't be counted upon.  I have to imagine that there are multiple battle plans drawn up for all sorts of scenarios, and that this is probably just a matter of policy for world governments.
+
+Again, thanks for the response!  Its been enlightening!
+##
+1) Yes, later on there were huge numbers of missiles, and the term "overkill" became used more in the strategic sense (in the tactical sense, it was used from 1946 onwards). However at the time of the Cuban crisis the situation was quite different. 
+
+* There were small numbers of early ICBMs, and as far as I can tell the US Atlas missiles were not capable of covering all of Russia at this stage.
+
+* There were small numbers of Polaris missiles on USN submarines (not RN boats until 1968). While important for second-strike capability, SLBMs have some limitations compared with the transportable ground-based missiles that the USSR had. There is a major concentration of assets in one place - basically if you fire one, you need to fire them all because you've given away your position. Only a fraction of the boats will be at sea at any given time, so this asset concentration is more of a problem that it might seem. 
+
+* SLBMs have major communication problems. Radio of normal wavelengths will not penetrate salt water, and even with very long wavelength radio, the boat must come near the surface periodically and string out an antenna. Not good for a carefully timed attack.
+
+* A third problem with Polaris is that there may have been some doubt as to whether it was possible to fire all the missiles, something which was never attempted. Apparently it took a couple of minutes to recover control after firing only one missile, and there was a concern that firing more of them would sink the boat. If the missiles were to be fired in sequence (and my guess is that this would be the case), it is possible that only a limited number could be fired.
+
+* There was heavy reliance on aircraft as a means of delivery. These have obvious problems. They are slow, making a surprise attack difficult. They deliver their weapons sequentially (as opposed to the way that a MIRV delivers all its packages at the same time), so that an early interception of one aircraft will prevent attacks on several cities. They are very vulnerable to improvements in defensive technology.
+
+So in the context of the Cuban crisis, the situation was quite different from the 70's.
+
+In respect of other nuclear powers - remember that any of these powers might start a war irrespective of whether it were in the best interests of the USA. As I mentioned, MacMillan might rationally have decided that the UK's best chance was an all-out surprise attack on the USSR if he concluded that Kennedy's actions were likely to lead to war in any case. It's very important not to see the Cold War as USA vs USSR (which was probably the very mistake that Kennedy made).
+
+2) Yes, the USSR's response time improved. I don't have full detail on this at the moment, but if you need to get a missile off the ground quickly you need either storable liquid propellant or solid propellant. Russia has certainly used solid propellants [since 1988](http://en.wikipedia.org/wiki/SS-25), but I believe that the liquid propellants in some [earlier models](http://en.wikipedia.org/wiki/UR-100) were storable.
+
+The other side of a credible second strike capability is to make sure that your missiles survive a first strike, in which case speed of response becomes less important. The USSR adopted at least three means for this - silos (not during the CC); SLBMs ([Hotel class](http://en.wikipedia.org/wiki/Hotel_class_submarine)) in service at the time of the CC; and transportable ICBMs
+
+3) You said:
+
+&gt; vulnerable allies would be very reluctant to resort to military action due to their vulnerability.
+
+No, this misunderstand the situation, which favoured first strike as a defensive measure.
+
+It is difficult to find any rationale for the breakdown in communication, and I tend to believe that it was simply carelessness and lack of forethought. Since JFK expected to be able to avert a war, continued relations with allies were important. However he effectively demonstrated that the USA could not be relied on as an ally. This was not the cause of the withdrawal of France from NATO and the foundation of the Force de Dissuasion, but there are certainly parallels.
+
+This remains relevant today, but current discussions on independent forces are out of scope for this subreddit.
+
+4) Dead Hand was not relevant for MAD. The reason is simple - only the USSR knew about it, so it was not a deterrent.
+
+You probably won't find a Russian document which says explicitly "We don't believe in MAD" or "we believe in MAD" (although you will find US strategists who do say explicitly that they don't believe in MAD, or that it has very limited application).
+
+However the attitude of the USSR can be inferred from what is known about their plans for attack on Western Europe, for instance [this well-known plan](http://en.wikipedia.org/wiki/Seven_Days_to_the_River_Rhine). As you can see, this plan avoids using nuclear weapons on the nuclear powers, while using conventional weapons on nuclear powers and nuclear weapons on conventionally armed countries. If executed, this plan would not give global conquest, but that was probably never the intention of the USSR.
+
+Incidentally, this reflects a similar belief in Europe that if the UK and France were attacked with nuclear weapons and the USA were not, the USA would not engage with nuclear weapons.
+
+5) Number of battle plans - yes, of course there are more than one or two. However what I'm referring to here is the existence of plans to fight a nuclear war without the participation of the USA. This is quite different from subtle changes in responses.
+##
+If he deserves credit for averting nuclear war, he also equally deserves credit for pushing Cuba to the brink of nuclear war – [by strafing the coast of Cuba](http://www.jfklibrary.org/Asset-Viewer/sQP1wYSDP0OsOXeWZEj7zw.aspx) and "destruction operations" against an oil refinery, sugar mills, an electricity plant and other infrastructure.
+
+In fact, [Fidel sent Che Guevara to bid for peace with the US through a meeting in Uruguay with Richard Goodwin, an advisor to JFK.](http://digitalarchive.wilsoncenter.org/document/115182)
+
+[JFK later agreed with Goodwin that this offer showed that Cuba was weakening and to "turn up the heat" on Cuba.](http://webcache.googleusercontent.com/search?q=cache:qSO5GJGm7ssJ:www.independent.co.uk/news/world/che-made-cocktailparty-peace-bid-to-jfk-1307482.html+&amp;cd=4&amp;hl=en&amp;ct=clnk&amp;gl=au&amp;client=firefox-a)
+
+It was only in the context of the continued escalation of attacks against Cuba and the threat of further invasions that Cuba decided to create connections with the Soviet Union in order to acquire nuclear missiles.
+
+JFK had an opportunity to create lasting peace with Cuba before the missile crisis even started but he chose to continue attacks instead.
+##
+Exactly. John F. Kennedy should not be given credit for being marginally less psychotic than the most hardened militarists on the NSC. In fact, his treatment of the Jupiter missiles in Turkey is a classic case of playing dangerous politics with nuclear war. The Soviet decision to station missiles in Cuba in the first place was due to the installation of missiles capable of rapidly hitting the USSR in Turkey and Europe. When they publicly offered to swap the Turkey missiles for Cuba--which was the desired outcome in the first place--Kennedy's administration rebuffed them. When Adlai Stevenson suggested the same thing, the Kennedy administration allowed its allies to paint him as a traitor and appeaser. In reality, they were negotiating exactly that behind closed doors. In other words, by publicly repudiating the only reasonable compromise that might have contributed to defusing the crisis, Kennedy did far more to bring the world to the brink of annihilation than Khrushchev. 
+
+Check out [this excellent Atlantic article](http://www.theatlantic.com/magazine/archive/2013/01/the-real-cuban-missile-crisis/309190/?single_page=true) (a summary of a recent book by the former historian at the JFK library) for more details on this. But really, this story has not been new since the secret Jupiter missile agreement became known, which was a while ago. The fact that Kennedy's reputation as peacemaker has not suffered says more about the inertia of popular memory than anything else.
+##
+I don't know if this would be relevant to tack onto your post, but weren't the Jupiter missiles viewed as kind of useless within the Kennedy administration? "The Kennedy Men" by Lawrence Leamer paints it as just negotiation fodder. 
+##
+Yes, the missiles were already being supplanted by the Polaris ballistic missile, which could be launched from submarines. However, the Soviets did not know about this, and their reaction was in response to the deployment of the Jupiter missiles:
+
+&gt; The Jupiter missiles were an exceptionally vexing component of the U.S. nuclear arsenal. Because they sat aboveground, were immobile, and required a long time to prepare for launch, they were extremely vulnerable. **Of no value as a deterrent, they appeared to be weapons meant for a disarming first strike—and thus greatly undermined deterrence, because they encouraged a preemptive Soviet strike against them. The Jupiters’ destabilizing effect was widely recognized among defense experts within and outside the U.S. government and even by congressional leaders**. For instance, Senator Albert Gore Sr., an ally of the administration, told Secretary of State Dean Rusk that they were a “provocation” in a closed session of the Senate Foreign Relations Committee in February 1961 (more than a year and a half before the missile crisis), adding, “I wonder what our attitude would be” if the Soviets deployed nuclear-armed missiles to Cuba. Senator Claiborne Pell raised an identical argument in a memo passed on to Kennedy in May 1961.
+
+[Source](http://www.theatlantic.com/magazine/archive/2013/01/the-real-cuban-missile-crisis/309190/) (my emphasis).
+##
+I didn't know that, but if so, it casts Kennedy in an even worse light.
+##
+There certainly is another take on why the missiles were taken back from Cuba.
+
+&gt; [“Of course I knew the missiles were nuclear- armed,” responded Fidel Castro to Robert McNamara during a meeting in 1992. “That’s precisely why I urged Khrushchev to launch them. And of course Cuba would have been utterly destroyed in the exchange.](http://www.humanevents.com/2013/10/24/so-when-did-the-cuban-missile-crisis-become-kennedys-victory/)
+##
+Yes, Castro urged Khrushchev to launch *in the case that Cuba was invaded again*. 
+##
+Correct me if I'm wrong here. Supply side economics suggests increased GDP growth via allowing the wealthy to keep more of their money whereas the laffer curve only suggests that the maximal way to collect tax revenue is not necessarily at the maximal rate. To my knowledge the laffer curve only discusses tax collection
+##
+I have not read Caro's biography, but the idea of Kennedy deserving "credit for averting nuclear war" is completely negated by the fact that he *created the crisis in the first place* — by [deploying missiles near the Soviet Union's borders](http://www.theatlantic.com/magazine/archive/2013/01/the-real-cuban-missile-crisis/309190/). The nuclear crisis was the Soviets' reaction to JFK's provocation:
+
+&gt; The Jupiter missiles were an exceptionally vexing component of the U.S. nuclear arsenal. Because they sat aboveground, were immobile, and required a long time to prepare for launch, they were extremely vulnerable. **Of no value as a deterrent, they appeared to be weapons meant for a disarming first strike—and thus greatly undermined deterrence, because they encouraged a preemptive Soviet strike against them. The Jupiters’ destabilizing effect was widely recognized among defense experts within and outside the U.S. government and even by congressional leaders**. For instance, Senator Albert Gore Sr., an ally of the administration, told Secretary of State Dean Rusk that they were a “provocation” in a closed session of the Senate Foreign Relations Committee in February 1961 (more than a year and a half before the missile crisis), adding, “I wonder what our attitude would be” if the Soviets deployed nuclear-armed missiles to Cuba. Senator Claiborne Pell raised an identical argument in a memo passed on to Kennedy in May 1961.
+
+(My emphasis.)
+##
+You should watch The Fog of War, it's a long interview with Robert McNamra. His view is that Robert Kennedy convinced the president to not go with a nuclear strike.
+##
+[youtube link](http://www.youtube.com/watch?v=j8TOJy3eO1A)
+##
+Can you elaborate a little more on that tax cut? I have always considered the Laffer Curve to be complete hogwash and I am astonished to learn that there is any historical precedent for it. I work in politics, and in all the debates I've seen or been personally involved in, my opponents have never once cited this example.
+##
+How exactly is the Laffer curve hogwash? do you disagree with the notion that there's a theoretical rate of taxation between 0 and 100 where tax revenues are maximized?
+##
+Exactly, it's not really that the theory is hogwash, it's that both sides will always argue where on the spectrum we currently are.
+##
+Indeed. It's important to note the actual rates involved. Kennedy's tax bill reduced the top marginal rate from 91% to 70%. For comparison, the top marginal rate today is 39.6%.
+
+Also, there's a real question about timing for the Laffer curve - in the short run, the growth effect of a tax is not as pronounced, but that increases over time: a cut that reduces revenue in the short term could increase it in the long run, and vice versa.
+##
+Were the tax brackets involved changed in any way however? For example, if all income &gt;100k taxed at 39.6% today, wouldn't that be different from a situation where &gt;100k was still taxed at ~40%, but everything &gt;200k was taxed at 70%? In other words, the top marginal rate is important, but how were the income brackets affected by the tax bills?
+##
+The top bracket before the legislation was $400,000, the Kennedy legislation had a top bracket of $200,000. The $200,000 bracket previously had a rate of 89%.
+
+A full history of US tax brackets can be found [here](http://taxfoundation.org/sites/taxfoundation.org/files/docs/fed_individual_rate_history_nominal.pdf). One thing that's striking is how many brackets there were at the time - today we have 7 brackets, but in 1963 there were 24 of them.
+##
+I don't want to speak for the commenter, but I think the major objection most people have to the Laffer Curve is not the curve itself but rather the idea that the current tax rate is *always* above the theoretical maximization rate.  Every Republican primary winner since Reagan (Bush, Dole, Bush II, McCain, Romney) has made it one of the points of their economic plan that they will increase tax revenues by cutting taxes.
+##
+Thank you, this is exactly what I meant. I am well aware that the Laffer Curve does accurately predict the result of certain tax cuts, but only in extreme cases, such as a 90% marginal tax rate. /u/snow_giant actually answered my question, because I was previously unaware that that was exactly the situation when Kennedy lowered the marginal tax rate.
+
+TIL that there was actually a taxing scheme in the U.S. extreme enough for tax cuts to actually, no joke, increase federal revenues. This is a pretty big revelation for me personally. I hope it goes without saying that while I never realized before that the Laffer Curve actually described real life at one time, that does not mean that I support a return to those extreme rates of marginal taxation. It's not so much that the Laffer Curve is horse puckey as much as it is that we've never had a situation in the last 50 years or so where it was actually relevant to the case at hand.
+##
+[JFK on tax cuts 8/13/62](http://www.youtube.com/watch?v=aEdXrfIMdiU)
+##
+This is what i recall about kennedy.   He listened to his cabinet for bay of pigs, and then realized that he needed to be strong and be able to resist pressure in future engagements.   He did so during the Cuban Missile Crisis and ultimately concluded the matter in the most peaceful way possible, without weakening the united states.   
+
+His cabinet would have ignited an international incident beyond what the world had seen since WWII if they attacked as they resoundingly wanted to do.   JFK had the strength to stand up to them.  
+##
+&gt;does JFK deserve credit for averting the crisis rather than creating it
+
+I've done a lot of work on the Cuban Missile Crisis recently. Wrote a roleplaying game for it actually! (It's freely available here: https://dl.dropboxusercontent.com/u/49430809/13%20Days%20in%20October.pdf) It's for a high school classroom, but it works equally well for smaller groups of friends.
+
+To answer your question, pretty much everyone in the EXCOMM was for some form of military strike on Cuba except for Dean Rusk and JFK. Even RFK, who later went on to write a rather self-serving autobiography of the event (*Thirteen Days*) rewrote history to make it seem like he was for the blockade when he wasn't originally.
+
+Stern's [The Cuban Missile Crisis in American Memory](http://www.sup.org/book.cgi?id=22290) is really a must-read for clearing up the misconceptions surrounding the missile crisis. While Stern certainly has a pro-JFK bias from being one of the historians working in his library, I do think his reliance on JFK's secret recordings of the actual EXCOMM conversations gives him a more primary resource to draw from than less reliable sources like Thirteen Days, and conversations that took place years after the fact.
+
+You could certainly argue that JFK did create the crisis, sort of - I mean, the Soviets were smuggling men and missiles into Cuba, and were lying about to the US, so they really did precipitate the crisis by fundamentally misunderstanding the US's response to having missiles so close by (if you read Khrushchev's son on the topic, he speaks eloquently on how Americans have never had the Enemy at the Gates, unlike the Russian people, who have had to deal with this for centuries), but theoretically JFK could have ignored the buildup in Cuba. He might have gotten impeached over it, but I suppose he could have tried to just ignore it. But it didn't fit into the US's cold war strategy of containing the Soviets on all fronts.
+
+I think JFK certainly should be given credit for resolving the crisis without a nuclear exchange. He constantly sought to take the diplomatic approach in resolving the conflict (a stance people like Curtis LeMay felt was hopelessly naive and weak, akin to "Chamberlain appeasing Hitler")... which turned out to the correct choice in the conflict.
+
+Cuba, unbeknownst to anyone, actually had operational tactical (short range) nuclear weapons on the island, and could probably have fired off some medium range missiles at the American homeland. In the case of a military attack on the island, they would have turned Guantanamo into a glass parking lot, killing thousands of Americans on the island. This would most likely have resulted in a nuclear response from America (as JFK said, any nuclear attack from Cuba would be treated as a nuclear attack from the USSR), which would probably have resulted in a general nuclear exchange.
+
+Many in the Joint Chiefs felt such an exchange was inevitable, and wanted to get it out of the way before Russia could build up more nuclear weapons. The Soviets at this time had a massive deficit in nuclear weapons - only two dozen ICBMs, versus the hundreds the United States had. The JCS felt that allowing nuclear weapons on Cuba would give the USSR too much ammo for the "inevitable" upcoming war. 
+
+So yeah, JFK took the right approach, I think.
+
+&gt;appointing his brother with no legal experience Attorney General
+
+RFK was more like an appointed vice president, that the president relied on much more than LBJ, who got sidelined a lot (and had a mutual hate thing going on with RFK).
+
+&gt;the disastrous attempted invasion of Cuba at the Bay of Pigs
+
+Agreed. You don't commit halfway to invasions.
+
+It's not as well known, but RFK made it one of his personal missions to get Cuba back, and worked with the CIA on Operation Mongoose to overthrow Castro after the Bay of Pigs.
+
+In a real sense, the Bay of Pigs and Operation Mongoose were what caused the Soviets to put missiles there in the first place - they felt that the US wouldn't dare invade an island with nuclear weapons, and were trying to make it a *fait accompli* by revealing the weapons after they were already set up. Only the US's intelligence services ruined the surprise.
+
+
+##
+Just in case you haven't seen it, Rick Perlstein is doing a great [Kennedy Week](http://www.thenation.com/blogs/rick-perlstein) feature that answers a lot of your questions.
+##
+First of all, Robert Kennedy was chief counsel of the Senate Labor Rackets Committee, which was a demanding, high level legal job that he excelled at, so it isn't fair to say he had no legal experience.
+Second, read Averting the Final Failure:  John F. Kennedy and the Secret Cuban Missile Crisis Meetings by Sheldon Stern -- this book by a long time history (although at the JFK library) says that the meetings show that JFK consistently steered away from the conflict and viewed it as 'the final failure' that had to be avoided.  And so, he should be credited for helping to avert it.
+As for the positives:  JFK started the Peace Corps and inspired a generation to do something for their country and their society.  He was an inspirational figure, leading the US to treat people of color, disabled people and other people who have been oppressed in a fair manner.  Without his leadership, it would have taken far longer to get the Civil Rights Act or provide disabled people with more rights.  The Civil Rights Act was passed shortly after his assassination partly to honor his memory and strong desire to make life fairer for people of color.  
+
+Not to say he was one of our great Presidents but he did do some good things and he was certainly an inspirational figure that caused many folks to do great things.
+##
+May seem small to some and huge to others, but JFK also created the Peace Corps.
+##
+Senator Hubert Humphrey introduced a bill to create the Peace Corps in 1957 - three years before Kennedy took office. So maybe Kennedy shouldn't get ALL the credit.
+##
+The bills (there was one by Henry Reuss as well) both failed and didn't have much legislative support. The Peace Corps ended up being created by Executive Order. And honestly probably the greatest thing that could ever have happened for the Peace Corps was Kennedy making his brother-in-law [Sargent Shriver](http://www.youtube.com/watch?v=aCiORvrMOpE) the first Director. 
+##
+Noam Chomsky's Rethinking Camelot provides a historically cogent view of JFK's place in history vis-a-vis the Cold War and particularly the indochina wars. A rigorously researched book, Chomsky goes to great lengths to paint the picture (quoting US intelligence papers describing the Vietcong as being uniquely without influence from Moscow nor Peiping) prior to JFK's entrance - a specific focus on 1945-1983.
+
+JFK's emergence precipitated a further escalation of the war in Vietnam. Although one may disagree with Chomsky's view of the American president a as powerless figurehead, one cannot deny the mountains of evidence of JFK escalating the Vietnam war.
+
+It is remarkable that today the Vietnam war is widely regarded as a great crime, and yet the man who oversaw its crucial expansion is generally venerated.
+##
+Would you mind expanding on the mountains of evidence of JFK escalating the Vietnam war?
+##
+The fact that Kennedy escalated the Vietnam War is generally not disputed by historians, it is simply glossed over in mainstream history.
+
+[Quoting from Chapter 2: Kennedy's War](http://books.zcommunications.org/chomsky/rc/rc-c01-s05.html)
+
+
+&gt; "There can be no doubt," a 1972 study prepared for the Pentagon concludes, "that innumerable crimes and absolutely senseless acts of suppression against both real and suspected Communists and sympathizing villagers were committed. Efficiency took the form of brutality and a total disregard for the difference between determined foes and potential friends." Killing and repression began at once, with over 10,000 killed by 1957. Bernard Fall estimates about 66,000 killed between 1957 and 1961, another 89,000 between 1961 and April 1965, virtually all of them South Vietnamese, victims of state terror or "the crushing weight of American armor, napalm, jet bombers and finally vomiting gases."
+
+&gt; * Sources: IDA study on pacification by Chester Cooper, et al., cited by Bergerud, Dynamics, 14; Kolko, Anatomy, 89, giving the "conservative estimate" of 12,000 killed for 1955-57; Fall, New Society, April 22, 1965; reprinted in Fall and Raskin, Vietnam Reader. The US Government accepted the 89,000 figure; see minutes of July 1965 meetings cited by Kahin, Intervention, 385.
+
+Further:
+
+&gt; Kennedy accepted a diplomatic settlement, at least on paper, in Laos, but chose to respond by military escalation in Vietnam.
+
+&gt; * Sources: Bergerud, Dynamics, 13f., 18f., 47. PP, II 134. See sec. 3, below. On Laos, see AWWA, FRS, and sources cited.
+
+Further:
+
+&gt; [...] as JFK took over in 1961, "the U.S. had in addition provided military capabilities such as helicopters and tactical air support" by January 1962, following Kennedy's authorization of USAF Farmgate operations in October.
+
+&gt; On November 11 [1961], the NSC had authorized dispatch of "Aircraft, personnel and chemical defoliants to kill Viet Cong food crops and defoliate selected border and jungle areas," and by November 27 it was reported that "spraying equipment had been installed on Vietnamese H-34 helicopters, and is ready for use against food crops." US military personnel were increased from 841 to 5576 by June 30, 1962.
+
+&gt; * Sources: PP, II 360, 656-8, 677. Newman, JFK and Vietnam, 205-6. Crop destruction, Kahin, Intervention, 478.
+
+Further:
+
+&gt; The intent of Kennedy's 1961-1962 escalation was "to fight the insurgency by destroying its economic base and disrupting the social fabric of the areas where the Front was strongest" by a variety of means, later extended to "defoliation, air attack, and indiscriminate artillery bombardment of what later were to be called `free fire zones'" (Bergerud).
+
+&gt; * Sources: Hilsman, To Move a Nation, 444, 442. Operations against North, see below. Bergerud, Dynamics, 256, 70. For some details on the early stages of JFK's aggression and the "accidental" atrocities, along with a tortured effort to depict the President's initiatives as opposition to escalation, see Newman, JFK and Vietnam, 149ff., 159ff., 201ff.
+
+
+&gt; By 1962, Kennedy's war had far surpassed the French war at its peak in helicopters and aerial fire power. As for personnel, France had 20,000 nationals fighting in all of Indochina in 1949 (US force levels reached 16,700 under JFK), increasing to 57,000 at the peak.
+
+&gt; * Sources: FRS, 141.
+##
+I dunno about "mountains", but he was certainly not scaling it down. According to the Pentagon Papers, he was the first to break the Geneva Conventions (the treaty negotiated after the end of the French-Indochina War). 
+
+https://www.mtholyoke.edu/acad/intrel/pentagon2/pent1.htm
+ctrl+f "The only"
+##
+Besides the Space Program and the Cuban Missile Crisis, JFK was the President who began sending troops to Vietnam. At the time, they were only meant to be advisers. Later, Johnson would escalate the US's presence in Vietnam and impose the draft. It's unclear whether or not JFK would have escalated the Vietnam War like LBJ did, but Robert McNamara justified sending troops to Vietnam out of supposed loyalty to JFK's intentions in Vietnam (although McNamara later admitted that escalating the Vietnam War was a grave mistake)
