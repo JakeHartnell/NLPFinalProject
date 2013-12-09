@@ -11,7 +11,7 @@ import gdata.youtube
 import gdata.youtube.service
 
 redditComments = []
-output_dir = "/Users/dirkdewit/Documents/School/Master HTI/Internationaal Semester/Applied Natural Language Processing/Final Assignment/NLPFinalProject/"
+output_dir = "/Users/dirkdewit/Documents/School/Master HTI/Internationaal Semester/Applied Natural Language Processing/Final Assignment/NLPFinalProject/data/"
 
 def redditData(url):
 	r = requests.get(url)
