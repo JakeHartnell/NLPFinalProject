@@ -51,7 +51,7 @@ def update_good(good_comment):
     '''
     Given a known good comment, add the good_comment into the training db
     '''
-    with open("good.txt", "a") as myfile:
+    with open("data/good.txt", "a") as myfile:
         myfile.write("\n##\n")
         myfile.write(good_comment)
 
@@ -59,6 +59,6 @@ def update_bad(bad_comment):
     '''
     Given a known bad comment, add the ba_comment into the training db
     '''
-    with open("bad.txt", "a") as myfile:
+    with open("data/bad.txt", "a") as myfile:
         myfile.write("\n##\n")
         myfile.write(bad_comment)
