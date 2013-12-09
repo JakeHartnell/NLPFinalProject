@@ -55,8 +55,6 @@ def num_bad_word(comment,  blacklist):
         if word in blacklist:
             count += 1
 
-    if count > 1:
-        print count
     return count
 
 def num_one_char_words(comment):
