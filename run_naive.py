@@ -9,6 +9,7 @@ blacklist = nb.get_blacklist_data('data/blacklist_words')
 #bad_training_raw = nb.get_comment_data('bad.txt', 1)
 bad_training_raw = nb.grab_comment_data_dir_walk('data/', 'bad', 1)
 
+print "\nBeginning feature extraction"
 #get the features for the negative comment data
 bad_training_features = [(nb.get_features(comment, blacklist), val) for (comment, val) in bad_training_raw.items()]
 
@@ -19,6 +20,7 @@ good_training_raw = nb.grab_comment_data_dir_walk('data/', 'good', -1)
 #get the features for the positive comment data
 good_training_features = [(nb.get_features(comment, blacklist), val) for (comment, val) in good_training_raw.items()]
 
+print "feature extraction complete\n"
 #combine the features, and then shuffle/randomize
 combined_feature_sets = bad_training_features +  good_training_features
 random.shuffle(combined_feature_sets)
