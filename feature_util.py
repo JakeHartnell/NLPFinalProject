@@ -184,9 +184,21 @@ def consecutive_char(comment):
 
 def cont_line_breaks(comment):
     '''
-    
+    Given a comment, looks to see how many continuous line breaks there are.
     '''
-    pass
+    words = comment.split(" ")
+    highest_break = 0
+    current = 0
+    for word in words:
+        if "\n" in word and current != 0: #continuous
+            current += 1
+            highest_break = max(current, highest_break)
+        elif "\n" in  word and current == 0: #first one
+            current += 1
+            highest_break = max(current, highest_break)
+        elif "\n" not in  word and current != 0:
+            current = 0
+    return highest_break
 
 def detect_language(comment):
     '''
@@ -230,7 +242,7 @@ def get_features(comment):
 
     features['language'] = detect_language(comment)
     features['longestchain'] = consecutive_char(comment)
-    #features['cont_line_breaks'] = cont_line_breaks(comment)
+    features['cont_line_breaks'] = cont_line_breaks(comment)
     features['avg_sent_length'] = avg_sentence_length(comment)
     features['line_breaks'] = comment.count("\n")
     features['just_num'] = just_numeral(comment)
