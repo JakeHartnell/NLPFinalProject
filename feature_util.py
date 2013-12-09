@@ -36,7 +36,10 @@ def alpha_num_ratio(comment):
 def num_bad_word(comment):
     '''
     returns the number of bad words in the comment
+    #fix some more
     '''
+    blacklist = ["fuck", "shit", "fag"]
+
     comment = comment.lower()
 
     count = 0
@@ -208,7 +211,7 @@ def detect_language(comment):
     grammar. Ultimately, this would likely result in comments that are more valuable because of their structure.
     In addition, languages that are easily distinguished from English could be detected, thus being able to compare the
     language of a comment to the actual content that is annotated in Hypothes.is, since most users won't understand
-    comments in a different language anyway. 
+    comments in a different language anyway.
     '''
 
     # first we tokenize the comment
