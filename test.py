@@ -28,14 +28,16 @@ def redditData(url):
 		if 'body' in comment:
 			comment = comment['body']
 
-			redditComments.append("##")
-			redditComments.append(comment.encode('utf-8'))
+			if comment != "[deleted]":
+				redditComments.append("##")
+				redditComments.append(comment.encode('utf-8'))
 
 			replies = child['data']['replies']
 
 			if len(replies) > 0:
 				getReplies(replies)
 
+	print "Length: ", len(redditComments) / 2
 	comments = '\n'.join(redditComments)
 	writeToFile("good", comments)
 
@@ -47,8 +49,9 @@ def getReplies(replies):
 		if 'body' in comment:
 			comment = comment['body']
 
-			redditComments.append("##")
-			redditComments.append(comment.encode('utf-8'))
+			if comment != "[deleted]":
+				redditComments.append("##")
+				redditComments.append(comment.encode('utf-8'))
 
 			newReplies = reply['data']['replies']
 
@@ -130,7 +133,7 @@ def writeToFile(file, comments):
 	g.write(comments)
 	g.close()
 
-redditData(r'http://www.reddit.com/r/AskHistorians/comments/1sdmeu/how_did_a_majority_of_mexicans_come_to_speak/.json')
+redditData(r'http://www.reddit.com/r/AskHistorians/comments/1r2dcf/mentally_disabledimpaired_slaves_in_antebellum/.json')
 
 
 

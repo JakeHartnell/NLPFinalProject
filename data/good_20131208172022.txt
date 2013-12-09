@@ -1,0 +1,351 @@
+##
+Hi. As I am flaired in the subject, I figured I would chime in. Despite the upper comment having over 500 karma, it misses the deeply ideological justification of Napoleon's exile, and the subsequent implications that had on the development of both Europe and France in the 19th Century.
+
+Quite frankly, Napoleon was exiled because the execution of monarchs was taboo. Exile was the most common form of punishment for aristocrats since the Middle Ages, simply because it avoided the messy political problems of having to kill someone important. Galvanizing any resistance movement, creating a martyr, establishing a dangerous precedent, etc. However both of Napoleon's exiles mark a diversion from the surety with which this taboo was enforced. Improved technology and increased speeds of communication had begun to invalidate the distance, and thus security and effectiveness, provided through exile.
+
+In the case of Napoleon this is an especially important note because his exile is a tacit admission of his status and clout. However it is always a controversial topic because he technically *was not* a noble by birth or blood, and *could* have been killed like any other insurrectionary leader. However he *was* crowned emperor by the Pope. So it leads into understandably complex waters about his political status, and whether or not he meets the requisite protections of the ruling status-quo.
+
+In deciding his fate, the Congress of Vienna was very conscious of the implications that his legacy would have upon the development of France, so recently removed from their Revolutionary Spirit of the 1790's. They ultimately decided to try and avoid making Napoleon into a martyr, and exiled him. In doing so, however, the European nations essentially reaffirmed the values of meritocracy by which Napoleon rose to the title of Emperor when they treated him as an equal instead of as a low-born peasant. 
+
+As a result, Napoleon did not simply fade from memory with distance, but rather became enshrined in the glorious memory of the revolutionary era that remained a pervasive ideology in French Society until the start of the 20th century.
+##
+&gt; Quite frankly, because the execution of monarchs was taboo
+
+I'd just like a bit more detail here - in France, or in Europe as a whole?
+##
+Europe as a whole. The trail of Louis XVI was unprecedented, not to mention his actual execution. 
+
+It was the unspoken rule that the easiest way to deal with a foreign ruler in a time of occupation or overthrow was to simply exile them. Lack of communication would subsequently place that individual "out of sight and out of mind" as the old adage goes.
+
+However to make exiles more appealing, the individual was treated with delicacy and luxury. Henry VIII tried to exile one of his wives when he wanted to take another. Henry VII only killed Richard III because it was conquering on a field of battle. King James II was exiled to France during the Glorious Revolution of England. King Charles I was executed following the Civil War by an "unrecognized" constituent body of subjects. And so on and so fourth.
+##
+It wasn't, strictly speaking, unprecedented. Charles I of England, Scotland, and Ireland had been tried and executed by a revolutionary government more than a century before the French Revolution. That doesn't mean it was *acceptable*, but it had happened before. 
+##
+He was moreso King of England and Scotland. Ireland was thrown in there for good measure, but his hereditary birthright was England and Scotland. But never the less, he was tried and executed under *completely* different circumstances, and cannot be justified as a counterpoint.
+
+The English Civil War followed a period of Charles' reign in which he intentionally tried to limit, usurp, and circumvent, the power of Parliament with extrajudicial taxation and imprisonment. 
+
+A war was fought, and Charles legitimately lost. He was subsequently tried by the people who defeated him in accordance with the standing laws of England at the time, and executed for his violation of those laws. I have read the transcript of the trial. 
+
+The biggest differences from the French Revolution and the exile of Napoleon was that this was after a bloody Civil War was fought over the rights of the Monarchy, making the actual rights of the King the direct subject of the conflict, and thus the punishments by the subjects all the more harsh. He was also executed by his own subjects, as opposed to another conquering Monarch, and in a technically "legal" manner. 
+
+As he was not facing another head of state, (Cromwell was an Englishman), he was not afforded the opportunity to exile. 
+##
+I don't claim to be an expert on the English Civil War, but I think you're painting a bit too much of a rosy picture. The idea that a monarch could be tried at all was pretty much a legal novelty; Charles repeatedly refused to issue a plea on the basis that the court had no legal authority to try him. And really, it didn't; the rump House of Commons unilaterally decided that it could, without the consent of the Lords or the Royal assent, create its own court. Beyond that, you can believe that the various courts of Europe were none too pleased at the idea of the execution of a monarch to form a republican government. 
+##
+But nevertheless you solidified my point; Execution of any sitting monarch ruffled quite a few feathers, and challenged the status quo - which is my main argument.
+
+Relating specifically to the precedent of killing any King, The death of Charles I *was* significantly different from that of Louis XVI in several key ways. Charles went kicking and screaming to trial, where as Louis had recognized the body that was presiding over him. Charles lost a war, Louis did not. Charles was tried in accordance to existing English laws, Louis was tried in accordance with new laws written in 1789 that he had already approved, and so on and so fourth. The English Civil War was a series of battles on the field, where as the French Revolution was an ideological renegotiation of the relationship between subject and King. The English had a pre-established parliamentary system, France did not. The list goes on...
+
+So my statement about what is really "unprecedented" about either Charles I's, or Louis XVI's, death is the means through which it was pursued, and with what amount of public support, and for what overall justification. Although if your point is simply "people killed another monarch before after a trial" then you are entirely correct. I am arguing a more nuanced ideological and political level to state that the two conflicts are, in fact, not congruous, and each was unprecedented in its own way.
+##
+This is not exactly right on many counts.  It exhibits a very strong, very common, Parliamentarian bias/post hoc hermeneutic.  Many people generally knowledgeable about European history, but not plugged into the scholarship relating to the ECW, fall into this trap-- don't feel bad.
+
+&gt;followed a period of Charles' reign in which he intentionally tried to limit, usurp, and circumvent, the power of Parliament with extrajudicial taxation and imprisonment
+
+Charles I was acting far more in line with law than the House of Commons was-- the widespread and prevailing English jurisprudence of the 1630s and 40s puts is such that he is always acting within his legal authority (if not necessarily wisely).  If you want a book on this rather than a paragraph I strongly recommend this [awesome monograph](http://www.worldcat.org/title/absolute-monarchy-and-the-stuart-constitution/oclc/33104396&amp;referer=brief_results)  Nothing Charles I did was extralegal or illegal, his controversial actions always entailed creative or new interpretations of existing law and powers.
+
+&gt;He was subsequently tried by the people who defeated him in accordance with the standing laws of England at the time
+
+[At his trial Charles I stated: "The Commons of England was never a court of judicature, I would know how it came to be so."](http://www.royal.gov.uk/pdf/charlesi.pdf)  I don't know what your memory of that transcript is but the High Court of Justice was in **absolutely no way** a typical legal proceeding.  Prior to the execution of Thomas Wentworth the House of Commons had never had a judicial function, and in the High Court was operating independently of and against the House of Lords (you know that other essential piece of Parliament.)  Charles I was not ever permitted to speak before the House of Lords, which he demanded to do, because that's where his support was.  Besides, the Commons that tried Charles I was the remainder left after Pride's Purge, a literal military coup.  England in 1649 was under a revolutionary military government, and it was a revolutionary military government (with no legal legitimacy) that tried and killed Charles I.
+
+&gt;fought over the rights of the Monarchy, making the actual rights of the King the direct subject of the conflict
+
+Not exactly, it evolves-- remember that for the whole first civil war the Parliament is fighting *in the King's name*, maintaining the pretense that he has been controlled by wicked cavalier advisers.  
+
+Edit: Some more passages of the King's defense relevant to my points:
+
+&gt; I do not come here as
+submitting to the Court. I will stand
+as much for the privilege of the H
+ouse of Commons, rightly understood, as
+any man here whatsoever: I see no House
+of Lords here, that may constitute
+a Parliament ... Let me see a legal aut
+hority warranted by the Word of God,
+the Scriptures, or warranted by the
+constitutions of the Kingdom, and I will
+answer. 
+
+&gt;For me to acknowl
+edge a new Court that
+I never heard of
+before, I that am your King, that
+should be an example to all the people of
+England, for to uphold justice, to main
+tain the old laws, indeed I do not know
+how to do it. 
+##
+I definitely secede the point to a flaired British Historian. But much of this I actually did know, but couldn't clearly articulate in attempting to make my broader point. Thanks for the contribution, and for clearing up some fuzzyness, my cross-channel friend.
+##
+Context: Charles I was a king killed by his people. Louis was a king executed by his own people. If Napoleon had been executed by Great Britain or any other Allied forces, the French would have been very unaccomadating. Please bear in mind the Grande Armee had yet to be disbanded and was sitting inactive and angry right outside Paris. Almost every trooper and soldier within the army was a Bonapartist to one degree or another. Executing him would have been a disaster.
+##
+I'm only objecting to the first paragraph of LordSariel's comment, "Europe as a whole. The trail of Louis XVI was unprecedented, not to mention his actual execution." Charles I was tried and executed before Louis XVI. 
+
+Edit: Basically, I'm quibbling. 
+##
+Ha! Reprieve is granted!
+##
+As a sixth form history student studying the 'Long Sixteenth Century' of the Tudor Dynasty, could you elaborate on the bit about Henry VIII trying to exile one of his wives? This is a story I have not heard before.
+##
+He initially wanted Catherine of Aragon to voluntarily back out of the marriage, and retire quietly to a house in the countryside of England. A political exile in which she would willingly give up the title Queen. She never consented.
+##
+I've heard that before, but instead of a house it was a nunnery. Still it doesn't sound like political exile and definitely not akin to that of Napoleon where with an island off the cost of present day Italy or those mid Atlantic islands. Catherine of Aragon got to stay in her own country and be reasonably free so long as she didn't engage in high politics which was pretty unthinkable of women at that time anyway (until Mary I).
+
+Anyway, what was it about this which would have made it exile? 
+##
+I have always thought that the taboo was mostly because nobles  preferred different rules for themselves.  If you kill a monarch, you might be killed yourself someday.  If everybody treats their equals well when captured, war is not as frightening. It could be seen more like game of power between businessmen of today.
+
+I could imagine that having upper class with taboo against killing them when captured makes war more fun, for the upper class.
+##
+He was also the son in law of the Austrian emperor, who of course would have never let the execution happen.
+##
+&gt; establishing a dangerous precedent
+
+I think this is the main reason.
+##
+In dealing with anything monarchical and transnational, there is no singular answer. But the consciousness of precedent was indeed a major contributing factor, especially with the amount of royal turnover that there had been in the later half of the 18th and 19th century among certain dynasties in Europe. 
+
+Rulers very often made short-sighted polices when it came to extending their lineage, heritage, honor, and strength. 
+##
+Wasn't violating his 1st exile enough grounds to execute him the second time around? Why try exile again?
+##
+Well, it was a very significant downgrade. The first time, they put him in charge of ruling Elba, an island of 12,000 people. He was not in jail: he was allowed to be "emperor" on that island.
+
+The second time, it was imprisonment on St. Helena, an island literally in the middle of nowhere.
+##
+It was primarily to avoid martyrdom, but the heads of the Great Powers and the leaders at the Congress of Vienna did not want to make an example of execution of heads of state. The most recent executions of a head of state were Louis XVI and Marie Antoinette and the last thing the Concert of Europe wanted was another French Revolution. As can be shown by the battle of Waterloo, Napoleon still had many allies and supporters in France and his death may have incited a rebellion. 
+
+The Concert of Europe and the Congress of Vienna wanted a stable, compliant France which is why they reinstated the Bourbon dynasty though a nephew (or some other relation). Napoleon's power and influence did not dissipate with his exile though. A few decades down the line, his **nephew**, Napoleon III ascended the throne. The Concert and the Congress had immense respect for Napoleon--they just didn't want him in power.
+
+I'm just finishing up a course on the history of modern European Diplomacy and this was actually a question I asked in class.
+
+Edit: Changed "grandson" to "nephew". My apologies for the mistake.
+##
+Small correction: Napoleon III was the nephew of Napoleon Buonaparte, not the grandson.
+##
+And the reinstated king was a brother of Louis XVI., not the nephew.
+##
+&gt;It was primarily to avoid martyrdom
+
+Do you really think it was *primarily* to avoid martyrdom? 
+
+I'd argue execution wasn't even on the agenda. 
+
+Firstly we have to consider that he did not technically surrender, but  claimed political asylum in Britain, rather than taking his chances with the Prussians, the Austrians, or the Russians. 
+
+Napoleon did this on purpose - Britain was not an autocratic state like the rest of Napoleon's foes, and could not be executed at the whim of a monarch. No, in Britain, Napoleon would have faced a trial by jury, which would have been a complicated affair to say the least, considering there were several outspoken figures in Britain arguing that even imprisonment was too harsh a punishment for Napoleon.
+
+Secondly, throughout history regicide has been considered, well, bad form. As well as asking *why was Napoleon not executed* on the grounds that he was in custody of the forces that had defeated him, we may as well ask *Why did Saladin not execute Guy de Lusignan at Hattin in 1187? Why did Sultan Beyazid I not execute Sigismund III of Hungary in 1396? Why did Bismarck not execute Napoleon III at Sedan in 1870? Why did Edward III not execute John II after Poitiers? Why was Francis I not executed after Pavia in 1525?*. Executing Napoleon would have been an international scandal. Given the uproar that followed Napoleon's [abduction and execution of the duc d'Enghien](http://en.wikipedia.org/wiki/Louis_Antoine,_Duke_of_Enghien) imagine the furore that might have occurred had the Emperor of France shared a similar fate.
+
+No, I don't think execution was ever a realistic possibility. The Congress of Vienna wanted him out of the way, but could never have hoped to get away with outright execution.
+ 
+##
+The Concert of Europe and the Congress of Vienna, both of which contained Great Britain did not want to provide fuel or a rallying cry for another French Revolution. 
+##
+I agree.
+
+We're only disagreeing on a small aspect, which is to *what extent* the fear of fueling French unrest contributed to the decision to not execute Napoleon. 
+
+I don't think Napoleon was ever at risk of execution once he'd surrendered to the British, period, irregardless of what execution may or may not mean for Europe's stability.
+##
+I believe you are correct. And this would seem to be one of those things that could make up someone's painfully specific doctoral thesis.
+##
+&gt; irregardless 
+
+*cough* sorry, couldn't help myself
+
+##
+&gt; considering there were several outspoken figures in Britain arguing that even imprisonment was too harsh a punishment for Napoleon.
+
+Interesting, why? They didn't want France to be too severely weakened after already being beaten? Or just plain admiration?
+##
+After the Treaty of Utrecht (1713), which ended the War of Spanish Succession, there was a prevailing thought on how to "achieve peace" in Europe was through balance of power on the Continent. Meaning that no one country would be allowed to hold sway over the other nations.
+##
+Who or what were his allies in Waterloo, or was it just france versus the rest of europe?
+##
+Some of his remaining commanders, generals and troops followed him into Waterloo after the war had been lost. It was a group mostly comprised of French patriots that did not want to submit to the demands and sanctions of the rest of Europe. A good portion of France, the peasants and aristocrats mainly, wanted an end to the war and did not support Napoleon in his last push for retaining power.
+
+The Napoleonic wars were France vs Europe, but the battle of Waterloo was Napoleon vs Europe, if that makes any sense.
+##
+&gt; The Napoleonic wars were France vs Europe...
+
+Actually, it was a bit more complicated than that. The period of the Napoleonic Wars saw a shifting series of alliances against Bonaparte's regime, but Napoleon also sought alliances to shore up his rule and provide additional troops and resources. For example, in 1806 he formed the [Confederation of the Rhine: -&gt;](http://en.wikipedia.org/wiki/Confederation_of_the_Rhine), which consisted of an alliance between France and a number of former German principalities from the Holy Roman Empire.
+
+At its peak, this alliance included something like 15 million subjects throughout what is today Germany. Napoleon drew upon this pool for soldiers who served in his disastrous Russian campaign. 
+
+In addition to his Germany allies, France was also allied for a while with Danmark. Following the battle of Trafalgar, the British were worried that Napoleon would get his hands on ships from the not-insubstantial Danish navy so in September 1807, [a Britain fleet attacked Copenhagen: -&gt; ](http://en.wikipedia.org/wiki/Battle_of_Copenhagen_%281807%29)  to force Danmark to surrender their fleet. This attack forced Denmark to join the war on the side of France. Peace between Britain and Danmark didn't come about until [the Treaty of Kiel:-&gt;  ](http://en.wikipedia.org/wiki/Treaty_of_Kiel) in 1814.
+
+As a side note, for a rare view of what it was like to serve as a ally of Napoleon during the Russian campaign, check out [Diary of a Napoleonic Foot Soldier:-&gt;  ](http://www.goodreads.com/book/show/854161.The_Diary_of_a_Napoleonic_Foot_Soldier). I found this to be a gem of a book, written by a German enlisted man who made it all the way to Moscow and back. I found it fascinating as a view into this period from an enlisted man's perspective, with details on logistics and day-to-day life as the disaster unfolded.
+
+It includes lots of (to me) interesting details on the logistical issues of feeding an army at a time when you only had what you could carry with you on a long campaign.
+
+Starting out the advancing army actually paid peasants for food as they moved along. This led to a simple but inevitable truth - once you started out, you had to keep moving as you would quickly absorb all the available resources within a couple of days march. Reading between the lines, part of the reason for the eventual disaster for the French and her allies was the simple fact that on the way back out, a lack of resources and the effects of the brutal Russian winter prevented the ready resupply of the retreating troops. All in all, a highly recommended resource for students of this era.
+
+##
+This is a fair point. I was summarizing rather heavily for the sake of brevity.
+##
+No, it was still France VS Europe, because the alliance was forced on the german people living in state artifically created by Napoleon after he won the battle of Austerlitz : la confédération du Rhin. Napoleon didn't make an alliance with those state and AFTER went to war, he did beat the shit out of them BEFORE and made them client states AFTER.
+
+Prussia or Britain didn't have to win against Russia or Austria to make an alliance with them.
+##
+Sadly, A lot of alliances have been forced upon a lot of people throughout history, I doubt the average German (or Russian or Frenchman) had much to say about who they partnered with throughout history and certainly not during this period. If you ruled out alliances imposed on nations by force, it would suggest that the U.S. wasn't allied with South Vietnam after President Diem was deposed under the auspices of the U.S. government in 1963.
+
+Of course, it might be fair to say that the forces allied against Napoleon were a more stable lot than those allied with him, but that's probably because they were the forces of conservatism who tended to favor the status quo. 
+##
+Yes it did, thanks!
+##
+Is it true that Waterloo was also much bloodier than most battles before? I lived near Waterloo as a wee boy, and always had the impression that that is how they presented it. For example they had paintings of piles of bodies stacked high around a barn, the result of extremely fierce fighting.
+
+I know this is a weird question, but basically: Was Waterloo a grander battle than preceeding battles?
+##
+The Battle of Leipzig was the biggest of Napoleon's battles, with about half a million combatants to Waterloo's around 200,000, and there were a couple other battles that exceeded the numbers at Waterloo. It also wasn't especially bloody in terms of percentage of casaulties sustained. The farm I think you're talking about is Hugemont, and there was intense fighting there as a result of it being occupied by the British in front of their lines to serve as a sort of bastion. Waterloo is mostly remembered because it was a decisive victory that eliminated the possibility of Napoleon coming to power again, and also because two of the greatest generals of the time, the Duke of Wellington and Napoleon himself, finally met on the field of battle.
+##
+The Duke of Wellington is only that important for english people, he in no way was or is held even remotelly close to the level of Napoleon. I don't say he was bad, he was good, very good, and he has an important role in Napoleon's defeat, but he just didn't play in the same category than Napoleon.
+
+The role of the different members in the alliances against Napoleon still is very controversial today : if you ask german, russian or austrian, they'll tell you that THEY did the most important part in beating Napoleon.
+
+
+##
+Hi. Resident Flaired French Historian here.
+
+Your response is almost entirely correct, yet you're missing out on one key fact: Execution of monarchs was taboo. Exile was the most common form of punishment for aristocrats because it avoided the messy political problems of having to kill someone important. 
+
+In the case of Napoleon this is an especially important conversation because his exile is a tacit admission of his status and clout. However it is always a hot-button topic because he technically *was not* a noble by birth or blood, and *could* have been killed like any other insurrectionary leader. However he *was* crowned emperor by the Pope. So it leads into understandably complex waters about his political status, and whether or not he meets the requisite protections of the ruling status-quo.
+##
+A followup question, one you may be able to answer:  Regardless of his clout, would he have been immune from such reprisals as a captured enemy commander (a general or marshal)?  I don't think executing enemy generals was commonplace, either.  If that was operative, regardless of how European publics might have perceived the matter, it also would not have been an option.  Even if his imperial pretensions were illegitimate in the eyes of his enemies, he was undoubtedly an enemy commander in the field.  I'm not sure what criteria were involved in deciding to execute enemy generals (as opposed to those who fall in battle), or if any actually ever were--but I can't think of any.
+##
+At this time, many of the officers in European armies were members of the aristocracy, so generally speaking they were not executed.
+##
+Corrections:
+
+&gt;which is why they reinstated the Bourbon dynasty though a nephew
+
+Louis XVIII was Louis XVI's brother.
+
+&gt;Napoleon III ascended the throne.
+
+It would be more accurate to say that he recreated the throne. He was initially elected president.
+##
+Fair point. As I've said elsewhere, royal lineages and lines of succession aren't my thing. I couldn't name more than about half of the US presidents if you put a gun to my head...and the list I'd give you wouldn't be in order. I do macro history, not names and dates.
+##
+It was also necessary, at least in part, to *get* him to surrender.  Just as Albatross says, he still had many allies and could've hung on for quite a while if he hadn't been promised his life.
+##
+This comment contains some problematic assertions and mistakes. I'm not removing it as they have been corrected downthread, but this really should not have been featured in /r/BestOf, as it is not an example of the best this sub has to offer.
+##
+A fair response. I answered to the best of my ability as no one else had answered the question, but this isn't really my field. Feel free to correct or delete my comments as you see fit.
+##
+I think its good to note that Napoleon actually came *back* from his first place of exile (he was on an island in the Medittaranean, he literally just rowed back) and the many of the Frenc, who had been under Bourbon rule for a little while now, rejoined in what was known as the 'hundred days'. During this he was very succesful - Louis XVIII fled to Belgium, and it was then that the battle of Waterloo happened, after which he was exiled to somewhere a little more remote.
+##
+I always wondered why was he deposed at all. As 100 days later showed, French still loved him. And deposing a ruler as a term of surrender isn't exactly a common thing.
+##
+He was deposed because they feared him. Treaties are pieces of paper, backed with force of arms. If they'd allowed him to remain in power in France, the other powers of Europe suspected Napoleon would just rebuild France's military might and break whatever treaties were forced upon him when convenient.
+##
+They deposed him because they liked not being conquered. Napoleon was an excellent leader and had he not made the mistake of attacking Russia in Winter, most of Europe would probably still be speaking French today. The other powers of Europe didn't want that kind of opposition to their rule, so they deposed him since the French people sure as hell weren't going to do it for them.
+##
+&gt; Then don't post here. This sub is for people who do know things.
+
+Politeness is mandatory in this subreddit. 
+##
+&gt;reinstated the Bourbon dynasty though a nephew (or some other relation).
+
+*brother of Louis XVI
+##
+Thank you. I've never been good with royal lineages.
+##
+I've always learned that, since he was in the custody of the British, he had to be given a trial to be executed, but he wasn't guilty of any crimes for him to be executed. Is there any validity to this?
+##
+I'd like to piggyback onto this question and ask about the return from his first exile - 
+
+1) How did he get back?
+
+2) How did he amass support again that fast?
+
+##
+Napoleon's exile was not what you think it was. He was still the crowned emperor of France and ran Elba while he was there. Supporters of Napoleon in Paris wrote him; begging him to return to the throne. He boarded a ship and returned to Paris with a force of 1,500. Napoleon passed popular legislations to keep the people content with his return.
+##
+I thought they made him the Emperor of Elba rather than France
+##
+Nope, he actually had no real power in Elba. He basically gave an address to the people of Elba that (paraphrased) said, "I gave up my throne in France but during my sojourn here (he literally said "sojourn") I will invest my time into your government."
+
+Edit: Napoleon was given power over Elba by the Treaty of Fontainebleau, thanks /u/eggwall.
+##
+Under the treaty of fontainbleau, Napoleon ruled the island of Elba as an independant state. He was also permitted to retain the title of Emperor, while his wife was given the duchy of Parma, Piacenza and Guastalla. Thus he would be the Emperor of Elba. 
+
+As for the address, It is usually taken to mean that he would control the government of Elba while waiting for a chance to move back onto the continent. He did have real power, starting a small navy and attempting to modernize their mining and agraculture.
+##
+Where in the treaty does it say that he was crowed emperor of Elba? As I recall Elba was giving its independence and could not be culturally assimilated by anyone else except France. Napoleon was set to rule over Elba; did that include the title of emperor? I really don't remember.
+##
+Sorry this took so long, but it's articles II and III of the treaty of fontainbleau 1814.
+
+A translation of the text can be found [here.](http://en.wikisource.org/wiki/Treaty_of_Fontainebleau_%281814%29)
+I know it's wikipedia, but as it is simply a translation i assume it is acceptable.
+##
+Ah right, thanks for clearing that up for me!
+##
+hi.. this question has come up frequently; see here for previous responses
+
+[Why did the coalition exile Napoleon, and not put him on trial or kill him?](http://www.reddit.com/r/AskHistorians/comments/uc0uu/why_did_the_coalition_exile_napoleon_and_not_put/)
+
+[Why was Napoleon Bonaparte exiled twice instead of executed? Also, how was he generally viewed within France and other countries around Europe?](http://www.reddit.com/r/AskHistorians/comments/un6z4/why_was_napoleon_bonaparte_exiled_twice_instead/)
+
+[Why was Napoleon exiled and not executed?](http://www.reddit.com/r/AskHistorians/comments/17a5fd/why_was_napoleon_exiled_and_not_executed/)
+
+[Why was Napoleon never executed?](http://www.reddit.com/r/AskHistorians/comments/1klp5e/why_was_napoleon_never_executed/)
+
+[Why did they choose to exile Napoleon to St. Helena instead of executing him?](http://www.reddit.com/r/AskHistorians/comments/12n9ob/why_did_they_choose_to_exile_napoleon_to_st/)
+
+[Why didn't the british just execute Napoleon?](http://www.reddit.com/r/AskHistorians/comments/yuj6s/why_didnt_the_british_just_execute_napoleon/)
+##
+Can anyone recommend a good biography to get started with Napoleon and his campaigns?  Thanks
+##
+I enjoyed the biography by 'Napoleon Bonaparte' by Alan Schom, but I don't hear that one recommended by many in academic circles.  I'm not sure why, but there could be good reasons not clear to me as someone who reads history as a hobby.  Either case, the writing was very accessible and enjoyable, so I give it my recommendation.
+
+One that I enjoyed that seems to get near universal praise is the pair of books by Robert Asprey, 'The Rise of Napoleon Bonaparte' and 'The Reign of Napoleon Bonaparte'.  Those were well-referenced and well-written.
+##
+Ok, woah. Do not compare Genghis to Hitler; my flair demands me to speak up. Also Napoleon was see as a criminal of sorts. He was seen as a usurper when he took the crown from the pope and placed it on his own head. FYI Beethoven's Eroica (Italian for Heroic) was originally called Napoleon but he changed the name because he was outraged with the above.
+##
+I imagine he was merely aware of history. The first Holy Roman Emperor got tricked into allowing the pope to crown him, and the Empire spent centuries afterward mired in feuds with the papacy over wether the Emperor title wad something they possessed in their own right, or something to be granted our not be granted at the Pope's will. Napoleon simply wanted to ensure that the Popes wouldn't come back and try to meddle in the affairs of his nation years afterward, he was trying to avoid the mistake of Charlemagne.
+##
+How did OP compare the two? The post was evidently fairly popular, which obviously doesn't mean it was accurate, but it would at least be worth understanding the point you've disputed.
+##
+That Napoleon was obtusely put into the same context as people like Hitler and Genghis Khan. Also that Napoleon was not a criminal, or something along those lines.
+##
+I'm something of a Mongol aficionado myself, and I think that while their goals and viewpoints were different, the comparison is fair when we talk of death toll and destruction. If anything, Genghis Khan was a vastly more destructive killer than Hitler, but the latter is hated more for the racist component of his evils and the former "forgiven" as it were due to his remoteness in time and lower standards applied - ie. we expect a barbarian horselord from the 13th century to be deadly, but a man who some people still remember knowing? He is held to a higher standard. 
+
+But please, I'm open to having my mind changed!
+
+Edit: I see you already have commented further down.
+##
+Yep I did, the Mongols were more destructive but I think when it comes to placing them alongside WWII Germany the similarities end quite quickly.
+##
+You don't offer any explanation as to why not compare them. Their motives may have been different and Hitler may have committed genocide on an industrial scale, but the Mongols sacked cities and killed their populations wholesale. Unless you can justify the Mongols murder of millions, I think the comparison still stands.
+##
+The motives are basically the main reason though; without going into detail Hitler was an inevitable result of the harshness of the Treaty of Versailles who used those of Jewish descent as a scapegoat used to rise to power. While the nomads of the steppes, even before Genghis, did not place as much value on life as others. Especially before the time of Genghis it was often fight or die. In their views the Mongols saw the eradication of populations as an easier way to conquer; not because there would be less people alive to fight but because it would demoralize other cities from fighting "saving" (I use quotes because the Mongols did not care whether or not it came to sacking) other cities from suffering the same fate. Hitler's rise to power was inevitable but the genocide was not. Genghis' rise to power was accidental (in a way) but sacking was inevitable.
+
+Edit: to the Mongols it was more like saving time than anything.
+##
+"Hitler's rise to power was inevitable." No it really wasn't. Without an extraordinary set of occurences (his being given a small sentence following the munich putsch due to the Bavarian/Prussian political split within which context it occured), most importantly the great depression before which the Nazis had 2.5% of the vote in 1928 and after which the Nazis had 37% of the vote and it also was the main catalyst behind the 2000% increase in the size of the SA between 1928-1933 and that the chancellors overall being extremely useless political opponents (eg: Bruning the "hunger chancellor") or were more interested in fighting each other (Schleicher and Papen's intrigues that led to a higher position for Hitler such as Papen convincing Hindenburg to appoint Hitler as chancellor.)
+
+Additionally without a lot of the Nazi party tactics, such as their speaker school, their local-level centered political aims, their approachment to the farmers who ended up voting for nazis partially out of spite of the mainstream parties ("the Farmers' Revenge")the anti-communist phobic appeals that drew in a lot of support from more moderate people fearing the rise of the KPD during the Great Depression, the SA providing food and charity, etc without all these tactics I doubt the Nazis could have developed such election success as they did end up getting by 1933. 
+
+Considering Hitler's rise to power it is absolute and utterly impossible to conceive his becoming the leader of Germany without even just the Great Depression alone. The popularity of anti-semitism and anti-versaillism only gave the nazis barely 2% of the vote throughout the 1920s (even after they were disbanded following the Putsch and then rebuilt by Hitler as the Nazi party we know of under the Fuhrerprinzip) it wasn't until the Great Depression that everything got turned upside down and the Nazis themselves actually saw it correctly as an opportunity and relentlessly pursued it from there on. 
+##
+Sorry, I didn't mean Hitler in particular. I meant a leader like him. Which you've given evidence for: The Farmers' Revenge.
+
+Edit: People like John Maynard Keynes predicted political instability in Germany after the end of WWI.
+##
+Pedantic note: the farmer's revenge was because before the GD they made up 1 million out of 1.4 million unemployed Germans and saw themselves as marginalised by mainstream political parties. The Nazis only gained their support instead of say communists because the Nazis were the only radical anti-establishment party that had the political willingness and the methods necessary to earn the vote of the farmers in the farmers revenge.
+
+
+Furthermore Germany did have political instability after WW1; various left-wing and right-wing attempted coups and strikes occured during th hyperinflation era 1918-1924. But even when the freikorps existed, even when the Germans felt the worst about Versailles, even then right-wing coups did not succeed nor have major political backing http://en.wikipedia.org/wiki/Kapp-Luttwitz_Putsch and the Munich Putsch. 
+
+Hitler and the nazis earned their success, they were smart political operators who took on the opportunities as they appeared. A dictatorial leader, be it left-wing or right-wing was not a sure thing to happen in Weimar Germany. During the Golden years/years without economic trouble in 1924-1929 the Weimar democracy seemed as stable as any democracy today; the extreme right-wing and left-wing were marginalised and butted out by centrist left/right-wing parties such as the SPD and Z-party. Nobody in those years could have predicted Hitler's rise to power because people thought that since the Weimar survived 1918-1924 they could continue surviving. 
+
+However as I said before, once the Great Depression hits everything changes. Without the Great Depression it would have taken many many years until Weimar democracy was deposed, the Versailles treaty is not nearly as much of an influence on the destruction of the Weimar republic as many people think. in fact in terms of reasons for voting for the nazis, some historical polls I remember reading ( I really don't remember the source anymore I've read tons of books on this since ~_~ ) had anti-versailles foreign policy as one of the smallest reasons that people had to vote for the Nazis during the Great Depression. Fear of left-wing, economic concerns, Hitler (cult of personality,) etc were all chosen by voters above Hitler's aims to overturn the Versailles treaty. 
+##
+To put a parallel, in 1936, France elected a socialist government, led by Léon Blum. When Blum was interned in Auschwitz, he was given a house in the middle of the concentration camp and he lived there with his family. The house was furnished with a grand piano, and the nazis even supplied them with a steward, even though there was not much to eat…
+##
+Green Albatross is correct. Also, there was a sense of mutual respect for high-ranking enemies that seems odd to us now. In a sense, no matter what they did, high-ranking enemies were exempt from the same punishment that low-level people suffered from.
+
+For example, there was a German general from WWI who fell into poverty after the war. Out of respect, the British and French generals who faced off against him provided a monthly stipend so that he could live.
