@@ -46,7 +46,7 @@ def classify_with_NB(comment):
     #@returns -1 if comment is fine.
     comment_feature = (nb.get_features(comment, blacklist))
     return classifier.classify(comment_feature)
-    
+
 def update_good(good_comment):
     '''
     Given a known good comment, add the good_comment into the training db
