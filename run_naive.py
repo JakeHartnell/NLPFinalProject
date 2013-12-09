@@ -2,17 +2,21 @@ import feature_util as nb #used to be native_bayes, which is why it is nb
 import nltk
 import random
 
+#Grab the black list word data
+blacklist = nb.get_blacklist_data('blacklist_words')
+print blacklist
+
 #get negative comment data as hash, assign val = 1 in hash
 bad_training_raw = nb.get_comment_data('bad.txt', 1)
 
 #get the features for the negative comment data
-bad_training_features = [(nb.get_features(comment), val) for (comment, val) in bad_training_raw.items()]
+bad_training_features = [(nb.get_features(comment, blacklist), val) for (comment, val) in bad_training_raw.items()]
 
 #get positibe comment data as hash, assign val = -1 in hash
 good_training_raw = nb.get_comment_data('good.txt', -1)
 
 #get the features for the positive comment data
-good_training_features = [(nb.get_features(comment), val) for (comment, val) in good_training_raw.items()]
+good_training_features = [(nb.get_features(comment, blacklist), val) for (comment, val) in good_training_raw.items()]
 
 #combine the features, and then shuffle/randomize
 combined_feature_sets = bad_training_features +  good_training_features
@@ -38,7 +42,7 @@ def classify_with_NB(comment):
     #Given a string of comment
     #@return 1 if comment needs to be flagged
     #@returns -1 if comment is fine.
-    comment_feature = (nb.get_features(comment))
+    comment_feature = (nb.get_features(comment, blacklist))
     return classifier.classify(comment_feature)
     
 def update_good(good_comment):

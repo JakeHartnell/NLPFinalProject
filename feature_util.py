@@ -6,6 +6,14 @@ import re
 from nltk import wordpunct_tokenize
 from nltk.corpus import stopwords
 
+def get_blacklist_data(file_path):
+    blacklist = []
+    with open(file_path) as fp:
+        for line in fp:
+            blacklist.append(line.strip())
+    return blacklist
+
+
 def get_comment_data(file_path, val):
     '''
     Given a relative path of the comment file, return a hash where the keys are thc comments and the val will be the given val.
@@ -31,24 +39,24 @@ def alpha_num_ratio(comment):
     if total == 0.0:
         return 0
     alpha_num = sum([1 for word in comment if word.isalnum()])
-    return alpha_num/total
+    return int(alpha_num/total)
 
-def num_bad_word(comment):
+def num_bad_word(comment,  blacklist):
     '''
     returns the number of bad words in the comment
-    #fix some more
+    blacklist is the list of words we counsider foul
     '''
-    blacklist = ["fuck", "shit", "fag"]
 
     comment = comment.lower()
-
+    words = comment.split(" ")
     count = 0
-    if 'asshole' in comment:
-        count += 1
-    if 'gay' in comment:
-        count += 1
-    if 'fuck' in comment:
-        count += 1
+
+    for word in words:
+        if word in blacklist:
+            count += 1
+
+    if count > 1:
+        print count
     return count
 
 def num_one_char_words(comment):
@@ -107,7 +115,7 @@ def white_space_ratio(comment):
     if len(comment) == 0:
         return 0
     white_space_count = float(comment.count(" "))
-    return white_space_count/len(comment)
+    return int(white_space_count/len(comment))
 
 def is_number(s):
     '''
@@ -140,7 +148,6 @@ def just_punctuation(comment):
     words = comment.split(" ")
 
     for c in words:
-
         for char in c:
             if char not in string.punctuation:
                 return False
@@ -234,14 +241,12 @@ def detect_language(comment):
 
     return most_rated_language
 
-def get_features(comment):
+def get_features(comment, blacklist):
     '''
     given a comment, returns the features associated with the comment.
+    blacklist represents a list of words we count is foul
     '''
     features = {}
-
-    #continuoys line breaks #me
-    #slang / foreign language
 
     features['language'] = detect_language(comment)
     features['longestchain'] = consecutive_char(comment)
@@ -256,7 +261,7 @@ def get_features(comment):
     features['*'] = comment.count("*")
     features['CAPS'] = comment.isupper()
     features['.com'] = '.com' in comment
-    features['badword'] = num_bad_word(comment)
+    features['badword'] = num_bad_word(comment, blacklist)
     features['len'] = len(comment)
     features['2charchain'] = num_two_char_rep(comment)
 
