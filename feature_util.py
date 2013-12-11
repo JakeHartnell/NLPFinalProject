@@ -265,6 +265,9 @@ def get_features(comment, blacklist):
     given a comment, returns the features associated with the comment.
     blacklist represents a list of words we count is foul
     '''
+
+    #Look at bigrams, if we get a chance.
+
     features = {}
 
     features['language'] = detect_language(comment)
