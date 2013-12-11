@@ -81,16 +81,13 @@ def youtubeData():
 
 def youtubeDataAPI(key, tag):
 	yt_service = gdata.youtube.service.YouTubeService()
-	#yt_service.ClientLogin('dirkdewit24@gmail.com', 'tr3kh44k')
 
 	# Turn on HTTPS/SSL access.
 	yt_service.ssl = True
-	#yt_service.developer_key = 'AI39si6Y5zte7GQ73NJwVEuwtUVV2KgwfIOlSiRm1AdkE_2eJqo5vNZuYTTS-_g-NGKly4T8pO-LEgLuTZ3bswHfaaMGAJm0pw'
 	yt_service.developer_key = 'AIzaSyBdrBfWQJS4mptTMedD82Xy88LI13t_s7s'
 	yt_service.client_id = 'NLTP'
 
 	getAndPrintVideoCommentFeed(yt_service, key, tag)
-	#getAndPrintVideoCommentFeed(yt_service, "vqQghwDtqTQ", "good")
 
 def getAndPrintVideoCommentFeed(yt_service, video_id, tag):
 	feed = yt_service.GetYouTubeVideoCommentFeed(video_id=video_id)
@@ -133,7 +130,7 @@ def writeToFile(file, comments):
 	g.write(comments)
 	g.close()
 
-redditData(r'http://www.reddit.com/r/AskHistorians/comments/1sj0ld/for_what_reasons_did_the_ancestors_of_the_inuit/.json', "good")
-#youtubeDataAPI("kfVsfOSbJY0", "bad")
+#redditData(r'http://www.reddit.com/r/AskHistorians/comments/1sj0ld/for_what_reasons_did_the_ancestors_of_the_inuit/.json', "good")
+youtubeDataAPI("kffacxfA7G4", "bad")
 
 
