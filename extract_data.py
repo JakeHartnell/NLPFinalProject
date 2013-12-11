@@ -11,9 +11,9 @@ import gdata.youtube
 import gdata.youtube.service
 
 redditComments = []
-output_dir = "/Users/dirkdewit/Documents/School/Master HTI/Internationaal Semester/Applied Natural Language Processing/Final Assignment/NLPFinalProject/data/"
+output_dir = "/Users/dirkdewit/Documents/School/Master HTI/Internationaal Semester/Applied Natural Language Processing/Final Assignment/NLPFinalProject/data/heldout/"
 
-def redditData(url):
+def redditData(url, tag):
 	r = requests.get(url)
 	data = json.loads(r.text)
 
@@ -39,7 +39,7 @@ def redditData(url):
 
 	print "Length: ", len(redditComments) / 2
 	comments = '\n'.join(redditComments)
-	writeToFile("good", comments)
+	writeToFile(tag, comments)
 
 def getReplies(replies):
 	replies = replies['data']['children']
@@ -79,7 +79,7 @@ def youtubeData():
 			print comment['content']
 			print
 
-def youtubeDataAPI():
+def youtubeDataAPI(key, tag):
 	yt_service = gdata.youtube.service.YouTubeService()
 	#yt_service.ClientLogin('dirkdewit24@gmail.com', 'tr3kh44k')
 
@@ -89,7 +89,7 @@ def youtubeDataAPI():
 	yt_service.developer_key = 'AIzaSyBdrBfWQJS4mptTMedD82Xy88LI13t_s7s'
 	yt_service.client_id = 'NLTP'
 
-	getAndPrintVideoCommentFeed(yt_service, "K8WGYuSGRmI", "bad")
+	getAndPrintVideoCommentFeed(yt_service, key, tag)
 	#getAndPrintVideoCommentFeed(yt_service, "vqQghwDtqTQ", "good")
 
 def getAndPrintVideoCommentFeed(yt_service, video_id, tag):
@@ -133,7 +133,7 @@ def writeToFile(file, comments):
 	g.write(comments)
 	g.close()
 
-redditData(r'http://www.reddit.com/r/AskHistorians/comments/1r2dcf/mentally_disabledimpaired_slaves_in_antebellum/.json')
-
+redditData(r'http://www.reddit.com/r/AskHistorians/comments/1sj0ld/for_what_reasons_did_the_ancestors_of_the_inuit/.json', "good")
+#youtubeDataAPI("kfVsfOSbJY0", "bad")
 
 

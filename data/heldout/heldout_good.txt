@@ -1,0 +1,700 @@
+##
+As another historical note, not all colonial powers envisioned their overseas holdings as 'colonies'. For example, most of Spanish America was never called colonies by the Spanish (At least not in the 16-17th c.) They were kingdoms just like the Spain's Iberian possessions. While they were considered appendages of the kingdom of Castile, they were not called or considered in law to be colonies. 
+##
+To add to this, I think people misunderstand the general purpose of colonies. Colonies aren't usually intended to stay outposts forever. They're a way of holding and pacifying ground gained by conquest, with the intent that that ground is and will become more and more an extension of the parent nation. Colonies are seldom intended to remain colonies, but to be the foundation of an expanded nation.
+
+So it's unsurprising that France would refer to Algeria as part of France. That's why they colonized it - to make it a part of a larger France.
+##
+I think that would only be true for settler colonies, not extraction colonies that had a large native population and were used to extract their wealth, with only a small number of settlers to facilitate that extraction.
+##
+I'd agree with that. What I was trying to get at is that the popular post-colonial idea of colonization is pretty much that it's purely extraction colonies, and it seemed such a notion was behind the question being asked.
+##
+If this is true why were the 13 American colonies considered colonies for so long versus being another shire or whatever states are called in England. The colonies were made mostly of English or UK colonials yet British parliament didn't offer them the same recognition as its home land holdings. 
+##
+The glorious revolution.
+
+After the English civil wars of the 17th century, the principle of parliamentary supremacy protected the nobility (and, derivatively, the populace) of England and Wales. Parliament could, at least in theory, pass laws and govern England itself, even against the monarch's desires. The principle didn't apply to the overseas, crown-governed territories, where royally-appointed governors (or, if not them, then the king's privy council) could override any local legislation. 
+##
+Interesting, so even if the colonies received fair representation in parliament it wouldn't have mattered?  
+##
+Same as Americans considering Alaska part of the United States?
+##
+T.E. Lawrence (Lawrence of Arabia) made an interesting comparison of the English and French mentality toward their colonies:
+
+&gt;Each [Englishman] assumed the Englishman a chosen being, inimitable, and the copying him blasphemous or impertinent. In this conceit they urged on people the next best thing. God had not given it them to be English; a duty remained to be good of their type. 
+
+&gt;Consequently we admired native customs; studied the language; wrote books about its architecture, folklore, and dying industries. Then one day, we woke up to find this chthonic spirit turned political, and shook our heads with sorrow over its ungrateful nationalism—truly the fine flower of our innocent efforts. 
+
+&gt;The French, though they started with a similar doctrine of the Frenchman as the perfection of mankind (dogma amongst them, not secret instinct), went on, contrarily, to encourage their subjects to imitate them; since, even if they could never attain the true level, yet their virtue would be greater as they approached it. 
+
+--*The Seven Pillars of Wisdom*
+
+According to this view, it wasn't just that there were lots of actual French people in Algeria; the Algerians were, or eventually would be, French (as well as they could be) and their previous identity didn't matter; they weren't Algerian any more than Alsatians were German or Savoyards were Italian. 
+ 
+This is supported by the famous textbook (or textbooks?) that referred to "nos ancetres les Gaulois" (our ancestors the Gauls), which was used in countries with very different ancestry, and even (assuming the French and Belgian attitudes were similar) the original version of *Tintin au Congo*, where Tintin (a Belgian) goes to the (Belgian) Congo and [tells schoolkids about their Belgian homeland](http://www.google.com/imgres?imgurl=http://graphics8.nytimes.com/images/2009/08/17/nyregion/tintin2.480.jpg&amp;imgrefurl=http://cityroom.blogs.nytimes.com/2009/08/19/a-librarys-approach-to-books-that-offend/&amp;h=225&amp;w=480&amp;sz=36&amp;tbnid=UppwwsLZVxe2lM:&amp;tbnh=90&amp;tbnw=192&amp;prev=/search%3Fq%3Dtintin%2Bcongo%2Bteach%26tbm%3Disch%26tbo%3Du&amp;zoom=1&amp;q=tintin+congo+teach&amp;usg=__wviVDOkEScFLWJ30P5N1wEPYlbo=&amp;docid=AEkmQtBg2sctrM&amp;sa=X&amp;ei=LXenUqm9BfC-sQSCuoKgCQ&amp;ved=0CC0Q9QEwAQ), apparently without irony.
+##
+&gt; Each [Englishman] assumed the Englishman a chosen being, inimitable, and the copying him blasphemous or impertinent. In this conceit they urged on people the next best thing. God had not given it them to be English; a duty remained to be good of their type.
+&gt; Consequently we admired native customs; studied the language; wrote books about its architecture, folklore, and dying industries. Then one day, we woke up to find this chthonic spirit turned political, and shook our heads with sorrow over its ungrateful nationalism—truly the fine flower of our innocent efforts.
+&gt; The French, though they started with a similar doctrine of the Frenchman as the perfection of mankind (dogma amongst them, not secret instinct), went on, contrarily, to encourage their subjects to imitate them; since, even if they could never attain the true level, yet their virtue would be greater as they approached it.
+
+That appears to me to be the opposite experience of the British and French's policies in North America.
+
+Was there a shift in the two countries between the 18th &amp; early 20th centuries, or is Lawrence just speaking for himself here?
+##
+Let me weigh in on this, I'll try to reference my sources, but knowing that I'm no historian and only know that from my history classes, it might be hard, and so my answer could very well be deleted at any moment. I'm french. Born, raised, and citizen. However, my parents are moroccan, and arrived in this country in 1985. In fact, I have a double ctizenship, and have been studying france's colonial policy for quite a while. 
+
+To make it simple, here is the ***biggest*** difference between the colonization of Algeria and the colonization of Morocco and Tunisia: Whereas Morocco and Tunisia's colonization happened in the early 1900's (1880's for Tunisia), under the french 3rd Republic, Algeria's colonization started 70 years before, in the last days of the bourbon restoration, I.E in the 1820-1830's. 
+
+***What does this actually mean?***
+
+It basically means that the whole context surrounding  Algeria's conquest was different. The conquest started as a desperate attempt by the bourbon's to regain a bit of popularity, knowing that algeria was part of the Barbary territories "controlled" more or less by the ottoman empire at the time, meaning that even though they were part of the empire, they enjoyed a status of quasi-independance. As a result, Algeria was roamed by berber pirates, and seen as the door to africa by many french politicains, who also understood the potential farming opportunity that lied in northern algeria. The country was succesfully conquered although varous resistance movements existed, and was still considered a colony until 1848.
+
+***What's the big change in 1848?***
+
+Well, another french revolution. In 1848, The July's monarchy was overthrown, and the constitution for the 2nd republic was written.This constitution was very integrationist, and following the demand of the numerous french citizens that moved to Algeria, and the will of the government to give each and every of it's citizens voting rights after 48 years of Monarchy and empires (*you could even go as far as considering that the french first republic was just a parenthesis in french Monarchic history, knowing that it lasted only from 1795 to 1799, and was hardly estabished as the chaos and the terror from the 1789 revolution was just settling down*), and deciding to do so by integrating Algeria directly into the french Republic territory, by dividing it into departments, which are the administrative division that exists in France since 1789. **This was all very highly symbolical**, and supported the idea that the French Republic existed for all of its citizens, regardless of where they lived. Making Algeria equal to mainland France was a political idea, that somehow stuck around. After all, French people didn't just plant a flag there, but offered land to all that wanted tosettle, with the prospect of a better life not to far away  from Marseilles. Algeria was a romanticized destination, as emigration was encouraged by the 2nd republic, who saw a way to pacify territories only with Demographic power, and without the use of the Army.
+
+***What was different for Morocco and Tunisia, then?***
+
+Again, it's all about the context. The french started to covet Morocco and Tunisia only after they were well established in Algeria and thought they had done whatever was to be done there. The colonization of Morocco and Tunisia happened during the 3rd Republic, which was a very strong parliamentary regime that had the nasty habit of overthrowing governments quite often (the average lifespan of a french government during this time was around 6 months). Once again, the National assembly was the only one that could approve of the use of military action, and the ever growing tension between France and Germany forced the governments to put most of their efforts into the weapons race. However, Germany, sadly wthout colonies, was seriously  coveting Morocco as part of their plans for expansion, and spain was seriously thinking about it too. The French priority being that they stop the German expansion, they struck a deal with the spaniards and the Sultan of Morocco and signed the Treaty of Fez in 1912, basically telling the Sultan that if he did not let the french come in, they would let the Germans colonize in a way more destructive way. This treaty made Morocco a French *protectorate* (the word is important), and left control of the northern and southern tip to Spain. Tangier recieved a special international status however. 
+
+The tunisian situation was a little bit different. Think modern day greece with a nice touch of imperialism. Tunisia was also a part of the ottoman empire, considered like a barbary land like algeria and was under the authority of the Bey of Tunis. The Bey had started a serie of modernization reforms, but financial difficulties resulted in debt. A commission of international creditors was called to take over the finances, and the French, who were already politically installed in Algeria, filled in for the civil servants that couldn't be paid etc. slowly replacing the embers of the tunisian administration by their own. This was in 1881, and although the Bey of Tunis was never properly removed, Tunisia was under a French control that only grew larger, also under a "protectorate" regime. That's all I can say within the best of my ability.
+
+ As for sources, I know /r/AskHistorians is not tipically fond of Wikipedia, but they are honestly the only source I could cite in English for this. 
+
+[History of French Algeria](http://en.wikipedia.org/wiki/French_Algeria#The_French_conquest_of_Algeria)
+
+[History of Colonized Morocco](http://en.wikipedia.org/wiki/History_of_Morocco#French_and_Spanish_protectorates)
+
+[History of French era Tunisia](http://en.wikipedia.org/wiki/History_of_French-era_Tunisia)
+##
+This is an excellent reply and covers what I think has so far been undervalued in this thread: the symbolism in annexing Algeria right after the 1848 Revolution. I think here would be a good place to insert a plug for Fanny Colonna's essay *Educating Conformity in French Colonial Algeria*. In it she discusses the plans of the colonial administration to use education to Frenchify portions of the Algerian populace to pacify nationalist movements, without making natives *too* French. 
+
+I can't find a free version of it right now, but it appears in *Tensions of Empire: Colonial Cultures in a Bourgeois World* by Frederick Cooper if you get the chance.
+
+##
+Please feel free to add sources in other languages as well, for anyone interested who is able to read them.
+##
+Thank you for the feedback, I wil as soon as I wake up tomorrow morning if you don't mind. It's 2 am here, and I had a long day so I won't be able to dig through my book collection as I normally do. But I will do so tomorrow, with great pleasure.
+##
+As someone who did their honor's thesis on Algerian history and is of Algerian descent, I believe this is the most thorough and informative of all the answers in this thread.  
+##
+Because it had an established community of 1 million *pieds noirs*. France's African Empire started in Algeria and the discovery of massive oil reserves in the Sahara made the prospect of separation even more untenable
+##
+I don't know the specifics; this is not my area of expertise at all; but isn't this a situation where all french territories are considered part of France (how may people know that  [a part of france is STILL in North America](http://www.wired.com/autopia/2009/04/for-sale-brand/))?
+
+So France considered Algeria a part of France instead of colony because France did not have colonies; only an expanded France... at least that's the way my non-expert mind had understood it.
+##
+Thing is, whereas Algerias neighbours, Tunisia and Morocco were referred to as the "French protectorate of morocco" or "French protectorate of Tunisia", Algeria was simply called French Algeria.
+
+Obviously, something made Algeria different. The rest of the comments in this thread have gone some way to fill those gaps in.
+##
+Morocco was a "protectorate", neither a colony nor a part of France.  Through the "protectorate" period, 1912-1956, Morocco remained a sovereign country governed by the Sultan, at least theoretically and legally.
+
+Of course France (and Spain in the parts that were a Spanish protectorate) excersized much of the real power.
+##
+Aren't all of Frances territories "part" of France? I thought that's why they have the most time zones of any country? 
+
+http://en.wikipedia.org/wiki/List_of_time_zones_by_country
+##
+Civility is literally the first rule on AskHistorians; this is your first and only warning. Be excellent to one another, hey?
+##
+How did that manifest, administratively? 
+##
+Basically, Algeria and Senegal for example (not sure about the others) had representatives at the French parliament in Paris just like every other French regions.
+##
+Where these typically ethnic French, or ethnically locals?  Did that change over time?
+
+ Thank you.
+##
+Both actually. I do not have any stats about the number or locals being elected but it seems it existed, a very known example is [Leopold Sedar Senghor](http://en.wikipedia.org/wiki/L%C3%A9opold_S%C3%A9dar_Senghor), a Senegalese poet and politician who advocated even after independence for close ties between France and Senegal. 
+
+For Algeria it was a bit more complicated. The Muslim had the French nationality but not the French citizenship because they had specific laws and institutions reserved to them (it had been granted to the muslim populations to basically organize themselves their way). They could in theory ask for full citizenship but it was often seen as a kind of betrayal by the other muslims and it required lots of paperwork and could sometimes be refused. 
+
+Integration and assimilation in Algeria was more of a mess though because muslim had a special status and were organized by special institutions (it had been granted to them to basically organize themselves their way under their religious principles). This basically made a real mess of all this with Muslims with French nationality but NOT French citizenship, muslims with French citizenship (they could ask for it individually but had to renounce to everything related to the special Islamic institutions) and French living in Algeria (about 1/10 of the pop of Algeria.
+
+So basically a muslim with French citizenship could be elected just like any French. In practice it was pretty rare as renouncing the special laws was often seen as a betrayal of the muslim faith. France was pretty cool with that as they wanted to keep a small number or muslims with French citizenship, preferably the best ones (hear "educated and westernized") as 10 millions of Algerians suddenly having the French citizenship with most of them knowing nothing about France and its culture would represent a big chunk of voters compared to the circa 50 millions of French from France. They obviously did not want algerians to suddenly represent 1/6 of the total voters which would have given them a huge political weight.
+
+Until the end in 1962, no one really found any answer to this puzzle : How to give Algerians fair representation, without them becoming one of the leading group of voters in France? 
+
+They tried a lot of things but no one succeeded, probably because it was impossible.
+
+Source : "Les élections législatives et sénatoriales outre-mer, 1848-1981" by Guy Pervillé, Editions des Indes savantes
+##
+&gt;Until the end in 1962, no one really found any answer to this puzzle : How to give Algerians fair representation, without them becoming one of the leading group of voters in France?
+
+&gt;They tried a lot of things but no one succeeded, probably because it was impossible.
+
+Okay, and this is going to sound like a ridiculous question, but...
+
+Did no one propose a system like the United Kingdom, where the English Parliament can create laws that supersede local (Scottish and northern ireland, right?) laws?  Tell me if I don't understand the parliamentary system in England right, or if it wasn't around back then in the same nature to model after.
+
+Or was something like that rejected / refused to be considered based on the English/French rivalry?   Obviously, whatever the case it wasn't used or didn't work, so it's a purely academic question.  
+
+Maybe I just don't like the "impossible" answer, because I'm obstinate.  Thank you for your reply.
+##
+I believe the problem he points to is that the Algerian bloc of voters would be able to directly elect a huge proportion of the French parliament if it were a true one man one vote integrated nation.
+
+It is a lot like the problems faced by South Africa and Rhodesia where they wanted a democracy but not one which could be controlled by the black population. Tricky when they are a majority. 
+
+There aren't enough Scottsmen to sway the entire UK in that manner.
+##
+As an example, you can find [here](http://www.assemblee-nationale.fr/sycomore/result.asp?radio_dept=tous_departements&amp;regle_nom=est&amp;Nom=&amp;departement=Anciens+d%C3%A9partements+d%27Alg%C3%A9rie&amp;choixdate=intervalle&amp;D%C3%A9butMin=01%2F01%2F1948&amp;FinMin=01%2F01%2F1949&amp;Dateau=&amp;legislature=45&amp;choixordre=chrono&amp;Rechercher=Lancer+la+recherche) the list of the deputies from Algeria in the 1946 assembly. 
+##
+Thank you.  
+
+I can't read French, but is going on the "style" of the surname a good indicator of ethnicity?  Was intermarriage common, and if so would it have detrimentally effected the political careers of the individuals in question?
+
+Those are all pretty much one question, I guess.  I'm just trying to get an idea of whether my impression of the ethnic makeup of the body is correct or not.
+
+##
+If I recall, the French chose direct administration, whereas the British were generally cool with local control (local as in local white British administrators), as long as certain economic and military benefits kept flowing.
+##
+The story reminds me a bit of Hitler's "Lebensraum." They needed a little room to move around.
+
+
+France made "civilizing" Algeria a priority and stuck to it for forty years. After 50 years of occupation, more than 150,000 Europeans (mostly French) had settle in Algeria, overwhelming the indigenous population.  They seized lands and enacted laws that were favorable to Europeans.  By the turn of the twentieth century, nearly 3 million natives had diead from repression and disease.
+
+
+Source: Layachi, Azzedine. "Peoples Democratic Republic of Algeria" in "The Government and Politics of the Middle East and North Africa." Ch. 16. Mark Gasiorowski, ed. 7th ed. 2013. 
+##
+I'm not sure how relevant this is? I understood that the Op was interested in why the French considered Algeria to be a part of the mother country rather than the hows and whys of the invasion. 
+
+I've been wondering about this myself and it does seem to be particular to French colonialism over the other European forms, all of which were pretty murky.
+##
+David Prochaska's book *Making Algeria French* is an excellent case study of this process in one city (Bône), and how the initial arrivals were opportunistic and poor Europeans from a very wide array of places.  There's a longer historical transformation process that happened, and the Algerians came out way at the bottom.  (Diana Davis's *Resurrecting the Granary of Rome* is pretty good on some of this, too.)
+##
+Could it be in part because of geography?
+
+There is nothing between France proper and Algeria but the Mediterranean.
+##
+Jokes are not acceptable as top-level answers in this subreddit. Don't do it again.
+##
+Sorry
+##
+Was there by the time of the occupation of Algeria any remaining notion of France/Europe as the descendant/heir of Rome? 
+##
+Nope, France sees Roma as a nation that brought it a lot of what they are by the mixing of gallish and roman cultures but they never ever considered themselves as descendants / heirs of the romans. 
+
+The only ones to claim descendance of antique Roma to my knowledge were Fascist ere Italy for obvious reasons.
+##
+And Russia, "the third Rome." Czar means Cesar.
+##
+I've already answered similar questions here(http://www.reddit.com/r/AskHistorians/comments/1s3f1a/i_am_an_american_soldier_in_wwii_who_has_been/) and here(http://www.reddit.com/r/AskHistorians/comments/1r5y2s/why_were_the_japanese_so_brutal_in_ww2/) but this one is a little bit more specific in that it asks about pre-war causes, so I will try to address those.
+
+Prior to World War II, Japan was experiencing a period known as "Taisho democracy," named after the Taisho emperor.  During this time, Japan had a relatively stable constitutional monarchy.  The problem was communism.  The Japanese establishment feared communism because it would destroy their power base and also was anathema to the idea of the Emperor.  As a result, thanks to the passing of several "Peace Preservation Laws," the communist parties were made illegal, but at the same time this also made anti-communist parties, including the militarist factions, more popular.
+
+The militarist factions were very angry with the results of WWI.  Despite being a victorious Great Power and contributing to the victory, they failed to make any significant gains in the peace treaty.  This sort of revanchism angered many people, who saw it as another example of Western powers trying to contain Japan.  Combined with the signing of the Washington Naval Treaty, which was the SALT of its time that appeared to disfavor Japan (although in hindsight, it didn't), many Japanese were convinced that America would be the next enemy.
+
+After social and economic pressures as a result of the worldwide depression, several army officers started assassinating prime ministers and other political leaders that were more pacifist.  These officers believed in an idea of "Gekokujo," a concept from the Sengoku era, where inferiors would rule their superiors.  They thus took this as license to essentially do as they will, including the "Mukden Incident," where a notorious pan-Asian firebrand lieutenant essentially unilaterally annexed Manchuria., culminating in the 2-26 incident where several military officers tried and failed a coup d'etat.  These events created a sort of fear to comply with military demands, and soon the military gained the power to oust any government that disagreed with them by simply having the current war minister resign and refusing to appoint a new one.  Thus, nothing could get done without militarist approval.
+
+The last thing to note is that everybody had their hands dirty in the conflict.  The Chinese and Japanese hated each other.  The Chinese saw the Japanese as inferiors who were unjustly occupying Chinese sovereign territory (if its familiar sounding, that's because its still happening) and the Japanese saw the Chinese as being dirty and uncivilized barbarians that needed Japanese enlightenment.  Sometimes, Chinese troops fighting each other during the Warlord period would capture a city and loot the city, often robbing, raping, and slaughtering any Japanese inhabitants.  Of course Japanese reprisals were just as bad if not worse, but all you would hear in the news would be stories of Chinese barbarians raping and massacring innocent Japanese civilians.  Obviously you would be furious.  
+##
+How did the Japanese contribute much to WW1? They did take the German "colonies" in southeast asia but that hardly seems decisive for the greater war effort..
+##
+Because Japan was on the Allied side, Britain did not need to worry about India, as the Japanese navy protected South Asia from any potential German naval threats.  Also, a significant Japanese force operated from Malta (of all places), escorting many troops and in general helping to secure Entente control of the Mediterranean.  In addition, Japan played a large role in the Russian Civil War, sending a large amount of troops into Siberia to help attempt to defend the White Russians.  Granted this wasn't as major of a role as other countries, but at the time they were considered a Great Power on par with at least Russia.
+##
+I wouldn't say that it is relevant how much the Japanese contributed to the war effort. They took POWs and they treated them in accordance with the Hague Conventions. They also took POWs in the Russo-Japanese war and the first Sino-Japanese war and treated them similarly. There was a TREMENDOUS shift in attitude towards the captured in the interwar years and that is what I'm particularly curious about.
+##
+The answer is in one of my previous answers-namely, a combination of racial tension, extremely harsh physical discipline in the Japanese military forces, and poor top-down control, logistics, and organization in the Japanese army.  Not to mention the conflict was incredibly long-by the time Japan had attacked Pearl Harbor it had been 4 years since Japan was mired in China, and many Japanese troops were frustrated by their lack of lightning success and of the extremely ferocious resistance by the Chinese.  Mercy had long gone out the window by then.
+##
+Yeah I was asking a side question sorry for not clarifying that.
+##
+Very informative! As a follow up, why was the reaction to Nazi and Japanese atrocities so different between the post war German and Japanese governments? From my understanding, the post war German government made every effort to account for and condemn what the Nazi regime did. German citizens learned what happened in the concentrations camps and they were horrified. Japan, on the other hand did not really issue any genuine apologies (in the immediate postwar years) and the populace was left largely in the dark. Why was this?
+
+edit: grammar  
+##
+I really can't agree with this answer. You stated that there is an idea that "there is no need for Japan to apologize". Implicit in this statement is the widely-held misconception that Japanese leaders have not, in fact, apologized for the various atrocities in World War 2. I'm a specialist on Korea, and can think (off the top of my head) of a vast number of war apologies issued by senior Japanese statesmen to Korea; I'm certain that similar statements exist for the rest of the Northeast Asian invasion. Here are a few:
+
+September 7, 1984. Prime Minister Yasuhiro Nakasone. "There was a period in this century when Japan brought to bear great sufferings upon your country and its people. I would like to state here that the government and people of Japan feel a deep regret for this error."
+
+1989. Prime Minister Takeshita Noboru: "As we have made clear previously at repeated opportunities, the Japanese government and the Japanese people are deeply conscious of the fact that the actions of our country in the past caused suffering and loss to many people in neighboring countries. Starting from our regret and resolve not to repeat such things a second time, we have followed a course as a "Peace Nation" since then. This awareness and regret should be emphasized especially in the relationship between our countries and the Korean peninsula, our nearest neighbors both geographically and historically.
+
+May 24, 1990. Emperor Akihito:  "Reflecting upon the suffering that your people underwent during this unfortunate period, which was brought about by our nation, I cannot but feel the deepest remorse" (Meeting with President Roh Tae Woo).
+
+Full reference: 
+
+(In Nakano Bunko, http://www.geocities.jp/nakanolib/choku/ch02.htm)
+しかしながら、このような朝鮮半島と我が国との長く豊かな交流の歴史を振り返るとき、昭和天皇が「今世紀の一時期において、両国の間に不幸な過去が存したことは誠に遺憾であり、再び繰り返されてはならない」と述べられたことを思い起こします。我が国によってもたらされたこの不幸な時期に、貴国の人々が味わわれた苦しみを思い、私は痛惜の念を禁じえません。
+
+My translation: "However, when I look back at the long history of rich exchanges between the Korean peninsula and my own country, I am reminded of the words of the Shôwa emperor: 'It is truly regrettable that there existed a time this century when unfortunate occurrences happened between our two countries, and such things must never repeat themselves again.' When I think of the suffering that the people of your honourable country have felt, in this unfortunate period that my country created, I cannot suppress feelings of deep regret.
+
+May 25, 1990. Prime Minister Toshiki Kaifu. "I would like to take the opportunity here to humbly reflect upon how the people of the Korean Peninsula went through unbearable pain and sorrow as a result of our country's actions during a certain period in the past and to express that we are sorry" (Summit meeting with President Roh Tae Woo in Japan).
+
+January 1, 1992. Prime Minister Kiichi Miyazawa:  "[Concerning the 'comfort women'] I apologize from the bottom of my heart and feel remorse for those people who suffered indescribable hardships" (He said this at a Press conference).
+
+January 16, 1992. Prime Minister Kiichi Miyazawa: "We the Japanese people, first and foremost, have to bear in our mind the fact that your people experienced unbearable suffering and sorrow during a certain period in the past because of our nation's act, and never forget the feeling of remorse. I, as a prime minister, would like to once again express a heartfelt remorse and apology to the people of your nation" (Speech at dinner with President Roh Tae Woo)
+
+January 17, 1992. Prime Minister Kiichi Miyazawa. "What we should not forget about relationship between our nation and your nation is a fact that there was a certain period in the thousands of years of our company when we were the victimizer and you were the victim. I would like to once again express a heartfelt remorse and apology for the unbearable suffering and sorrow that you experienced during this period because of our nation's act." Recently the issue of the so-called 'wartime comfort women' is being brought up. I think that incidents like this are seriously heartbreaking, and I am truly sorry" (Policy speech at the occasion of the visit to the Republic of Korea).
+
+August 23, 1993. Prime Minister Morihiro Hosokawa: "After 48 years from then, our nation has become one of nations that enjoy prosperity and peace. We must not forget that it is founded on the ultimate sacrifices in the last war, and a product of the achievements of the people of the previous generations. We would like to take this opportunity to clearly express our remorse for the past and a new determination to the world. Firstly at this occasion, we would like to express our deep remorse and apology for the fact that invasion and colonial rule by our nation in the past brought to bear great sufferings and sorrow upon many people" (Speech at 127th National Diet Session).
+
+August 15, 2005. Prime Minister Junichiro Koizumi: "In the past, Japan, through its colonial rule and aggression, caused tremendous damage and suffering to the people of many countries, particularly to those of Asian nations. Sincerely facing these facts of history, I once again express my feelings of deep remorse and heartfelt apology, and also express the feelings of mourning for all victims, both at home and abroad, in the war. I am determined not to allow the lessons of that horrible war to erode, and to contribute to the peace and prosperity of the world without ever again waging a war."
+
+December 7, 2010. Prime Minister Naoto Kan apologized for Korea's suffering under colonization as part of a statement marking the 100th anniversary of the annexation in 1910: "I express a renewed feeling of deep remorse and state my heartfelt apology for the tremendous damage and suffering caused by colonial rule," Kan said. Kan said Japan colonized Korea "against the will of the Korean people" who suffered great damage to their national pride and loss of culture and sovereignty as a result and added that he wants to take an honest look at his country's past with the courage and humility to address its history.
+
+
+Also:
+
+http://articles.cnn.com/2010-02-11/world/japan.korea.apology_1_korea-and-china-comfort-women-south-korea?_s=PM:WORLD
+
+http://www.guardian.co.uk/world/2010/aug/10/japan-repeats-apology-korean-occupation
+
+TL;DR It's a widely-held misconception that unlike the Germans, the Japanese haven't apologized for their war crimes; this is patently untrue, if  by 'the Japanese apologizing' we mean 'Japanese statesmen apologizing'. 
+
+I'm currently studying the origins of this misconception, but I suspect that it's strongly related with the idea in the West of the 'Cruel Asian despot', a way of characterising Asians as fundamentally remorseless, incapable of Christian forgiveness or mercy, and essentially cruel. For more on the anti-Japanese propaganda that produced this idea, I'd recommend John Dower's 'War Without Mercy'.
+##
+You make valid points that many Japanese statesmen, and indeed, the Emperor, have apologized for the war.  But it's one thing for a country's leaders to apologize.  It's another thing for an entire culture to make that acknowledgement.  Consider for instance the extremely strict anti-hate laws in Germany, and contrast them with the racial attitude that Japanese people have for Koreans and Chinese (which is entirely mutual for all parties involved).  
+##
+&gt;I'm currently studying the origins of this misconception, but I suspect that it's strongly related with the idea in the West of the 'Cruel Asian despot', a way of characterising Asians as fundamentally remorseless, incapable of Christian forgiveness or mercy, and essentially cruel. 
+
+That may be true, but one element that doesn't have an equivalent in Germany is the repeated visits of Japanese prime ministers and cabinet members to the [Yasukuni Shrine](https://en.wikipedia.org/wiki/Controversies_surrounding_Yasukuni_Shrine#Politicians.27_visits), which includes war criminals among those commemorated.
+##
+Although I personally agree with your statement and personally feel that the visits are distasteful, we should nonetheless not judge Shinto spiritualism by the standards of Christian spiritualism. If we look at literary classics such as the Tale of the Heike or the Iwamizudera Monogatari, we see an attitude to death in war that might be more equivalent to the Norse Valhalla. Provided you die bravely, you deserve honour, regardless of which side you fought on; this is especially obvious in the Heike, where fallen warriors of both houses are praised for their loyalty to their leaders, rather than for what Christian/enlightenment thinkers might think of as the morality of their actions. Consider that the attitude towards suicide serves as a sort of microcosm for this idea; that it's considered noble and/or romantic in most of Japanese literature, whereas it's been proscribed as a sin in most western nations (the sinfulness of suicide is the plot device in the original Dracula, for instance). 
+I realise that there's an international relations dimension to this, but demanding that another country modify its religious conscience to suit our conception of morality would be an imposition; perhaps it's an imposition that we feel is warranted, but it is an imposition nonetheless.
+##
+Even more basic than that though, Yasukuni is simply a shrine for soldiers who die in battle.  It is akin to the US's Arlington Cemetery.  The thing is that the way a shrine works is rather complicated-as with many things in Japan, there is a specific "god," or kami, that inhabits the shrine.  This particular kami is composed of all the spirits of soldiers that died in the Empire's wars, including Koreans and Taiwanese (incidentally, one of my Taiwanese great-uncles is enshrined there).  So indirectly, and as the Chinese/Korean protests believe, paying respects to the kami there would also be paying respects to the war criminals.  The visits to the shrine, from the Japanese point of view, are just to honor those who gave their lives for their country.  Of course, both are right, and both refuse to think that there can be multiple justifiable interpretations of these actions.
+
+##
+&gt; I'm currently studying the origins of this misconception, but I suspect that it's strongly related with the idea in the West of the 'Cruel Asian despot', a way of characterising Asians as fundamentally remorseless, incapable of Christian forgiveness or mercy, and essentially cruel.
+
+I couldn't disagree with this statement more. How is this sentiment limited to the west? There are still VERY strong and open anti-Japanese sentiments in China. I would say that the U.S. has by and large forgiven Japan for it's atrocities and Japan has by and large forgiven the US for it's own. China, on the other hand has never fully repaired relations with Japan. There were violent anti Japanese riots last just year and constant tension between the two countries. Any sense of "Cruel asian despots" in the west pales in comparison to the sentiment of "cruel Japanese despots" in China.
+
+edit: grammar 
+
+
+
+##
+I never said that this attitude was limited to the west. Apart from the mischaracterisation of my argument, however, I agree with what you said; clearly, there's quite strong anti-Japanese sentiment in Korea and China. However, I don't read Chinese and Korean, and am not in a position to speak intelligently on the Korean and Chinese discourse regarding Japan, aside from what is reported in the English-language and Japanese-language media.
+##
+May I ask a further question? Why is it that people keep insisting on Japan apologising? Is it just fervent Chinese nationalism or something else?
+##
+One reason that I have not seen stated very often is this: our own racist biases played into it. Since they are western Europeans, we saw the Germans as being from a culture much closer to our own and were shocked that a "civilized" nation could behave in such an atrocious manner; whereas we saw the Japanese as strange foreigners "not like us" compared to the relatively familiar Germans. World War Two was a race war all around, not just to the axis powers.
+##
+Please see my response below; your statements are not backed up by any evidence at all - "From my understanding, the post war German government made every effort to account for and condemn what the Nazi regime did. German citizens learned what happened in the concentrations camps and they were horrified. Japan, on the other hand did not really issue any genuine apologies (in the immediate postwar years) and the populace was left largely in the dark" 
+
+This is simply untrue (see my post below), and frankly is more of an anti-Japanese piece of rhetoric than anything that has a place on an askhistorians. I hope the mods will flag it for what it is; thinly disguised anti-Japaneseism. Also, "from my understanding" is not a reliable source, last time I checked. Sorry if I sound annoyed, but this type of discourse derails the conversation and is, frankly, ignorant (and quite possibly racist).
+##
+He's not offering an answer, he's asking a question.  If his understanding of the issue is wrong then it's an opportunity for him to get more information on the issue, which is the *whole point* of askhistorians.
+##
+It's a myth that the German people didn't know what was happening in the concentration camps until after the war. They knew. They participated. Historian Robert Gellately's 2001 study exposed "once and for all the substantial consent and active participation of large numbers of ordinary Germans". His book is called [*Backing Hitler*](http://books.google.com/books?id=jCiGWtxyQv0C&amp;printsec=frontcover&amp;dq=Backing+Hitler:+Consent+and+Coercion+in+Nazi+Germany&amp;hl=en&amp;sa=X&amp;ei=wmunUtxDzcyoAbvPgaAN&amp;ved=0CC0Q6AEwAA#v=onepage&amp;q=Backing%20Hitler%3A%20Consent%20and%20Coercion%20in%20Nazi%20Germany&amp;f=false).
+##
+I don't have access to the book. Can you make a small summary? This sounds extremely interesting.
+##
+Here's [a good summarizing article] (http://www.theguardian.com/uk/2001/feb/17/johnezard) by the British paper *The Guardian*.
+
+But basically: Gellately, professor in Holocaust history at Clark University in Massachusetts, went through thousands of German newspapers and magazines starting in 1933 after Hitler's election to Chancellor. What he found were numerous, repeated articles about actions taken against Jews and other "unwanted" people. As early as 1936 camps were described in glowing terms as a solution to the problematic people in society; the camps were described as places for "race defilers, rapists, sexual degenerates and habitual criminals". There were published reports of executions at these camps. There were reports of calls for more camps. There were numerous reports of regular, average citizens denouncing people in their own villages as "looking Jewish" or being socially deviant in some way. In the end,
+"[Gellately] concludes by indicating that the only thing many Germans may not have known about was the use of industrial-scale gas chambers because, unusually, no media reports were allowed of this 'final solution'. However, by the end of the war camps were all over the country and many Germans worked in them."
+##
+&gt; "[Gellately] concludes by indicating that the only thing many Germans may not have known about was the use of industrial-scale gas chambers because, unusually, no media reports were allowed of this 'final solution'."
+
+Isn't that sort of the point? There's an enormous difference between "We've put all of the undesirables in camps" and "We've put all of the undesirables in ovens". The allegation is that the German populace thought the camps were detainment camps, not death camps.
+
+Imagine if the White House released a statement tomorrow that said, "Hey, those 2.6 million people we told you were in prisons? Actually they're all dead. Zyklon B."
+##
+My summary doesn't do Gellately's detailed work justice. I agree that the horror of those gas chambers is shocking and impossible to overlook. But the condition of prisoners would have been visually shocking. There were magazine articles about how the camp prisoners went into cities to work (clearing bombing rubble, cleaning streets, repairing rail lines, etc). "The sight of concentration camp prisoners working in the streets of big cities like Cologne, often without proper footwear, dressed in the pathetic striped garb of the camps, right down to the well-known badges signifying nationality and 'crime', became a new fact of everyday life in Germany. All over Germany, camp prisoners of one kind or another shuffled to and from their camps in full view of citizens who certainly could not fail to notice their mistreatment and deplorable condition."
+I don't think you have to know about Zyklon B to know that something terrible, vicious, and inhumane was going on⎯and that it was affecting MANY people.
+##
+I disagree with a lot of your post. What are your sources for saying it was from the establishment's fear of communism? That seems to run contrary to the *daimyo* and *samurai* voluntarily relinquishing legal power and (largely) moving on. It also runs contrary to the 'establishment's' drive to establish a very modern education system. Of all the primary sources I've read from the period, Communism was not simply on their radar like it was in the West.
+
+I attribute it more to the university system in the 1890s-1930s so heavily teaching the philosophy of Hegel. This produced a generation of military officers, jurists, politicians, and cultural leaders steeped in *volkgeist*, which paired very well with traditional Japanese Confucianism. 
+
+Your explanation is much too narrow to explain the atrocities of the Japanese military that seem to spread throughout and were committed against all opponents.
+##
+The thing is that senior military officers, jurists, politicians, and cultural leaders, all had nothing to do with the atrocities.  The atrocities by and large were committed by lower ranking officers and enlisted troops, while senior officers were either unaware or unable to do anything about the atrocities (see: General Yamashita and the Bataan Death March).
+
+Communism was a huge threat to Japan.  If it wasn't, there was no need for Japan to send 70,000 troops to Siberia for 4 years in a futile effort to help the White Russians.  And there would've been no need to pass the Peace Preservation Law of 1925 which stated:
+
+"Anyone who has formed an association with altering the kokutai, or the system of private property, and anyone who has joined such an association with full knowledge of its object, shall be liable to imprisonment with or without hard labour, for a term not exceeding ten years."
+
+Incidentally, that law crushed the Japanese Communist Party.
+
+There was a strong fear of communism.  The daimyo and samurai didn't just "relinquish" legal power, by the way.  They fought the Boshin war about that, and the winners who "gave up" their power as daimyo and samurai (namely, Satsuma and Choshu domains) assumed all the powerful roles in the fledgling Meiji government.  So no, they really didn't give up any power, they just "modernized."  
+##
+What about Korea?
+##
+The Japanese military actually had very little power in Korea as Korea was administered by civilians.  The main crimes there was the mass enslavement of comfort women and the huge amount of forced labor.  But bear in mind, Japanese women (especially poorer ones, tricked by offers of employment) were also forced into becoming comfort women.  Comfort women was an entirely different phenomenon-they were seen as tools to keep the morale of the soldiers happy, much like alcohol and entertainment, and so Japanese authorities essentially disregarded them, treating them not as human beings, but as supplies to be distributed to the army.  Many comfort women were tricked or forced into service, although there were a notable few that volunteered.  
+
+I totally blanked about the forced labor and conscription.  Sorry about that.
+##
+So, would I be correct in my interpretation of your comments that actual *discipline* in the Japanese army during this time was actually very low, but masked by naked brutality?
+##
+Discipline to one's immediate superiors was usually very good.  The problem was that physical discipline was the method of the day (namely, to maintain order, you beat your inferiors).  For privates, as they were the lowest of the low, they could only beat up prisoners-and since they experienced it first hand, they thought physical violence was the best way to keep prisoners in line.
+
+I had some bad diction here.  Sorry for the confusion.
+##
+You've given very extensive answers, but there is some contention with your interpretation of the facts. Could you reference some of the sources you draw upon?
+##
+Certainly.  Probably above all, Saburo Ienaga's The Pacific War.  Admittedly his opinion is a bit biased, but he raises some good points as a pacifist-oriented person.
+
+Also, Shanghai 1937: Stalingrad on the Yangtze (Peter Harmsen), Sources of Japanese Tradition (De Bary, Gluck, Tiedemann, two volumes, entire thing is quite a good read, but in this particular instance the focus would be vol2, part 2), Dower's War Without Mercy, Iriye's Power and Culture: The Japanese-American War, Surrender and Survival, The Experience of American POW's in the Pacific (Kerr), and a bunch of others that have probably gotten jumbled into the mix.  
+
+On a side note, Shattered Sword (re: Battle of Midway), is an excellent read into the series of questionable decisions that was Japanese military thinking.   
+
+Also a few visits to the Yushukan military museum at Yasukuni Shrine.  Words cannot express what it has to say about the war.
+##
+Have you read "Nomonhan" by Alvin Coox? I'm slowly going through it, and the first chapters deal extensively with the Japanese military through the 1930's, including the "Mukden Incident" and increasing confidence of Japanese officers against their superiors. However, the book is mostly focused on the later Nomonhan incident against Russia.
+
+I found it interesting how Japan was looking to "settle" (for lack of better words) Northern Manchuria and used the excuse of protecting their national interests -the railroad companies- as justification for military action. They actually forged alliances with some of the local Chinese warlords while fighting others. Were the Japanese able to put aside their "hatred" of the Chinese to create these alliances? My impression was that the hatred had not yet been developed, but would be developed in the coming years?
+
+
+##
+I have not read Nomonhan yet, although I was recommended it.  I don't know the details of the "alliances" you mention, but I do know that there were quite a few collaborationist Chinese who were perfectly happy to work with the Japanese.  The puppet regime of Manchukuo being a prime example.  As for hatred, the aftermath of Mukden is probably one of my weak points.  All I can say is that the Japanese welcomed any collaborators, although they would probably see their "allies" as being inferior to themselves.
+##
+and Korea just got trampled in the process :p
+##
+[This](http://en.wikipedia.org/wiki/Kingdom_of_Saguenay) is the only thing I could think of. It was an Iroquois legend and there are multiple explanations (including some people thinking it is related to L'Anse aux Meadows) though nothing is known for certain. It would be interesting if someone on here with more knowledge about Iroquois culture had more information on the subject but I'm not sure how well known it is.
+##
+As I understand it, L'Anse aux Meadows in Newfoundland is the only site in North America where there is evidence that Vikings had a short-lived settlement. I've scoured a bit, but I can find no evidence that the Vikings even had any contact with indigenous Americans. If there was contact, I doubt any oral tradition could have lasted the hundreds of years before it would have been possible to put it into writing. 
+
+My answer is speculative, but I hope someone who knows more about this fascinating subject can chime in. 
+##
+Just to let you know, the Saga of Erik the Red definitely mentions Native Americans, referred to as 'skraelings' in the text, so there was definitely some contact between the two cultures.  As for what natives thought of the Vikings I have no clue, but the Vikings definitely had an opinion of the natives.
+##
+&gt; skraelings
+
+I thought that referred to the Inuits of Greenland? 
+##
+When the French made contact with Iroquoian people near the Great Lakes region, they heard of the legendary [Kingdom of Saguenay](http://en.wikipedia.org/wiki/Kingdom_of_Saguenay).
+
+The kingdom was supposedly inhabited by tall, blond people who had lots of gold and furs.
+
+I'll leave it to you however to decide if this legend does refer to the Vikings in North America. I however think it was a story made up by the Native Americans similar to the [Seven Cities of Gold](http://en.wikipedia.org/wiki/Seven_Cities_of_Gold_\(myth\)) myth that the Spanish heard from Native Americans.
+
+EDIT: Sorry, trying to learn how2links
+##
+No expert but remembering course work I did in this area leads me to suspect there were tales of strange people's from strange lands, but it's worth noting that European fishermen frequented the Grand Banks for centuries before Cabot made his claim.
+
+It wasn't unheard of for Basque fishermen to go ashore to cure their catch before making the long journey home and there was bound to be some contact or at least knowledge of the presence of other people from away in the years between 1000 and 1500.
+The presence of these fishermen lasted far longer than the Viking incursions in North America giving any Viking stories less importance in the grand scheme of things from the North American perspective
+
+##
+Basques commonly in NA from 1000 to 1500? Citation, please.
+##
+If there had been much contact, wouldn't this have set off some of the nasty disease exchanges that killed so many in later years?
+##
+Growing up on a Native American reservation I can't say I've heard any stories that involved Vikings. Of course my tribe is more inland. Maybe some coastal tribes have stories?
+##
+Would you mind saying which tribe or nation this was?
+##
+The Vikings mostly landed in newfoundland and if I remember correctly, mostly all of the natives there were wiped out.
+##
+If any tribe had knowledge of them and their presence it would've been the Beothuk from Nefoundland, who [went extinct](http://en.wikipedia.org/wiki/Beothuk_people#Extinction) long ago, along with any possible information on Vikings.
+##
+I'm sorry, but in the future, please do not use Cracked as a source.
+##
+The greatest foreign policy initiative was keeping the European countries from recognizing the Confederacy. Great Britain was a major trade partner of the southern states before the war and the blockade imposed by the U.S. on the south severely hampered British trade in cotton. The U.S. seized British ships running the blockade, and in the case of the [Trent](http://history.state.gov/milestones/1861-1865/trent-affair) seized Confederate diplomats off a British ship causing a major diplomatic incident, the British actually started calling up troops in Canada over the incident. The seizure of another ship the [Peterhoff](http://waltercoffey.wordpress.com/2013/02/24/civil-war-spotlight-the-peterhoff-affair/) caused an incident when the Navy wanted to open the mail on board to determine her true destination.
+
+ The blockade itself was a problem. Lincoln declared the Confederate states rebels and insurrectionists, but by declaring a blockade treated them like a foreign power. It took diplomatic effort to get the European nations to recognize the blockade but not the nation being blockaded.
+As part of the campaign to win British support for the Union America signed an Anti-Slave Trade treaty with Britain in 1862. The Emancipation Proclamation was also issued in part to favorably influence British and European opinion. The American diplomatic corps in London also worked, though not entirely successfully, to stop ships from being built for the Confederates.
+
+In [1861 Mexico stopped paying its debts to France, England and Spain](http://history.state.gov/milestones/1861-1865/french-intervention). France ended up invading Mexico and setting Maximilian I on the throne of Mexico as emperor. The American government could not do anything about it because of the war. Maximilian had been advised not to recognize or support the Confederacy before he left Europe since that would guarantee any hope of U.S. recognition of his status would be lost. Immediately after the war (under Johnston not Lincoln) the U.S. sent 50,000 troops to the border and guns to the Mexican resistance forcing the French out. This entire incident was a violation of the Monroe Doctrine, and probably would not have occurred the same way if the U.S. hadn't been otherwise occupied. 
+
+Working with [Russia](http://www.voltairenet.org/article169488.html) was also of importance, particularly since they provided a counter to the British navy and the French desire to recognize the Confederacy. Russian fleets actually visited New York and San Francisco during the war, not entirety altruistically however, the Russian were using the location of the fleets against Britain in a dispute over Poland. But it did show support for the U.S. 
+
+So the war didn't put relations on hold (except involving the Mexico intervention) but it was the focus of most of the efforts during Lincolns presidency in one way or another.
+##
+This is a pretty good overview of diplomatic events but it leaves out a lot of the significance involved in these efforts. Foreign recognition of the Confederacy would have had huge implications for the prospects of the war and especially regarding Britain and France, the vast majority of US foreign relations concerns centered on inhibiting Confederate efforts to get recognized. The events described above were part of an overall US strategy to adopt a surprisingly aggressive foreign policy under Steward. The US had to make it absolutely clear that recognition of the CSA by a foreign power would mean war with the US. A decent book on it is Howard Jones' *Blue and Gray Diplomacy.*
+
+There are a couple semi-related foreign policy events that occurred during Lincoln's presidency. One was the Morrill Tariff, or a fairly dramatic rise in tariffs enacted by the Republicans just a couple days before Lincoln took office. This was part of the Republican platform and was meant to protect Northern industry. This was made a lot easier once the anti-tariff Southern congressmen had left the capitol. However, it's worth noting that even with this increase tariffs remained below where they'd been before 1830.
+
+Also of note was that Lincoln oversaw the first official US recognition (in 1863, I believe) of the country of Haiti since it had revolted against French colonial rule in 1791. This is a big deal because the slave revolt there had significantly alarmed many Americans who worried about similar race wars sparking in the US.
+##
+As a counterpoint, what were the Confederacy diplomats doing to negate Lincoln's diplomats?
+##
+&gt; This entire incident was a violation of the Monroe Doctrine
+
+Was America, even an undivided America, powerful enough in the 1860s for any of the major European players to respect the Monroe Doctrine?
+##
+Enough to take account of it (though tbh the Monroa Doctrine isn't really a thing at this stage). Even in the 1840s, the US managed to get the British Empire, at the apex of it's relative strength, to go halfsies on the Oregon territory. Then it crushes Mexico in the 1848 War, occupying and holding it with ease. 
+
+The military in 1860 is pathetically small by world standards, but it's already shown it can gear for war. 
+
+##
+"Crushes" is putting it a bit strongly. The war was pretty close, with the US Army at its logistical limits.
+##
+I'll take your word for it, I'm stronger on the Civil War. Wary of going off topic, but are there specific points it looked to be going in favour of Mexico?
+##
+Note that Italian history (or much that's not American history) isn't my strong point. But **Garibaldi**, fresh off his campaigns in the name of Italian unification (which wasn't completed for another 10 years), offered his services to President Lincoln in 1861. Known throughout most of Italy as a national hero, he was famous for leading volunteer armies to victory against insurmountable odds.^1 Seward sent a letter through an envoy stating that United States was prepared to commission him a Major General. Garibaldi's reply though, while stressing how much he desired to assist Lincoln and the Union cause, stated that he would only fight if he received full command of the entire army AND Lincoln abolished slavery. Lincoln was unprepared to declare the war in the cause of liberty at that point, so Garibaldi never came to the United States. After the Emancipation Proclamation in 1863, Garibaldi was quite moved and heaped praise upon Lincoln.
+
+In addition, the most important recognition of the Confederacy came from Pope Pius IX. Whereas most nations were not about to acknowledge the Confederate States of America as its own nation, the Pope recognized the sovereign status in a letter to Jefferson Davis. The Vatican later stepped back from the Pope's letter, calling it a personal statement and not any official or formal recognition. I'm not exactly qualified to delve into much more regarding Italy, but I'm pretty sure that Garibaldi had unified most of Italy, excluding the Papal States and Rome. The personal preferences of both Garibaldi and Pope Pius IX during the American Civil War may have some relation to Italian Unification, but I can't say for sure.
+
+I have a friend who is focusing on research connecting the American Civil War and Italian Unification. No idea if he's on reddit, but if so, I'll send him this way.
+
+^1: Again, Italian history is not my study, so I've probably over-simplified Garibaldi. His historical memory has been overly heroicized.
+##
+Very interesting!  Did the Vatican step back from the Pope's letter immediately, or was this down the road at some point?
+
+Also, based on your apparent knowledge of US history, do you think Lincoln would have given *full* command of the US Army to Garibaldi?
+
+*edit: Let me reword my question so that some poor folks don't get caught up in semantics:  Was the primary reason Garibaldi did not end up assisting the US the issue of slavery, or is there any evidence the US would have been willing to relinquish total control of their army?
+##
+I think Garibaldi's primary reason for not assisting the United States was in fact the issue of slavery.
+
+I do believe that Lincoln would have an issue with conferring Commander-in-Chief status (constitutionally only the President), but Lincoln may have gone for a Lieutenant General or General rank. I still doubt that Garibaldi would have accepted and the issue of slavery was the primary factor over his personal rank and control of troops.
+##
+It is also important to mention that Lincoln didn't actually free any slaves with the emancipation procalmation. 
+
+" all persons held as slaves within any State or designated part of a State, the people whereof shall then be in rebellion against the United States, shall be then, thenceforward, and forever free"
+
+http://www.archives.gov/exhibits/featured_documents/emancipation_proclamation/transcript.html
+
+Lincoln probably didn't free any slaves with the proclamation. He didn't promise to free the slaves in the Slave states that stayed in the Union such as Maryland or Kentucky. He merely stated that he was freeing the slaves in states that had rebelled, of which at the time he had no legal authority over.
+##
+Of course, but it's still the symbolic significance of that for Garibaldi who said Lincoln would be remembered as the great emancipator.
+##
+I agree completely with that. Lincoln will always be regarded as "The Great Emancipator" but the idea that the Emancipation proclamation actually freed any slaves is one of the biggest misinterpretations of the Civil War era. Moreover The 14th and 15th amendments to the United States Constitution which really did free the slaves were passed and adopted under the Johnston and the Grant administrations.
+
+edit:clarified a the misinterpretation point
+##
+Right, but slavery was being dismantled in the border states even before then. Maryland, after several years of considerable internal conflict over the issue, abolished slavery in 1864 after considering a proposal of compensated emancipation in 1863, slavery in the District of Columbia was abolished in 1862 under a compensated emancipation scheme, slavery in Missouri was ended in January of 1865. West Virginia also abolished slavery in 1865 before the end of the war. Moreover, Lincoln had pushed the 13th amendment ending slavery through the House and Senate in 1865 and slaves in areas of the Confederacy under Union control had been effectively freed by the Confiscation act(and I can only assume he anticipated the areas covered by the Emancipation Proclamation coming under Union military control!). So I think we can reasonably say that Lincoln's goal was to end slavery and that his choice of means was based on what was politically feasible.  
+##
+Lincoln's goal at the end of the war was defiantly Emancipation but my original comment was about the Proclamation. I argued that the Proclamation didn't actually free any slaves. I suppose my comment about him being the "The Great Emancipator" undeveloped. With that comment I meant to argue that Lincoln's Emancipation Proclamation is often seen as him actually freeing the slaves. I meant the idea that the Proclamation was the thing that freed the slaves was the misinterpretation. Thanks for the Informative response and I completely agree that Lincoln was defiantly important as a driving force for the passing of the 13th and 14th amendments.
+
+edit: To clarify Emancipation as a goal for Lincoln at the end of the war.
+##
+That makes more sense, and you're right that saying "And then he freed the slaves" understates how much Emancipation happened because of the choices made by people in the army, people in state governments, people in the federal government, other people in the slave and free states, and the slaves themselves. I just find saying "well, Lincoln didn't free all the slaves with the Emancipation Proclamation" to be uncomfortably close to picking facts out of contexts(even important facts) and using them as "gotcha" history and I hope I didn't inadvertently accuse you of that. Although of course the provision allowing freed slaves to join the Army was itself an important aspect of this process.
+##
+&gt; Moreover The 14th and 15th amendments to the United States Constitution which really did free the slaves were passed and adopted under the Johnston and the Grant administrations.
+
+13th amendment freed the slaves, passed by Congress while Lincoln was alive 
+
+
+##
+Oh sorry got my amendments mixed up. Thanks for the correction. Still although it was passed in 1864 in the Senate and late January in the House of Representatives during Lincoln's presidency, the Union did not have control over all of the Confederacy. Furthermore the Amendment was not adopted until the 18th of December 1865 just over 8 months after Lincoln's death.
+##
+Edit your original comment, it may cause confusion.
+##
+Would he have had a constitutional right to free slaves in the border states? I thought the only reason he had the legal ability to free the slaves in the south was because of the war powers (and even that was under question) but the border states weren't at war with him.
+##
+Let us know if your friend ever publishes anything, that sounds like it would be a very interesting (and somewhat overlooked) area of study.
+##
+[I believe that this pdf contains the text of the letter in question](http://xpknights.net/images/lettertoJeffersonDavis.pdf).  It also includes the letter that the pontiff was responding to, as well as a bit of pontificating from the host.  (I couldn't find another copy, sadly)
+
+Pius IX had a complex reign.  His reign from 1846 to 1878 dealt with a myriad of issues, including the revolutions of 1848 and the unification of Italy.  You are correct in noting that the papacy's holdings had been truncated by the time of the civil war. Basically, Pius IX only held onto Rome at this point, and only due to a contingent of French troops.  This situation ended in 1870 with the fall of France and the resulting fall of Rome, and was only resolved in 1929 with the Lateran Concordat.  
+
+I don't have the time to go into the incredibly complex philosophy of Pius IX at this moment.  Suffice it to say that the North was not seen as friendly to Catholicism, and for good reason.  Also, the level of "support" of the papacy for the Confederacy was minimal at most.  It was exploited for propaganda purposes at the time and continues to be overblown to this day, in my opinion.  
+
+(I think this is coming across more harshly than I mean it to.  I am merely short on time, and I apologize in advance for any offense taken.  None is meant)
+##
+I think you mean 1870 not 1970.
+##
+Bah!  Thank you.
+##
+Oh no, I completely understand. No offense taken at all. As I said, the papacy and Italy are not anywhere near my area of history.
+
+But yes, I could have mentioned more about the anti-Catholic sentiment in America at the time. There was plenty of nativist belief in the North as seen in the Philadelphia Bible Riots of 1844. I find it funny that the Confederate states which pride themselves on this invented heritage of Anglo-Saxon ancestry would use the support of the Pope for propaganda purposes (and neo-Confederates will overstate it as if the papacy was as important as it is today). Even though regions like Theodore Bilbo's Mississippi voted for Roman-Catholic Al Smith in 1928, anti-Catholic sentiment was still extremely strong throughout the country.
+##
+I'm not answering your question directly but I'm providing a source for further research. The vast publication now known as *Foreign Relations of the United States* (FRUS) began being published in 1861. It contains lots of correspondence related to foreign diplomacy over the years. You can find an index of published pre-Kennedy volumes here:
+
+http://history.state.gov/historicaldocuments/pre-kennedy
+
+I'm very happy to see that the University of Wisconsin, my alma mater, seems to have digitized all or the vast majority of these volumes so you don't need access to something like Hein to read them digitally. If you click on an individual volume the links to the digitized copy is there.
+
+The volumes are organized by year and then by country. There's almost too much information but I figure some people may not be familiar with this series and would find exploring it to be interesting.
+##
+This is excellent.  Thank you!
+##
+He tried to prevent the Bank of England from gaining control of the American financial system. Hence the Civil War. What the history books tell you about slaves are cover-up fibs.
+##
+hi! this might be a question more suited to /r/AskAnthropology, but similar questions have been asked here before, so check these threads out for previous responses:
+
+[Why did humans leave warm or temperate zones and migrate to colder climates?](http://www.reddit.com/r/AskHistorians/comments/161ivs/why_did_humans_leave_warm_or_temperate_zones_and/)
+
+[How did people begin to live in cold climates?](http://www.reddit.com/r/AskHistorians/comments/17pzm4/how_did_people_begin_to_live_in_cold_climates/)
+
+[Why did a lot of humans settle in cold climates, when humans are more comfortable in warmer climates?](http://www.reddit.com/r/AskHistorians/comments/1c9xov/why_did_a_lot_of_humans_settle_in_cold_climates/)
+
+[Why didn't the Eskimo and the Dorset people migrate south?](http://www.reddit.com/r/AskHistorians/comments/19ju30/why_didnt_the_eskimo_and_the_dorset_people/)
+
+BTW, a few points re the question: the Inuit migrated laterally from equally-cold Alaska, not from the south. Rather than being displaced, a recent theory is that they migrated eastwards [in pursuit of iron](http://www.nunatsiaqonline.ca/stories/article/98768_new_research_forbears_of_todays_inuit_sought_trade/), where they, the [Thule culture](http://en.wikipedia.org/wiki/Thule_culture), displaced the pre-existing &amp; now-extinct [Dorset culture](http://en.wikipedia.org/wiki/Dorset_culture). 
+##
+I know you are just helpfully directing OP to another relavent subreddit, but your suggestion brings up an interesting question about the limits of a discipline. I'm curious what is the difference between history and anthropology. The OP's question was surely "historical" in a loose sense in that it was about the past, but of course it was about a people who are not part of the western progress project. So to say that it is anthropological does that mean that historians only study the histories of people with written histories and anthropologists only study the history of people without written histories? Historians of pre-colonial Africa would surely disagree. And then what about a study like this: http://www.ucpress.edu/book.php?isbn=9780520254985 Which is quite contemporary and not historical, and done by anthropologists who "otherise" a subset of western society. How does that fit in?
+##
+Instead of thinking of academic disciplines having limits, think of bunch of interlocking Venn diagrams. The way of thinking about what an academic discipline is that I find most convincing is as the set of people and infrastructure and published material.
+
+But to roughly address the particular question you asked, I find it helpful to think of history as placing more emphasis on written sources and consequently more focused on civilisations. This is not to say that historians don't pay attention to all sorts of other evidence about the past.
+
+Anthropology I know much less about, so maybe someone else could give you a better idea of what anthropologists do (maybe at /r/AskAnthropology ;) ); but in short anthropologists apply the methods and concepts of their discipline to study people and their ways of life. Anthropologists can equally study homeless drug addicts in San Francisco or the Aleut and Inuit who hunted marine mammals in the distant past.
+##
+Anthropology is the study of all of humanKIND, including the present (overlapping with sociology and psychology) and all of our past (which includes primate evolution, hence the KIND).  History is NOT the study of our past.  It is the study of the records of our past that we have.  This is the "historical record."  For almost all of history, this means a written record.  
+
+How do things outside the written record become part of history?  Archaeological research, from both an anthropological and/or historical discipline, can cause physical objects that were discovered to be entered into the historical record, especially once these objects have been classified and written about.  Anthropologists writing down oral histories, or conducting field interviews/observations and writing about them, causes those events to enter the historical record.
+
+It's not a simple matter, and there is considerable overlap between history and anthropology, but basically historians limit themselves to what has been written down, except in some instances where they attempt to discover more things to write down (typically in archaeology), although people with those inclinations are more often calling themselves anthropologists as time goes on (anthropology is a MUCH younger field than history, and many young people that would really want to be anthropologists based on their interests and stated goals would just go into history because they were unaware of the real distinctions - I saw this in college a lot with frustrated fellow students in history classes wanting to delve into mysteries well outside the scope of the history they were studying). Anthropology does cover everything that history covers and a whole lot more, but anthropologists tend to stay away from well established written records, because that ground has already been tread well by historians, who tend to focus more deeply on a more narrow sub-field.  
+##
+In much the same ways as chemistry overlaps with biology and physics and sociology overlaps with psychology, and mathematics doing whatever the hell it wants to, anthropology and history just overlap without too much of a clear distinction. The way we divide our disciplines is, for the most part, arbitrary. And naturally, there's plenty of overlap in subreddits too, because those are also arbitrary.
+
+If one day a new discipline becomes popular that studies the language and meaning of ancient text, it will step on history's toes and your definitions would surely be revised, despite the fact that nothing has actually changed about history.
+
+Not sure which person I'm arguing with here, but I thought I'd make that point.
+##
+&gt;If one day a new discipline becomes popular that studies the language and meaning of ancient text, it will step on history's toes and your definitions would surely be revised, despite the fact that nothing has actually changed about history.
+
+Are you joking or have you never heard of philology or historical linguistics?
+##
+I have to take issue with that definition of history. History is about far, far more than the written record. It also certainly isn't just simply waiting for an anthropologist or an archaeologist to write something useful down so that we can study a certain population in a different way. History is inherently interdisciplinary, and the disciplinary differences between history, anthropology, archaeology, etc., are important to understand. But I think it's a vast over-statement to say that capital-H History is just about the written record.
+
+What about oral histories? Those don't fall into the written record unless they've been transcribed, but even then I'm not sure that I'd necessarily think of them as a written record. What about art? Sure, many forms of fine art exist in 2 dimensional space on a piece of canvas or a wall, but what of the forms that don't? Art can tell a great deal about a society, and I don't think that only falls into the discipline of Art-History. Oral traditions? Similar to oral histories, but I think that it's useful to distinguish between the two. Either way, it's an oral record that, unless it is being transcribed by someone, it is not written down.
+
+If historians only pay attention to written texts, even if that includes notes from anthropologists and archaeologists, we will privilege outsiders' perspectives. We have to pay attention to the non-written record because History is not just made up of people who have written things down. It is definitely far, far more than that.
+##
+&gt; History is NOT the study of our past. It is the study of the records of our past that we have.
+
+He didn't limit it to written records. He only stated (later, as a simplification) that this usually means written records.
+
+You are not in disagreement.
+##
+I disagree with your argument. Oral histories are not really history, but pre-historic, and thus in the scope of anthropology. Not history. By definition, history is the study of primary and secondary WRITTEN SOURCES.
+##
+Oral history is by no means pre-historic. Instead, it is a method of collecting from primary sources, i.e. witnesses in a defined manner. If you want to learn more, I suggest you read the [principles and best practices](http://www.oralhistory.org/about/principles-and-practices/) of the Oral History Association.
+##
+&gt; Art can tell a great deal about a society, and I don't think that only falls into the discipline of Art-History.
+
+People who study art to find out more about a (illiterate) society? You mean anthropologists? 
+##
+Art historians?
+##
+He said only part(of it) falls into that category.
+##
+Not OP, but I thought I might give my take on the differences as I have come to understand it.  This might end up being long-winded, so the short answer: **the disciplinary boundaries between history and anthropology can overlap quite a bit, and, in my opinion, they *should*.**  It's complicated, and folks disagree on exactly where the line should be drawn, or even whether there is a line at all.  My answer is coming from the anthropology side of things.
+
+Keep in mind anthropology often is taught as a 4-field discipline in North America, which includes cultural anthropology, linguistic anthropology, biological/evolutionary anthropology, and archaeology (*a la* [Franz Boas](http://en.wikipedia.org/wiki/Franz_Boas), who was kind of a bad-ass, also my username-sake).  As you allude, early (late 19th to mid 20th C) anthropological studies in all subfields focused almost exclusively on 'other,' which were almost always non-Western, illiterate peoples.  Such a focus, while still present (minus the illiterate part), is no longer exclusive.  Like the cultural anthropologists' work you cited, many anthro studies today focus on communities closer to home.  To give an example in which I take particular delight, several American Indian peoples have been trained professionally as archaeologists and now serve in their respective Tribal Historical Preservation Offices. 
+
+I can't imagine a historian's work which wouldn't stand to be informed via "anthropological" studies, just as many anthropologists can potentially learn from historians work.  Being a historical archaeologist, I necessarily use lines of evidence across disciplinary boundaries, with historical records informing material remains, and vice versa.
+
+Though theoretical differences abound in both history and all sub-disciplines of anthropology, it is important to note that anthropology is a social *science*, whereas history is often considered to be part of the humanities (at least in the US).  Of course, the generalization of anthropology as science and history as not-science would be hotly contested by many across both disciplines.  
+##
+The intersection of these disciplines is really interesting but I think this particular issue is far less complex than the other posters here are making out. Ethnocentric us vs. them thinking doesn't really come into it, though that certainly is a problem that cultural anthropology has had to grapple with in the past.
+
+In the vast majority of academic traditions prehistory (i.e. events that happened before there were written records, which the peopling of the Arctic most certainly is) is considered to be the domain of archaeology, not history. In North America archaeology is in turn considered a subfield of anthropology. This is because while historians and archaeologists study the same thing (the human past) they do so in very different ways (written records vs. material remains). The whole business of training, working and producing research as an *archaeologist* is fundamentally different to doing the same as a *historian*. That is of course not to say that one person, regardless of how they were trained, can't be both as they look at different periods and research questions over the course of their career.
+##
+To add on to that, what's the working relationship like between Anthropologists and Historians?
+##
+Your definition of anthropology is quite odd and seems to omit two of its major sub-disciplines (biological anthropology and archaeology), as well as large swathes of cultural anthropology which don't particularly study beliefs (cultural ecology, cultural evolution theory, etc.)
+##
+As a subfield of American anthropology, archaeology can be loosely defined as the study of humans in the past through their material remains.  For some archaeologists, that past might only be from last week (e.g., Rathje's [Tuscon Garbage Project](http://en.wikipedia.org/wiki/Tucson_Garbage_Project)).  Nevertheless, with the exception of post-modernists, most archaeologists consider themselves to be 
+&gt;learning facts about the past. 
+
+I know I do.  And the amount of evidence we need in order to make claims is quite considerable.  Much more so than some of the documentary evidence I have seen historians rely on.  
+
+Of course, you may be talking about anthropology in Europe.  If so, I'm with you there. 
+##
+&gt; where they, the Thule culture, displaced the pre-existing &amp; now-extinct Dorset culture.
+
+"displaced"? So they went to a land, found it rich with resources but already occupied. So their response was to "displace" the natives. Others would say they "stole" the land. Or rather, that is what it would be called years later when others came and "displaced" the Thules.
+##
+The conditions were really good . They had mostly more than enough to hunt with less effort per week than agricultural cultures. Norwegian archeologists  calculated the effort 20hours per week to get food and clothes for hunters in the stone age at , while later agricultural cultures needed at least 40hours. The extreme north never experienced a over exhaustion of resources until the 19th century like the people in the area of Europe. 
+##
+&gt; Norwegian archeologists calculated the effort 20hours per week to get food and clothes for hunters in the stone age at , while later agricultural cultures needed at least 40hours.
+
+For the sake of completeness, can you provide a source for this? It'd be good to see which factors these Norwegian archaeologists were considering for Stone Age cultures in order to see if those factors remained relevant for more recent marine-mammal-hunting peoples of the Arctic.
+
+##
+Maybe this is the one he is referring to?
+
+Lee, Richard B. (1979), The !Kung San: Men, Women, and Work in a Foraging Society. Cambridge: Cambridge University Press.
+
+http://www.amazon.com/The-Kung-San-Foraging-Society/dp/0521295610
+
+
+##
+4 hr a day for Australian Aborigines too. Hunter Gatherer is where its at!
+##
+Not OP, but I found a study that does indicate Inuit people do not spend the majority of their time hunting.
+
+&gt;Approximately 80 hours of searching and hunting were observed during 31 hunting days in the spring of 1993.
+
+There were many more variables discussed, however, including travel and tools/supplies such as ownership of a dog sled.
+
+Source: Furgal, C. M., Innes, S. and Kovacs, K. M. (2002), Inuit spring hunting techniques and local knowledge of the ringed seal in Arctic Bay (Ikpiarjuk), Nunavut. Polar Research, 21: 1–16. doi: 10.1111/j.1751-8369.2002.tb00063.x
+##
+Not the OP, but that study was actually done in Saharan Africa on modern hunter gatherers, one of the most desolate places on earth, and they still had that much free time. Humans are much better suited to hunting than farming if there is enough space. 
+##
+If you're familiar with the study, can you provide a link to it, or at least the name of it? Also, are you sure it's Saharan Africa? That's quite different from the "Stone Age" claimed by the previous poster, and to my (admittedly limited) knowledge of Africa, people in the Sahara region are pastoralists and agriculturalists. Do you know which specific culture was studied?
+##
+I believe this is the book: http://www.amazon.com/The-Kung-San-Foraging-Society/dp/0521295610
+
+The previous poster probably meant "hunter-gatherer" when he said stone age.  The kung san are hunter gatherers, and all humans were hunter-gatherers during the stone age.  These studies of modern hunter-gatherer societies were used to postulate that this method of subsistence is extremely efficient.
+##
+He's talking about the Khoisan people in the Kalahari. 
+##
+It was done in the Kalahari actually. 
+##
+Thanks for the fix!
+##
+Source: Norges Historie Bind1, Aschehaug Forlag (ca. 1976)
+
+They main factor was considered as the rich resources of the sea. They found huge piles (up to many meters) with remains from sea food: birds, fish, robbes etc. 
+
+
+
+##
+Not sourced – copied and pasted from a [political monograph by the Unabomber](http://theanarchistlibrary.org/library/ted-kaczynski-the-truth-about-primitive-life-a-critique-of-anarchoprimitivism). I've deleted it.
+
+For reference, quite apart from his dubious background and political biases, Kaczynski wrote his paper from a prison cell. He didn't have access to, and didn't make use of, the large body of anthropological literature on the "original affluent society" theory. As he says, Lee's original statistics were flawed, but there have been many more studies since. To cut a long story short, how long hunter-gatherers spent working varied immensely from place to place, season to season and period to period.
+##
+Thank you very much for shedding light over this! So is this information right, sedentary societies required at least twice as much work to get the same amount of food as hunter gatherers? That seems a bit counter-intuitive to me...
+##
+It's really hard to give a solid answer to that. Hunter-gatherer societies have existed for tens of thousands of years in just about every corner of the earth. They were all different. We only have indirect evidence on prehistoric hunter-gatherers and in contemporary societies people tend to intersperse their "work" throughout the day and how much they do varies a lot depending on the time of year, whether they're a man or a woman, how old they are, their physical condition, the economic situation, the weather, and so on – making it hard to calculate a precise figure. It also makes a big difference what you count as work: just foraging, or processing, cooking, making weapons for hunting, etc.?  But counter-intuitive as it sounds yes, it is possible that some hunter-gatherers had much more leisure time than farmers and there are some reasonably solid modern case studies where we think this is the case (e.g. the !Kung San).
+##
+For many Inuit it was not really a matter of choice, but rather necessity. Lands further south were already inhabited by other natives. If you read up on Inuit history, you'll find that many of the problems they faced earlier on were a direct consequence of population pressures from within but also from outside.  
+
+Take North America for example. Inuit lived in what is today the Arctic Archipelago and northern coastal areas of Canada. To the south of them were a great many tribes, belonging mostly to the Athapascan (in the west) and Algonquin (in the east) ethnic groups.  On Inuit group, the *Nunatamiut*, inhabited the Mackenzie River area in present-day NWT. They engaged in warfare with their southern neighbors quite often because of demographic pressures or boundary disputes. 
+
+They were a rare exception however. Most Inuit groups wouldn't even be able to fight, as they were chronically undermanned when compared to their southern neighbors. On thing about living in a near-uninhabitable climate is that you can't will raise the demographic strength very easily. People living further south were able to do this much more easily, as they had more food and more people to spare. This meant that winning a battle was tough. And even if you won, you would have to hold the territory. And with a smaller group, that's very difficult. It's a bit of a vicious cycle in that sense. The Inuit didn't have enough people to fight for better lands, and their lands weren't good enough to allow for more people.  
+##
+Did people of this time know that heading south = warmer, or were migrations more a function of who survived and who didn't? (e.g., people migrated in all directions, the ones who headed into favorable conditions survived more).  Did culture play a large role in this?
+##
+&gt; No history needed here, really.
+
+We're looking for substantiated answers in this subreddit. Please don't just speculate.
+##
+I'm not speculating. I'm arguing from my studies in cultural ecology. Pardon me if this subreddit is above some rhetorical means. I didn't know that.
+##
+Can you point me to a scholarly work that demonstrates that the Inuit didn't move south because there was more competition there, and they "knew their shit" in the north? If not, applying that logic to this situation is speculation whether it is drawn from cultural ecology theory or not.
+##
+First of all *speculating* doesn't mean it's worthless. Second of all speculating doesn't mean it's based on nothing. Third of all I didn't speculate, I applied a theory **that has held true and and been accepted by the scientific community for it's predictable powers**. And finally, asking for a scientific article that specifically covers the Inuits and their adaptation to cold from competition's perspective is kind of insane even in our era of internet.
+
+By the way, by your analogy a huge amount of history studies would have *worthless* stamped on them. If you are trying to protect this subreddit from shit I do hope you see the fallacy you are committing. Not everything is history.
+
+But have some articles:
+
+http://en.wikipedia.org/wiki/Competition_(biology)
+
+http://en.wikipedia.org/wiki/Ecological_niche
+
+http://en.wikipedia.org/wiki/Environmental_anthropology
+
+http://en.wikipedia.org/wiki/Cultural_ecology
+
+http://en.wikipedia.org/wiki/Modern_evolutionary_synthesis
+
+http://pubs.aina.ucalgary.ca/arctic/Arctic44-2-139.pdf
+
+http://www.sciencedaily.com/releases/2004/01/040114075853.htm
+
+Biology books (upper secondary school books should have this information if I recall correctly and in such a general way that it is easily understandable).
+
+I'm sorry if that's too much to understand. But hey, trusting a theory is kind of like accepting an idea from a history book. You are not at the source, you are looking at a finished product that conveys an idea. An example would be the quadratic formula: many can't deduce or prove it but we still use it and accept it as it is because if works. While cultural ecology isn't as rigorously defined as mathematics the principles of the analogy apply nonetheless.
+
+The basic idea, though, which again is at the core of synthetic evolution theory, is that less competition is better. If a species can survive in hostile conditions in a way that doesn't prevent them from succeeding as a species (staying alive, healthy and producing offspring that can also stay alive and healthy) then they'll use that ecological niche to their advantage. A group of humans that have genetic alterations that help them survive paired with the knowhow from previous generations can and will easily survive in the cold, as shown with the existence of Inuits. They don't have to fear competition from different tribes because they'd rather stay in the warmer regions.
+
+By no means did this happen like a snap of the fingers but over a period of time. After that, however, not much can remove the knowhow.
+
+But, of course because I was taught these ideas by professor and because not everything is on the internet these ideas don't apply and are all full of shit so why bother, eh?
+##
+I research evolutionary explanations of human behaviour for a living, so the wall of text on basic ecology is as unnecessary as it is irrelevant. Unfortunately it isn't as simple as pretending that "tribes" are biological species. There's the small matter of evidence. Science doesn't work by "trusting" a theory and then throwing it at every situation you think it might stick, you have to test it to see if it actually applies. 
+
+*Assuming* the theory applies isn't science, it's speculation, and while that does have its place in the scientific process, it doesn't have a place in this subreddit. Our rules are very clear that all answers need to be substantiated and you should be prepared to cite your sources if asked. They don't have to be on the internet, a paper reference would be fine.
+
+It's clear to me that you can't substantiate your explanation of why the Inuit stayed in the north. All you have is conjecture that cultural ecology theory might apply. In future, please make sure you can thoroughly and specifically back up your answers in this subreddit before posting. Thank you.
+##
+&gt;I research evolutionary explanations of human behaviour for a living
+
+Yeah, right.
+
+You don't seem to have read the articles I posted (which are only as good as two seconds on a search engine can get you) nor studied the subject if this is your final statement since you seem to have completely skipped the part where I kind of mentioned that synthetic evolution theory and the theory of competition in biology and ecology is a scientifically accepted truth and to which cultural ecology is based on and from which we can conclude that inuits stayed at the colder regions because it suited them.
+
+And so, if we are playing the ball you can show a paper that says the opposite, that competition, basic rules of ecological development and evolution don't apply to Inuits since that is what you claim *on no ground* other than me not providing you with a direct paper that supports the scientifically established truth.
+
+Big words those are, scientifically established truth, but since you are not providing a valid alternative theory that is widely supported by the scientific consensus I hope you can come up with one.
