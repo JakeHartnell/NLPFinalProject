@@ -1,16 +1,16 @@
 import feature_util as nb #used to be native_bayes, which is why it is nb
 import nltk
 import random
+import collections
+import nltk.metrics
 
 #Grab the black list word data
 blacklist = nb.get_blacklist_data('data/blacklist_words')
 
 #get negative comment data as hash, assign val = 1 in hash
-#bad_training_raw = nb.get_comment_data('bad.txt', 1)
 bad_training_raw = nb.grab_comment_data_dir_walk('data/', 'bad', 1)
 
-#get positibe comment data as hash, assign val = -1 in hash
-#good_training_raw = nb.get_comment_data('good.txt', -1)
+#get positive comment data as hash, assign val = -1 in hash
 good_training_raw = nb.grab_comment_data_dir_walk('data/', 'good', -1)
 
 #get heldout data 
@@ -53,7 +53,35 @@ classifier = nltk.NaiveBayesClassifier.train(train_set)
 print "Cross-validated accuracy: %s" % nltk.classify.accuracy(classifier, test_set)
 
 print "Heldout accuracy: %s" % nltk.classify.accuracy(classifier, combined_heldout_sets)
+print
 
+def check_precision_recall_fmeasure(commentList):
+    #checking the precision and recall of the given data set
+    refsets = collections.defaultdict(set)
+    testsets = collections.defaultdict(set)
+
+    # Prepare the lists with the actual tags (-1 or 1) and the classified tags for comparison
+    for i, (feats, label) in enumerate(commentList):
+        # Store actual tags
+        refsets[label].add(i)
+        # Classify
+        observed = classifier.classify(feats)
+        # Store the classfied tags
+        testsets[observed].add(i)
+
+    # Print the precision, recall, and F-measure for positive and negative
+    print 'pos precision:', nltk.metrics.precision(refsets[-1], testsets[-1])
+    print 'pos recall:', nltk.metrics.recall(refsets[-1], testsets[-1])
+    print 'pos F-measure:', nltk.metrics.f_measure(refsets[-1], testsets[-1])
+    print 'neg precision:', nltk.metrics.precision(refsets[1], testsets[1])
+    print 'neg recall:', nltk.metrics.recall(refsets[1], testsets[1])
+    print 'neg F-measure:', nltk.metrics.f_measure(refsets[1], testsets[1])
+    print
+
+print "Test data precision, recall and f-measure"
+check_precision_recall_fmeasure(test_set)
+print "Heldout data precision, recall and f-measure"
+check_precision_recall_fmeasure(combined_heldout_sets)
 
 def classify_with_NB(comment):
     #Given a string of comment
